@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Graph Attention Network for Node Regression on Random Geometric Graphs with Erdős--Rényi contamination**|Somak Laha et.al.|[2601.23239](http://arxiv.org/abs/2601.23239)|null|
+|**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](http://arxiv.org/abs/2601.23233)|null|
+|**2026-01-30**|**Disentangling multispecific antibody function with graph neural networks**|Joshua Southern et.al.|[2601.23212](http://arxiv.org/abs/2601.23212)|null|
+|**2026-01-30**|**Learning to Execute Graph Algorithms Exactly with Graph Neural Networks**|Muhammad Fetrat Qharabagh et.al.|[2601.23207](http://arxiv.org/abs/2601.23207)|null|
 |**2026-01-30**|**Autonomous Chain-of-Thought Distillation for Graph-Based Fraud Detection**|Yuan Li et.al.|[2601.22949](http://arxiv.org/abs/2601.22949)|null|
 |**2026-01-30**|**Scalable Topology-Preserving Graph Coarsening with Graph Collapse**|Xiang Wu et.al.|[2601.22943](http://arxiv.org/abs/2601.22943)|null|
 |**2026-01-30**|**Full-Graph vs. Mini-Batch Training: Comprehensive Analysis from a Batch Size and Fan-Out Size Perspective**|Mengfan Liu et.al.|[2601.22678](http://arxiv.org/abs/2601.22678)|null|
@@ -101,6 +105,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation**|Hongyang Du et.al.|[2601.23286](http://arxiv.org/abs/2601.23286)|null|
+|**2026-01-30**|**Rank Reduction AutoEncoders for Mechanical Design: Advancing Novel and Efficient Data-Driven Topology Optimization**|Ismael Ben-Yelun et.al.|[2601.23269](http://arxiv.org/abs/2601.23269)|null|
+|**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
+|**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
+|**2026-01-30**|**Particle-Guided Diffusion Models for Partial Differential Equations**|Andrew Millard et.al.|[2601.23262](http://arxiv.org/abs/2601.23262)|null|
+|**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](http://arxiv.org/abs/2601.23238)|null|
+|**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](http://arxiv.org/abs/2601.23233)|null|
+|**2026-01-30**|**Solving Inverse Problems with Flow-based Models via Model Predictive Control**|George Webber et.al.|[2601.23231](http://arxiv.org/abs/2601.23231)|null|
+|**2026-01-30**|**Scale-Cascaded Diffusion Models for Super-Resolution in Medical Imaging**|Darshan Thaker et.al.|[2601.23201](http://arxiv.org/abs/2601.23201)|null|
+|**2026-01-30**|**ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought**|Fanmeng Wang et.al.|[2601.23184](http://arxiv.org/abs/2601.23184)|null|
 |**2026-01-30**|**Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation**|Wu Songwei et.al.|[2601.23087](http://arxiv.org/abs/2601.23087)|null|
 |**2026-01-30**|**SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants**|Santanu Subhash Rathod et.al.|[2601.23072](http://arxiv.org/abs/2601.23072)|null|
 |**2026-01-30**|**HierLoc: Hyperbolic Entity Embeddings for Hierarchical Visual Geolocation**|Hari Krishna Gadi et.al.|[2601.23064](http://arxiv.org/abs/2601.23064)|null|
@@ -263,6 +277,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Dynamical density functional theory for dense odd-diffusive fluids**|Iman Abdoli et.al.|[2601.23284](http://arxiv.org/abs/2601.23284)|null|
+|**2026-01-30**|**Inhibiting Conduction by He Mixing in Interiors of Jupiter and Saturn**|Valentin V. Karasiev et.al.|[2601.23152](http://arxiv.org/abs/2601.23152)|null|
+|**2026-01-30**|**Machine Learning for Energy-Performance-aware Scheduling**|Zheyuan Hu et.al.|[2601.23134](http://arxiv.org/abs/2601.23134)|null|
 |**2026-01-30**|**Asymptotic Theory of Iterated Empirical Risk Minimization, with Applications to Active Learning**|Hugo Cui et.al.|[2601.23031](http://arxiv.org/abs/2601.23031)|null|
 |**2026-01-30**|**Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions**|Cheng Ma et.al.|[2601.23002](http://arxiv.org/abs/2601.23002)|null|
 |**2026-01-30**|**Hydrogen at GaN(0001) surface control of Fermi level pinning: Mg activation of p-type conductivity -- Nakamura process deciphered**|Konrad Sakowski et.al.|[2601.22986](http://arxiv.org/abs/2601.22986)|null|
@@ -359,6 +376,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](http://arxiv.org/abs/2601.23233)|null|
 |**2026-01-30**|**Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation**|Wu Songwei et.al.|[2601.23087](http://arxiv.org/abs/2601.23087)|null|
 |**2026-01-30**|**Semantic Leakage from Image Embeddings**|Yiyi Chen et.al.|[2601.22929](http://arxiv.org/abs/2601.22929)|null|
 |**2026-01-30**|**MoVE: Mixture of Value Embeddings -- A New Axis for Scaling Parametric Memory in Autoregressive Models**|Yangyan Li et.al.|[2601.22887](http://arxiv.org/abs/2601.22887)|null|
@@ -449,6 +467,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**FOCUS: DLLMs Know How to Tame Their Compute Bound**|Kaihua Liang et.al.|[2601.23278](http://arxiv.org/abs/2601.23278)|null|
+|**2026-01-30**|**UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection**|Siran Peng et.al.|[2601.23273](http://arxiv.org/abs/2601.23273)|null|
+|**2026-01-30**|**TEON: Tensorized Orthonormalization Beyond Layer-Wise Muon for Large Language Model Pre-Training**|Ruijie Zhang et.al.|[2601.23261](http://arxiv.org/abs/2601.23261)|null|
+|**2026-01-30**|**GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion**|Baoyi Wang et.al.|[2601.23254](http://arxiv.org/abs/2601.23254)|null|
+|**2026-01-30**|**ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search**|Tao Yu et.al.|[2601.23232](http://arxiv.org/abs/2601.23232)|null|
+|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|Xiangyu Zeng et.al.|[2601.23224](http://arxiv.org/abs/2601.23224)|null|
+|**2026-01-30**|**Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training**|Anglin Liu et.al.|[2601.23220](http://arxiv.org/abs/2601.23220)|null|
+|**2026-01-30**|**High-quality generation of dynamic game content via small language models: A proof of concept**|Morten I. K. Munk et.al.|[2601.23206](http://arxiv.org/abs/2601.23206)|null|
+|**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204](http://arxiv.org/abs/2601.23204)|null|
+|**2026-01-30**|**Large Language Models for Patent Classification: Strengths, Trade-offs, and the Long Tail Effect**|Lorenzo Emer et.al.|[2601.23200](http://arxiv.org/abs/2601.23200)|null|
 |**2026-01-30**|**CATTO: Balancing Preferences and Confidence in Language Models**|Nisarg Parikh et.al.|[2601.23096](http://arxiv.org/abs/2601.23096)|null|
 |**2026-01-30**|**Exploring Sidewalk Sheds in New York City through Chatbot Surveys and Human Computer Interaction**|Junyi Li et.al.|[2601.23095](http://arxiv.org/abs/2601.23095)|null|
 |**2026-01-30**|**WiFiPenTester: Advancing Wireless Ethical Hacking with Governed GenAI**|Haitham S. Al-Sinani et.al.|[2601.23092](http://arxiv.org/abs/2601.23092)|null|
