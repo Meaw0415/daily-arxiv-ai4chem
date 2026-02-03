@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-01**|**Metrology-grade mid-infrared spectroscopy for multi-dimensional perception**|Baoqi Shi et.al.|[2602.00958](http://arxiv.org/abs/2602.00958)|null|
+|**2026-01-31**|**GAPNet: Plug-in Jointly Learning Task-Specific Graph for Dynamic Stock Relation**|Yingjie Niu et.al.|[2602.00888](http://arxiv.org/abs/2602.00888)|null|
+|**2026-01-31**|**Towards Multiscale Graph-based Protein Learning with Geometric Secondary Structural Motifs**|Shih-Hsin Wang et.al.|[2602.00862](http://arxiv.org/abs/2602.00862)|null|
+|**2026-01-31**|**AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance**|Seungkwan Kang et.al.|[2602.00803](http://arxiv.org/abs/2602.00803)|null|
+|**2026-01-31**|**A New Workflow for Materials Discovery Bridging the Gap Between Experimental Databases and Graph Neural Networks**|Brandon Schoener et.al.|[2602.00756](http://arxiv.org/abs/2602.00756)|null|
+|**2026-01-31**|**GraphNNK -- Graph Classification and Interpretability**|Zeljko Bolevic et.al.|[2602.00753](http://arxiv.org/abs/2602.00753)|null|
+|**2026-01-31**|**Kernelized Edge Attention: Addressing Semantic Attention Blurring in Temporal Graph Neural Networks**|Govind Waghmare et.al.|[2602.00596](http://arxiv.org/abs/2602.00596)|null|
+|**2026-01-31**|**RAG-GNN: Integrating Retrieved Knowledge with Graph Neural Networks for Precision Medicine**|Hasi Hays et.al.|[2602.00586](http://arxiv.org/abs/2602.00586)|null|
+|**2026-01-30**|**Fed-Listing: Federated Label Distribution Inference in Graph Neural Networks**|Suprim Nakarmi et.al.|[2602.00407](http://arxiv.org/abs/2602.00407)|null|
+|**2026-01-30**|**Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection**|Kunal Mukherjee et.al.|[2602.00318](http://arxiv.org/abs/2602.00318)|null|
 |**2026-01-30**|**Graph Attention Network for Node Regression on Random Geometric Graphs with Erdős--Rényi contamination**|Somak Laha et.al.|[2601.23239](http://arxiv.org/abs/2601.23239)|null|
 |**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](http://arxiv.org/abs/2601.23233)|null|
 |**2026-01-30**|**Disentangling multispecific antibody function with graph neural networks**|Joshua Southern et.al.|[2601.23212](http://arxiv.org/abs/2601.23212)|null|
@@ -94,6 +104,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-01**|**HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving**|Weizhe Tang et.al.|[2602.00993](http://arxiv.org/abs/2602.00993)|null|
+|**2026-02-01**|**Multimodal Scientific Learning Beyond Diffusions and Flows**|Leonardo Ferreira Guilhoto et.al.|[2602.00960](http://arxiv.org/abs/2602.00960)|null|
+|**2026-01-31**|**UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation**|Zhiyuan Wu et.al.|[2602.00915](http://arxiv.org/abs/2602.00915)|null|
+|**2026-01-31**|**A Graph-based Framework for Coverage Analysis in Autonomous Driving**|Thomas Muehlenstädt et.al.|[2602.00903](http://arxiv.org/abs/2602.00903)|null|
+|**2026-01-31**|**DIAMOND: Directed Inference for Artifact Mitigation in Flow Matching Models**|Alicja Polowczyk et.al.|[2602.00883](http://arxiv.org/abs/2602.00883)|null|
+|**2026-01-31**|**Improving Flow Matching by Aligning Flow Divergence**|Yuhao Huang et.al.|[2602.00869](http://arxiv.org/abs/2602.00869)|null|
+|**2026-01-31**|**RMFlow: Refined Mean Flow by a Noise-Injection Step for Multimodal Generation**|Yuhao Huang et.al.|[2602.00849](http://arxiv.org/abs/2602.00849)|null|
+|**2026-01-31**|**Physics-informed Diffusion Mamba Transformer for Real-world Driving**|Hang Zhou et.al.|[2602.00808](http://arxiv.org/abs/2602.00808)|null|
+|**2026-01-31**|**Zero-Flow Encoders**|Yakun Wang et.al.|[2602.00797](http://arxiv.org/abs/2602.00797)|null|
+|**2026-01-31**|**Sporadic Gradient Tracking over Directed Graphs: A Theoretical Perspective on Decentralized Federated Learning**|Shahryar Zehtabi et.al.|[2602.00791](http://arxiv.org/abs/2602.00791)|null|
 |**2026-01-30**|**VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation**|Hongyang Du et.al.|[2601.23286](http://arxiv.org/abs/2601.23286)|null|
 |**2026-01-30**|**Rank Reduction AutoEncoders for Mechanical Design: Advancing Novel and Efficient Data-Driven Topology Optimization**|Ismael Ben-Yelun et.al.|[2601.23269](http://arxiv.org/abs/2601.23269)|null|
 |**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
@@ -199,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**SayNext-Bench: Why Do LLMs Struggle with Next-Utterance Prediction?**|Yueyi Yang et.al.|[2602.00327](http://arxiv.org/abs/2602.00327)|null|
 |**2026-01-30**|**Local-Global Multimodal Contrastive Learning for Molecular Property Prediction**|Xiayu Liu et.al.|[2601.22610](http://arxiv.org/abs/2601.22610)|null|
 |**2026-01-29**|**From Particles to Agents: Hallucination as a Metric for Cognitive Friction in Spatial Simulation**|Javier Argota Sánchez-Vaquerizo et.al.|[2601.21977](http://arxiv.org/abs/2601.21977)|null|
 |**2026-01-27**|**Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes**|Yan Zhang et.al.|[2601.20043](http://arxiv.org/abs/2601.20043)|null|
@@ -260,6 +281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-31**|**Learning Abstractions for Hierarchical Planning in Program-Synthesis Agents**|Zergham Ahmed et.al.|[2602.00929](http://arxiv.org/abs/2602.00929)|null|
+|**2026-01-31**|**Ferroelectric quantum critical point in superconducting hydrides: The case of H $_3$ S**|Marco Cherubini et.al.|[2602.00833](http://arxiv.org/abs/2602.00833)|null|
+|**2026-01-31**|**Multi-Objective Multi-Fidelity Bayesian Optimization with Causal Priors**|Md Abir Hossen et.al.|[2602.00788](http://arxiv.org/abs/2602.00788)|null|
+|**2026-01-31**|**Combinatorial Bandit Bayesian Optimization for Tensor Outputs**|Jingru Huang et.al.|[2602.00640](http://arxiv.org/abs/2602.00640)|null|
+|**2026-01-31**|**Entanglement-Dependent Error Bounds for Hamiltonian Simulation**|Prateek P. Kulkarni et.al.|[2602.00555](http://arxiv.org/abs/2602.00555)|null|
+|**2026-01-31**|**First-Principles Optical Descriptors and Hybrid Classical-Quantum Classification of Er-Doped CaF $_2$**|David Angel Alba Bonilla et.al.|[2602.00525](http://arxiv.org/abs/2602.00525)|null|
+|**2026-01-31**|**Harnessing the Peripheral Surface Information Entropy from Globular Protein-Peptide Complexes**|Tyler Grear et.al.|[2602.00498](http://arxiv.org/abs/2602.00498)|null|
+|**2026-01-31**|**Upward band gap bowing and negative mixing enthalpy in multi-component cubic halide perovskite alloys**|Xiuwen Zhang et.al.|[2602.00444](http://arxiv.org/abs/2602.00444)|null|
+|**2026-01-31**|**Ammonia Catalyst Evolution Under Reactor Conditions Revealed by Environmental and Multimodal Electron Microscopy**|Amy S. McKeown-Green et.al.|[2602.00433](http://arxiv.org/abs/2602.00433)|null|
+|**2026-01-30**|**Interatomic potentials for platinum**|R. K. Koju et.al.|[2602.00379](http://arxiv.org/abs/2602.00379)|null|
 |**2026-01-30**|**Dynamical density functional theory for dense odd-diffusive fluids**|Iman Abdoli et.al.|[2601.23284](http://arxiv.org/abs/2601.23284)|null|
 |**2026-01-30**|**Inhibiting Conduction by He Mixing in Interiors of Jupiter and Saturn**|Valentin V. Karasiev et.al.|[2601.23152](http://arxiv.org/abs/2601.23152)|null|
 |**2026-01-30**|**Machine Learning for Energy-Performance-aware Scheduling**|Zheyuan Hu et.al.|[2601.23134](http://arxiv.org/abs/2601.23134)|null|
@@ -357,6 +388,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-31**|**Controlling Repetition in Protein Language Models**|Jiahao Zhang et.al.|[2602.00782](http://arxiv.org/abs/2602.00782)|null|
+|**2026-01-31**|**Can Vision-Language Models Handle Long-Context Code? An Empirical Study on Visual Compression**|Jianping Zhong et.al.|[2602.00746](http://arxiv.org/abs/2602.00746)|null|
+|**2026-01-31**|**Revising Bloom's Taxonomy for Dual-Mode Cognition in Human-AI Systems: The Augmented Cognition Framework**|Kayode P. Ayodele et.al.|[2602.00697](http://arxiv.org/abs/2602.00697)|null|
+|**2026-01-31**|**Fanciful Figurines flip Free Flood-It -- Polynomial-Time Miniature Painting on Co-gem-free Graphs**|Christian Rosenke et.al.|[2602.00690](http://arxiv.org/abs/2602.00690)|null|
+|**2026-01-31**|**Schrödinger-Inspired Time-Evolution for 4D Deformation Forecasting**|Ahsan Raza Siyal et.al.|[2602.00661](http://arxiv.org/abs/2602.00661)|null|
+|**2026-01-31**|**Structured Self-Consistency:A Multi-Task Evaluation of LLMs on VirtualHome**|Jiaqi Xu et.al.|[2602.00611](http://arxiv.org/abs/2602.00611)|null|
+|**2026-01-31**|**Edit Content, Preserve Acoustics: Imperceptible Text-Based Speech Editing via Self-Consistency Rewards**|Yong Ren et.al.|[2602.00560](http://arxiv.org/abs/2602.00560)|null|
+|**2026-01-31**|**AIRE-Prune: Asymptotic Impulse-Response Energy for State Pruning in State Space Models**|Apurba Prasad Padhy et.al.|[2602.00534](http://arxiv.org/abs/2602.00534)|null|
+|**2026-01-31**|**NEST: Nested Event Stream Transformer for Sequences of Multisets**|Minghui Sun et.al.|[2602.00520](http://arxiv.org/abs/2602.00520)|null|
+|**2026-01-31**|**Harnessing the Peripheral Surface Information Entropy from Globular Protein-Peptide Complexes**|Tyler Grear et.al.|[2602.00498](http://arxiv.org/abs/2602.00498)|null|
 |**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](http://arxiv.org/abs/2601.23233)|null|
 |**2026-01-30**|**Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation**|Wu Songwei et.al.|[2601.23087](http://arxiv.org/abs/2601.23087)|null|
 |**2026-01-30**|**Semantic Leakage from Image Embeddings**|Yiyi Chen et.al.|[2601.22929](http://arxiv.org/abs/2601.22929)|null|
@@ -446,6 +487,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-01**|**How RLHF Amplifies Sycophancy**|Itai Shapira et.al.|[2602.01002](http://arxiv.org/abs/2602.01002)|null|
+|**2026-02-01**|**Reliable Use of Lemmas via Eligibility Reasoning and Section $-$ Aware Reinforcement Learning**|Zhikun Xu et.al.|[2602.00998](http://arxiv.org/abs/2602.00998)|null|
+|**2026-02-01**|**Error Taxonomy-Guided Prompt Optimization**|Mayank Singh et.al.|[2602.00997](http://arxiv.org/abs/2602.00997)|null|
+|**2026-02-01**|**Reasoning and Tool-use Compete in Agentic RL:From Quantifying Interference to Disentangled Tuning**|Yu Li et.al.|[2602.00994](http://arxiv.org/abs/2602.00994)|null|
+|**2026-02-01**|**Sparse Reward Subsystem in Large Language Models**|Guowei Xu et.al.|[2602.00986](http://arxiv.org/abs/2602.00986)|null|
+|**2026-02-01**|**DISPO: Enhancing Training Efficiency and Stability in Reinforcement Learning for Large Language Model Mathematical Reasoning**|Batuhan K. Karaman et.al.|[2602.00983](http://arxiv.org/abs/2602.00983)|null|
+|**2026-02-01**|**GradingAttack: Attacking Large Language Models Towards Short Answer Grading Ability**|Xueyi Li et.al.|[2602.00979](http://arxiv.org/abs/2602.00979)|null|
+|**2026-02-01**|**Trust in One Round: Confidence Estimation for Large Language Models via Structural Signals**|Pengyue Yang et.al.|[2602.00977](http://arxiv.org/abs/2602.00977)|null|
+|**2026-02-01**|**Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning**|Meng Luo et.al.|[2602.00971](http://arxiv.org/abs/2602.00971)|null|
+|**2026-02-01**|**Verification Required: The Impact of Information Credibility on AI Persuasion**|Saaduddin Mahmud et.al.|[2602.00970](http://arxiv.org/abs/2602.00970)|null|
 |**2026-01-30**|**FOCUS: DLLMs Know How to Tame Their Compute Bound**|Kaihua Liang et.al.|[2601.23278](http://arxiv.org/abs/2601.23278)|null|
 |**2026-01-30**|**UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection**|Siran Peng et.al.|[2601.23273](http://arxiv.org/abs/2601.23273)|null|
 |**2026-01-30**|**TEON: Tensorized Orthonormalization Beyond Layer-Wise Muon for Large Language Model Pre-Training**|Ruijie Zhang et.al.|[2601.23261](http://arxiv.org/abs/2601.23261)|null|
