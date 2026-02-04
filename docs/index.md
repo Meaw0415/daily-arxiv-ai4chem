@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network**|Abdul Joseph Fofanah et.al.|[2602.03808](http://arxiv.org/abs/2602.03808)|null|
+|**2026-02-03**|**Data-Driven Graph Filters via Adaptive Spectral Shaping**|Dylan Sandfelder et.al.|[2602.03698](http://arxiv.org/abs/2602.03698)|null|
 |**2026-02-03**|**Acceleration of Atomistic NEGF: Algorithms, Parallelization, and Machine Learning**|Mathieu Luisier et.al.|[2602.03438](http://arxiv.org/abs/2602.03438)|null|
 |**2026-02-03**|**Impact of Local Descriptors Derived from Machine Learning Potentials in Graph Neural Networks for Molecular Property Prediction**|Ryoichi Uchiyama et.al.|[2602.03046](http://arxiv.org/abs/2602.03046)|null|
 |**2026-02-02**|**Eidolon: A Practical Post-Quantum Signature Scheme Based on k-Colorability in the Age of Graph Neural Networks**|Asmaa Cherkaoui et.al.|[2602.02689](http://arxiv.org/abs/2602.02689)|null|
@@ -118,6 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion**|Oscar Ovanger et.al.|[2602.03817](http://arxiv.org/abs/2602.03817)|null|
+|**2026-02-03**|**BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks**|Yixiang Chen et.al.|[2602.03793](http://arxiv.org/abs/2602.03793)|null|
+|**2026-02-03**|**Should I use Synthetic Data for That? An Analysis of the Suitability of Synthetic Data for Data Sharing and Augmentation**|Bogdan Kulynych et.al.|[2602.03791](http://arxiv.org/abs/2602.03791)|null|
+|**2026-02-03**|**Fast Sampling for Flows and Diffusions with Lazy and Point Mass Stochastic Interpolants**|Gabriel Damsholt et.al.|[2602.03789](http://arxiv.org/abs/2602.03789)|null|
+|**2026-02-03**|**Inference-time Unlearning Using Conformal Prediction**|Somnath Basu Roy Chowdhury et.al.|[2602.03787](http://arxiv.org/abs/2602.03787)|null|
+|**2026-02-03**|**DiffLOB: Diffusion Models for Counterfactual Generation in Limit Order Books**|Zhuohan Wang et.al.|[2602.03776](http://arxiv.org/abs/2602.03776)|null|
+|**2026-02-03**|**Reasoning with Latent Tokens in Diffusion Language Models**|Andre He et.al.|[2602.03769](http://arxiv.org/abs/2602.03769)|null|
+|**2026-02-03**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
+|**2026-02-03**|**Test-Time Conditioning with Representation-Aligned Visual Features**|Nicolas Sereyjol-Garros et.al.|[2602.03753](http://arxiv.org/abs/2602.03753)|null|
+|**2026-02-03**|**Efficient Variance-reduced Estimation from Generative EHR Models: The SCOPE and REACH Estimators**|Luke Solo et.al.|[2602.03730](http://arxiv.org/abs/2602.03730)|null|
 |**2026-02-03**|**Self-Verification Dilemma: Experience-Driven Suppression of Overused Checking in LLM Reasoning**|Quanyu Long et.al.|[2602.03485](http://arxiv.org/abs/2602.03485)|null|
 |**2026-02-03**|**Score-based diffusion models for diffuse optical tomography with uncertainty quantification**|Fabian Schneider et.al.|[2602.03449](http://arxiv.org/abs/2602.03449)|null|
 |**2026-02-03**|**Hierarchical Concept-to-Appearance Guidance for Multi-Subject Image Generation**|Yijia Xu et.al.|[2602.03448](http://arxiv.org/abs/2602.03448)|null|
@@ -280,6 +292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Reducing acquisition time and radiation damage: data-driven subsampling for spectro-microscopy**|Maike Meier et.al.|[2602.03744](http://arxiv.org/abs/2602.03744)|null|
+|**2026-02-03**|**When Single Answer Is Not Enough: Rethinking Single-Step Retrosynthesis Benchmarks for LLMs**|Bogdan Zagribelnyy et.al.|[2602.03554](http://arxiv.org/abs/2602.03554)|null|
 |**2026-02-03**|**Bayesian Conformal Prediction as a Decision Risk Problem**|Fanyi Wu et.al.|[2602.03331](http://arxiv.org/abs/2602.03331)|null|
 |**2026-02-02**|**ChemDCAT-AP: Enabling Semantic Interoperability with a Contextual Extension of DCAT-AP**|Philip Stroemert et.al.|[2602.01822](http://arxiv.org/abs/2602.01822)|null|
 |**2026-01-30**|**Synthesis of Monolayer Ice on a Hydrophobic Metal Surface**|Qiaoxiao Zhao et.al.|[2601.22460](http://arxiv.org/abs/2601.22460)|null|
@@ -319,6 +333,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Ab initio Phase Diagram of Ta2O5**|Yan Gong et.al.|[2602.03649](http://arxiv.org/abs/2602.03649)|null|
+|**2026-02-03**|**Explanations Leak: Membership Inference with Differential Privacy and Active Learning Defense**|Fatima Ezzeddine et.al.|[2602.03611](http://arxiv.org/abs/2602.03611)|null|
+|**2026-02-03**|**Evidence for Many-Body States in NiPS $_3$ Revealed by Angle-Resolved Photoelectron Spectroscopy**|Miłosz Rybak et.al.|[2602.03600](http://arxiv.org/abs/2602.03600)|null|
+|**2026-02-03**|**Radial gradient of superionic hydrogen in Earth's inner core**|Zepeng Wu et.al.|[2602.03509](http://arxiv.org/abs/2602.03509)|null|
 |**2026-02-03**|**Acceleration of Atomistic NEGF: Algorithms, Parallelization, and Machine Learning**|Mathieu Luisier et.al.|[2602.03438](http://arxiv.org/abs/2602.03438)|null|
 |**2026-02-03**|**Single-Atom Adsorption on h-BN along the Periodic Table of Elements: From Pristine Surface to Vacancy-Engineered Sites**|Ana S. Dobrota et.al.|[2602.03424](http://arxiv.org/abs/2602.03424)|null|
 |**2026-02-03**|**Direct nanoscale mapping of band alignment in single-layer semiconducting lateral heterojunctions**|Chakradhar Sahoo et.al.|[2602.03321](http://arxiv.org/abs/2602.03321)|null|
@@ -446,6 +464,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving**|Yesom Park et.al.|[2602.03816](http://arxiv.org/abs/2602.03816)|null|
+|**2026-02-03**|**Generative AI for Enzyme Design and Biocatalysis**|Lasse Middendorf et.al.|[2602.03779](http://arxiv.org/abs/2602.03779)|null|
+|**2026-02-03**|**Footprints of the Walking of Numbers: A Dynamic Visualization Task for Understanding Decimal Numbers in Secondary Education**|Felix De la Cruz Serrano et.al.|[2602.03679](http://arxiv.org/abs/2602.03679)|null|
+|**2026-02-03**|**Sequential Group Composition: A Window into the Mechanics of Deep Learning**|Giovanni Luca Marchetti et.al.|[2602.03655](http://arxiv.org/abs/2602.03655)|null|
+|**2026-02-03**|**Multi-Objective Optimization for Synthetic-to-Real Style Transfer**|Estelle Chigot et.al.|[2602.03625](http://arxiv.org/abs/2602.03625)|null|
 |**2026-02-03**|**A Minimal Task Reveals Emergent Path Integration and Object-Location Binding in a Predictive Sequence Model**|Linda Ariel Ventura et.al.|[2602.03490](http://arxiv.org/abs/2602.03490)|null|
 |**2026-02-03**|**Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL**|Jinwoo Choi et.al.|[2602.03389](http://arxiv.org/abs/2602.03389)|null|
 |**2026-02-03**|**Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection**|Dongwon Jo et.al.|[2602.03216](http://arxiv.org/abs/2602.03216)|null|
@@ -565,6 +588,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL**|Erfan Miahi et.al.|[2602.03839](http://arxiv.org/abs/2602.03839)|null|
+|**2026-02-03**|**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**|David P. Woodruff et.al.|[2602.03837](http://arxiv.org/abs/2602.03837)|null|
+|**2026-02-03**|**Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning**|Dingkun Zhang et.al.|[2602.03815](http://arxiv.org/abs/2602.03815)|null|
+|**2026-02-03**|**Conformal Thinking: Risk Control for Reasoning on a Compute Budget**|Xi Wang et.al.|[2602.03814](http://arxiv.org/abs/2602.03814)|null|
+|**2026-02-03**|**Antidistillation Fingerprinting**|Yixuan Even Xu et.al.|[2602.03812](http://arxiv.org/abs/2602.03812)|null|
+|**2026-02-03**|**Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation**|Ziru Chen et.al.|[2602.03806](http://arxiv.org/abs/2602.03806)|null|
+|**2026-02-03**|**Context Compression via Explicit Information Transmission**|Jiangnan Ye et.al.|[2602.03784](http://arxiv.org/abs/2602.03784)|null|
+|**2026-02-03**|**Efficient Estimation of Kernel Surrogate Models for Task Attribution**|Zhenshuo Zhang et.al.|[2602.03783](http://arxiv.org/abs/2602.03783)|null|
+|**2026-02-03**|**QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization**|Yuhao Xu et.al.|[2602.03782](http://arxiv.org/abs/2602.03782)|null|
+|**2026-02-03**|**A Scene Graph Backed Approach to Open Set Semantic Mapping**|Martin Günther et.al.|[2602.03781](http://arxiv.org/abs/2602.03781)|null|
 |**2026-02-03**|**Lookahead Path Likelihood Optimization for Diffusion LLMs**|Xuejie Liu et.al.|[2602.03496](http://arxiv.org/abs/2602.03496)|null|
 |**2026-02-03**|**IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning**|Haohao Luo et.al.|[2602.03468](http://arxiv.org/abs/2602.03468)|null|
 |**2026-02-03**|**Quantum Circuit Generation via test-time learning with large language models**|Adriano Macarone-Palmieri et.al.|[2602.03466](http://arxiv.org/abs/2602.03466)|null|
