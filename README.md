@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**DMFlow: Disordered Materials Generation by Flow Matching**|Liming Wu et.al.|[2602.04734](http://arxiv.org/abs/2602.04734)|null|
+|**2026-02-04**|**Towards Understanding and Avoiding Limitations of Convolutions on Graphs**|Andreas Roth et.al.|[2602.04709](http://arxiv.org/abs/2602.04709)|null|
 |**2026-02-04**|**RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness**|Sisi Yuan et.al.|[2602.04637](http://arxiv.org/abs/2602.04637)|null|
 |**2026-02-04**|**Training A Foundation Model to Represent Graphs as Vectors**|Qi Feng et.al.|[2602.04244](http://arxiv.org/abs/2602.04244)|null|
 |**2026-02-03**|**DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks**|Aijie Shu et.al.|[2602.03981](http://arxiv.org/abs/2602.03981)|null|
@@ -134,6 +136,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Laminating Representation Autoencoders for Efficient Diffusion**|Ramón Calvo-González et.al.|[2602.04873](http://arxiv.org/abs/2602.04873)|null|
+|**2026-02-04**|**El Agente Estructural: An Artificially Intelligent Molecular Editor**|Changhyeok Choi et.al.|[2602.04849](http://arxiv.org/abs/2602.04849)|null|
+|**2026-02-04**|**Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning**|Joydeep Chandra et.al.|[2602.04821](http://arxiv.org/abs/2602.04821)|null|
+|**2026-02-04**|**X2HDR: HDR Image Generation in a Perceptually Uniform Space**|Ronghuan Wu et.al.|[2602.04814](http://arxiv.org/abs/2602.04814)|null|
+|**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|null|
+|**2026-02-04**|**Dynamical Regimes of Multimodal Diffusion Models**|Emil Albrychiewicz et.al.|[2602.04780](http://arxiv.org/abs/2602.04780)|null|
+|**2026-02-04**|**Generative Modeling via Drifting**|Mingyang Deng et.al.|[2602.04770](http://arxiv.org/abs/2602.04770)|null|
+|**2026-02-04**|**Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation**|Buddhi Wijenayake et.al.|[2602.04749](http://arxiv.org/abs/2602.04749)|null|
+|**2026-02-04**|**DMFlow: Disordered Materials Generation by Flow Matching**|Liming Wu et.al.|[2602.04734](http://arxiv.org/abs/2602.04734)|null|
 |**2026-02-04**|**ERNIE 5.0 Technical Report**|Haifeng Wang et.al.|[2602.04705](http://arxiv.org/abs/2602.04705)|null|
 |**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|null|
 |**2026-02-04**|**Covariate Selection for Joint Latent Space Modeling of Sparse Network Data**|Emma G Crenshaw et.al.|[2602.04682](http://arxiv.org/abs/2602.04682)|null|
@@ -365,6 +376,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures**|Ryan Liu et.al.|[2602.04861](http://arxiv.org/abs/2602.04861)|null|
+|**2026-02-04**|**El Agente Quntur: A research collaborator agent for quantum chemistry**|Juan B. Pérez-Sánchez et.al.|[2602.04850](http://arxiv.org/abs/2602.04850)|null|
+|**2026-02-04**|**El Agente Estructural: An Artificially Intelligent Molecular Editor**|Changhyeok Choi et.al.|[2602.04849](http://arxiv.org/abs/2602.04849)|null|
+|**2026-02-04**|**Enabling large-scale digital quantum simulations with superconducting qubits**|Laurin E. Fischer et.al.|[2602.04719](http://arxiv.org/abs/2602.04719)|null|
 |**2026-02-04**|**Structures of iron and cobalt bimetallic clusters for optimized chemical vapor deposition growth of single-walled carbon nanotubes**|Qingmei Hu et.al.|[2602.04606](http://arxiv.org/abs/2602.04606)|null|
 |**2026-02-04**|**PersoPilot: An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation**|Saleh Afzoon et.al.|[2602.04540](http://arxiv.org/abs/2602.04540)|null|
 |**2026-02-04**|**An Efficient Bayesian Framework for Inverse Problems via Optimization and Inversion: Surrogate Modeling, Parameter Inference, and Uncertainty Quantification**|Mihaela Chiappetta et.al.|[2602.04537](http://arxiv.org/abs/2602.04537)|null|
@@ -508,6 +523,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
+|**2026-02-04**|**Continuous eigenvalues of minimal subshifts via S-adic representations**|Valérie Berthé et.al.|[2602.04833](http://arxiv.org/abs/2602.04833)|null|
+|**2026-02-04**|**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**|Yue Ding et.al.|[2602.04804](http://arxiv.org/abs/2602.04804)|null|
+|**2026-02-04**|**Bounded-Abstention Multi-horizon Time-series Forecasting**|Luca Stradiotti et.al.|[2602.04714](http://arxiv.org/abs/2602.04714)|null|
 |**2026-02-04**|**AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation**|Jin-Chuan Shi et.al.|[2602.04672](http://arxiv.org/abs/2602.04672)|null|
 |**2026-02-04**|**RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness**|Sisi Yuan et.al.|[2602.04637](http://arxiv.org/abs/2602.04637)|null|
 |**2026-02-04**|**Beyond Holistic Scores: Automatic Trait-Based Quality Scoring of Argumentative Essays**|Lucile Favero et.al.|[2602.04604](http://arxiv.org/abs/2602.04604)|null|
@@ -642,6 +661,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
+|**2026-02-04**|**Subliminal Effects in Your Data: A General Mechanism via Log-Linearity**|Ishaq Aden-Ali et.al.|[2602.04863](http://arxiv.org/abs/2602.04863)|null|
+|**2026-02-04**|**CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation**|Zhao Tong et.al.|[2602.04856](http://arxiv.org/abs/2602.04856)|null|
+|**2026-02-04**|**Decomposed Prompting Does Not Fix Knowledge Gaps, But Helps Models Say "I Don't Know"**|Dhruv Madhwal et.al.|[2602.04853](http://arxiv.org/abs/2602.04853)|null|
+|**2026-02-04**|**Horizon-LM: A RAM-Centric Architecture for LLM Training**|Zhengqing Yuan et.al.|[2602.04816](http://arxiv.org/abs/2602.04816)|null|
+|**2026-02-04**|**Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**|Shubham Vatsal et.al.|[2602.04813](http://arxiv.org/abs/2602.04813)|null|
+|**2026-02-04**|**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**|Yue Ding et.al.|[2602.04804](http://arxiv.org/abs/2602.04804)|null|
+|**2026-02-04**|**Team, Then Trim: An Assembly-Line LLM Framework for High-Quality Tabular Data Generation**|Congjing Zhang et.al.|[2602.04785](http://arxiv.org/abs/2602.04785)|null|
 |**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693](http://arxiv.org/abs/2602.04693)|null|
 |**2026-02-04**|**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**|Dongchao Yang et.al.|[2602.04683](http://arxiv.org/abs/2602.04683)|null|
 |**2026-02-04**|**Overstating Attitudes, Ignoring Networks: LLM Biases in Simulating Misinformation Susceptibility**|Eun Cheol Choi et.al.|[2602.04674](http://arxiv.org/abs/2602.04674)|null|
