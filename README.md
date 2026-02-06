@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Breaking Symmetry Bottlenecks in GNN Readouts**|Mouad Talhi et.al.|[2602.05950](http://arxiv.org/abs/2602.05950)|null|
 |**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|Seyedmasoud Mousavi et.al.|[2602.05861](http://arxiv.org/abs/2602.05861)|null|
 |**2026-02-05**|**Interpreting Manifolds and Graph Neural Embeddings from Internet of Things Traffic Flows**|Enrique Feito-Casares et.al.|[2602.05817](http://arxiv.org/abs/2602.05817)|null|
 |**2026-02-05**|**STProtein: predicting spatial protein expression from multi-omics data**|Zhaorui Jiang et.al.|[2602.05811](http://arxiv.org/abs/2602.05811)|null|
@@ -146,6 +147,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold**|Ye He et.al.|[2602.06021](http://arxiv.org/abs/2602.06021)|null|
+|**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Ruihang Li et.al.|[2602.06013](http://arxiv.org/abs/2602.06013)|null|
+|**2026-02-05**|**Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps**|Peter Holderrieth et.al.|[2602.05993](http://arxiv.org/abs/2602.05993)|null|
+|**2026-02-05**|**RISE-Video: Can Video Generators Decode Implicit World Rules?**|Mingxin Liu et.al.|[2602.05986](http://arxiv.org/abs/2602.05986)|null|
+|**2026-02-05**|**LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation**|Mirlan Karimov et.al.|[2602.05966](http://arxiv.org/abs/2602.05966)|null|
+|**2026-02-05**|**Discrete diffusion samplers and bridges: Off-policy algorithms and applications in latent spaces**|Arran Carter et.al.|[2602.05961](http://arxiv.org/abs/2602.05961)|null|
+|**2026-02-05**|**Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching**|Junwan Kim et.al.|[2602.05951](http://arxiv.org/abs/2602.05951)|null|
+|**2026-02-05**|**Orthogonal Model Merging**|Sihan Yang et.al.|[2602.05943](http://arxiv.org/abs/2602.05943)|null|
+|**2026-02-05**|**Platform and Framework for Time-Resolved Nanoscale Thermal Transport Measurements in STEM**|Mairi McCauley et.al.|[2602.05911](http://arxiv.org/abs/2602.05911)|null|
 |**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|Seyedmasoud Mousavi et.al.|[2602.05861](http://arxiv.org/abs/2602.05861)|null|
 |**2026-02-05**|**Self-Supervised Learning with a Multi-Task Latent Space Objective**|Pierre-François De Plaen et.al.|[2602.05845](http://arxiv.org/abs/2602.05845)|null|
 |**2026-02-05**|**Synthesizing Realistic Test Data without Breaking Privacy**|Laura Plein et.al.|[2602.05833](http://arxiv.org/abs/2602.05833)|null|
@@ -398,6 +409,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics**|Saad Yousuf et.al.|[2602.05931](http://arxiv.org/abs/2602.05931)|null|
 |**2026-02-05**|**AMDAT: An Open-Source Molecular Dynamics Analysis Toolkit for Supercooled Liquids, Glass-Forming Materials, and Complex Fluids**|Pierre Kawak et.al.|[2602.05865](http://arxiv.org/abs/2602.05865)|null|
 |**2026-02-05**|**Generalized Path Reweighting and History-Dependent Free Energies**|Titus S. van Erp et.al.|[2602.05793](http://arxiv.org/abs/2602.05793)|null|
 |**2026-02-05**|**Selecting Hyperparameters for Tree-Boosting**|Floris Jan Koster et.al.|[2602.05786](http://arxiv.org/abs/2602.05786)|null|
@@ -555,6 +568,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Mechanisms of AI Protein Folding in ESMFold**|Kevin Lu et.al.|[2602.06020](http://arxiv.org/abs/2602.06020)|null|
+|**2026-02-05**|**Orthogonal Self-Attention**|Leo Zhang et.al.|[2602.05996](http://arxiv.org/abs/2602.05996)|null|
+|**2026-02-05**|**Transformers Are Born Biased: Structural Inductive Biases at Random Initialization and Their Practical Consequences**|Siquan Li et.al.|[2602.05927](http://arxiv.org/abs/2602.05927)|null|
+|**2026-02-05**|**Verification of the Implicit World Model in a Generative Model via Adversarial Sequences**|András Balogh et.al.|[2602.05903](http://arxiv.org/abs/2602.05903)|null|
+|**2026-02-05**|**The Ising magnetisation field and the Gaussian free field**|Tomás Alcalde López et.al.|[2602.05886](http://arxiv.org/abs/2602.05886)|null|
 |**2026-02-05**|**Polynomial functors in π-clans for the semantics of type theory**|Joseph Hua et.al.|[2602.05689](http://arxiv.org/abs/2602.05689)|null|
 |**2026-02-05**|**On the computational properties of ambivalent sets and functions**|Dag Normann et.al.|[2602.05620](http://arxiv.org/abs/2602.05620)|null|
 |**2026-02-05**|**Mergers Drive Structural Complexity but Not Starbursts in Lyman- $α$ Emitters at $3 < z < 4$ : A JWST Spatially Resolved View**|Qi Song et.al.|[2602.05411](http://arxiv.org/abs/2602.05411)|null|
@@ -701,6 +719,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](http://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**Thinking with Geometry: Active Geometry Integration for Spatial Reasoning**|Haoyuan Li et.al.|[2602.06037](http://arxiv.org/abs/2602.06037)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
+|**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
+|**2026-02-05**|**Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering**|Miranda Muqing Miao et.al.|[2602.06022](http://arxiv.org/abs/2602.06022)|null|
+|**2026-02-05**|**A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies**|Panagiotis Kaliosis et.al.|[2602.06015](http://arxiv.org/abs/2602.06015)|null|
 |**2026-02-05**|**DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders**|Xu Wang et.al.|[2602.05859](http://arxiv.org/abs/2602.05859)|null|
 |**2026-02-05**|**BABE: Biology Arena BEnchmark**|Junting Zhou et.al.|[2602.05857](http://arxiv.org/abs/2602.05857)|null|
 |**2026-02-05**|**"It Talks Like a Patient, But Feels Different": Co-Designing AI Standardized Patients with Medical Learners**|Zhiqi Gao et.al.|[2602.05856](http://arxiv.org/abs/2602.05856)|null|
