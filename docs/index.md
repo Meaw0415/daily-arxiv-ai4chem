@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Position: Message-passing and spectral GNNs are two sides of the same coin**|Antonis Vasileiou et.al.|[2602.10031](http://arxiv.org/abs/2602.10031)|null|
+|**2026-02-10**|**Differentiable Tripartite Modularity for Clustering Heterogeneous Graphs**|Benoît Hurpeau et.al.|[2602.09864](http://arxiv.org/abs/2602.09864)|null|
+|**2026-02-10**|**BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network**|Justin Dachille et.al.|[2602.09716](http://arxiv.org/abs/2602.09716)|null|
+|**2026-02-10**|**UniShare: A Unified Framework for Joint Video and Receiver Recommendation in Social Sharing**|Caimeng Wang et.al.|[2602.09618](http://arxiv.org/abs/2602.09618)|null|
+|**2026-02-10**|**Scalable and Reliable State-Aware Inference of High-Impact N-k Contingencies**|Lihao Mai et.al.|[2602.09461](http://arxiv.org/abs/2602.09461)|null|
+|**2026-02-09**|**Generalizing GNNs with Tokenized Mixture of Experts**|Xiaoguang Guo et.al.|[2602.09258](http://arxiv.org/abs/2602.09258)|null|
+|**2026-02-09**|**EExApp: GNN-Based Reinforcement Learning for Radio Unit Energy Optimization in 5G O-RAN**|Jie Lu et.al.|[2602.09206](http://arxiv.org/abs/2602.09206)|null|
 |**2026-02-09**|**Rethinking Graph Generalization through the Lens of Sharpness-Aware Minimization**|Yang Qiu et.al.|[2602.08855](http://arxiv.org/abs/2602.08855)|null|
 |**2026-02-09**|**A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation**|Ofek Amran et.al.|[2602.08785](http://arxiv.org/abs/2602.08785)|null|
 |**2026-02-09**|**HoGS: Homophily-Oriented Graph Synthesis for Local Differentially Private GNN Training**|Wen Xu et.al.|[2602.08762](http://arxiv.org/abs/2602.08762)|null|
@@ -152,6 +159,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation**|Mingyang Wu et.al.|[2602.10113](http://arxiv.org/abs/2602.10113)|null|
+|**2026-02-10**|**DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos**|Juncheng Mu et.al.|[2602.10105](http://arxiv.org/abs/2602.10105)|null|
+|**2026-02-10**|**VideoWorld 2: Learning Transferable Knowledge from Real-world Videos**|Zhongwei Ren et.al.|[2602.10102](http://arxiv.org/abs/2602.10102)|null|
+|**2026-02-10**|**Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders**|Amandeep Kumar et.al.|[2602.10099](http://arxiv.org/abs/2602.10099)|null|
+|**2026-02-10**|**VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model**|Jingwen Sun et.al.|[2602.10098](http://arxiv.org/abs/2602.10098)|null|
+|**2026-02-10**|**Causality in Video Diffusers is Separable from Denoising**|Xingjian Bai et.al.|[2602.10095](http://arxiv.org/abs/2602.10095)|null|
+|**2026-02-10**|**4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere**|Yihang Luo et.al.|[2602.10094](http://arxiv.org/abs/2602.10094)|null|
+|**2026-02-10**|**Preventing Barren Plateaus in Continuous Quantum Generative Models**|Olli Hirviniemi et.al.|[2602.10049](http://arxiv.org/abs/2602.10049)|null|
+|**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou et.al.|[2602.10016](http://arxiv.org/abs/2602.10016)|null|
+|**2026-02-10**|**Coupled Inference in Diffusion Models for Semantic Decomposition**|Calvin Yeung et.al.|[2602.09983](http://arxiv.org/abs/2602.09983)|null|
 |**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
 |**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|null|
 |**2026-02-09**|**ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling**|Yilang Zhang et.al.|[2602.09009](http://arxiv.org/abs/2602.09009)|null|
@@ -386,7 +403,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-07**|**MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning**|Heewoong Noh et.al.|[2602.07543](http://arxiv.org/abs/2602.07543)|null|
+|**2026-02-09**|**Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach**|Aline Oliveira Santos et.al.|[2602.09184](http://arxiv.org/abs/2602.09184)|null|
+|**2026-02-10**|**MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning**|Heewoong Noh et.al.|[2602.07543](http://arxiv.org/abs/2602.07543)|null|
 |**2026-02-06**|**tmQM-RDF Dataset: a Knowledge Graph Representing Transition Metal Complexes**|Luca Cibinel et.al.|[2602.07091](http://arxiv.org/abs/2602.07091)|null|
 |**2026-02-06**|**Chiral phase transition with primordial black holes: Distinct phase structure and catalysis**|Masanori Tanaka et.al.|[2602.06661](http://arxiv.org/abs/2602.06661)|null|
 |**2026-02-05**|**Generalized Path Reweighting and History-Dependent Free Energies**|Titus S. van Erp et.al.|[2602.05793](http://arxiv.org/abs/2602.05793)|null|
@@ -433,6 +451,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**PySlice: Routine Vibrational Electron Energy Loss Spectroscopy Prediction with Universal Interatomic Potentials**|Harrison A. Walker et.al.|[2602.10064](http://arxiv.org/abs/2602.10064)|null|
+|**2026-02-10**|**Multiscale Modeling of Metal/Oxide/Metal Conductive Bridging Random Access Memory Cells: from Ab Initio to Finite Element Calculations**|Jan Aeschlimann et.al.|[2602.10034](http://arxiv.org/abs/2602.10034)|null|
+|**2026-02-10**|**Emergence of a Luttinger Liquid Phase in an Array of Chiral Molecules**|Muhammad Arsalan Ali Akbar et.al.|[2602.10002](http://arxiv.org/abs/2602.10002)|null|
+|**2026-02-10**|**Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials**|Zekun Lou et.al.|[2602.09938](http://arxiv.org/abs/2602.09938)|null|
+|**2026-02-10**|**Imaging two-body correlations in atomic nuclei via low- and high-energy processes**|Stavros Bofos et.al.|[2602.09890](http://arxiv.org/abs/2602.09890)|null|
+|**2026-02-10**|**Refined DFT recipe and renormalisation of band-edge parameters for electrons in monolayer MoS $_2$ informed by the measured spin-orbit splitting**|Igor Rozhansky et.al.|[2602.09858](http://arxiv.org/abs/2602.09858)|null|
+|**2026-02-10**|**CoFEH: LLM-driven Feature Engineering Empowered by Collaborative Bayesian Hyperparameter Optimization**|Beicheng Xu et.al.|[2602.09851](http://arxiv.org/abs/2602.09851)|null|
+|**2026-02-10**|**Exciton fine structure in CdSe nanoplatelets using a quasi-2D screened configuration-interaction framework**|Sumanti Patra et.al.|[2602.09844](http://arxiv.org/abs/2602.09844)|null|
+|**2026-02-10**|**Multilevel DFT Response Theory**|Alberto Barlini et.al.|[2602.09790](http://arxiv.org/abs/2602.09790)|null|
+|**2026-02-10**|**Design and Evaluation of an Assisted Programming Interface for Behavior Trees in Robotics**|Jonathan Styrud et.al.|[2602.09772](http://arxiv.org/abs/2602.09772)|null|
 |**2026-02-09**|**Hybrid Method of Efficient Simulation of Physics Applications for a Quantum Computer**|Carla Rieger et.al.|[2602.09020](http://arxiv.org/abs/2602.09020)|null|
 |**2026-02-09**|**W-SLDA Toolkit: A simulation platform for ultracold Fermi gases**|Gabriel Wlazłowski et.al.|[2602.08982](http://arxiv.org/abs/2602.08982)|null|
 |**2026-02-09**|**Anisotropy, frustration and saddle point in the twisted Kagome antiferromagnet ErPdPb**|Resham Babu Regmi et.al.|[2602.08900](http://arxiv.org/abs/2602.08900)|null|
@@ -610,6 +638,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation**|Mingyang Wu et.al.|[2602.10113](http://arxiv.org/abs/2602.10113)|null|
+|**2026-02-10**|**Olaf-World: Orienting Latent Actions for Video World Modeling**|Yuxin Jiang et.al.|[2602.10104](http://arxiv.org/abs/2602.10104)|null|
+|**2026-02-10**|**Fast Motion Planning for Non-Holonomic Mobile Robots via a Rectangular Corridor Representation of Structured Environments**|Alejandro Gonzalez-Garcia et.al.|[2602.09714](http://arxiv.org/abs/2602.09714)|null|
+|**2026-02-10**|**Global statistical entropy and its implications for the main sequences of stars and galaxies**|David Elbaz et.al.|[2602.09663](http://arxiv.org/abs/2602.09663)|null|
+|**2026-02-10**|**Sample-Efficient Real-World Dexterous Policy Fine-Tuning via Action-Chunked Critics and Normalizing Flows**|Chenyu Yang et.al.|[2602.09580](http://arxiv.org/abs/2602.09580)|null|
+|**2026-02-10**|**AUHead: Realistic Emotional Talking Head Generation via Action Units Control**|Jiayi Lyu et.al.|[2602.09534](http://arxiv.org/abs/2602.09534)|null|
+|**2026-02-10**|**A Combinatorial Proof of Cayley's Formula via Degree Sequences**|Helia Karisani et.al.|[2602.09488](http://arxiv.org/abs/2602.09488)|null|
+|**2026-02-10**|**Query-Mixed Interest Extraction and Heterogeneous Interaction: A Scalable CTR Model for Industrial Recommender Systems**|Fangye Wang et.al.|[2602.09387](http://arxiv.org/abs/2602.09387)|null|
+|**2026-02-10**|**CAPER: Constrained and Procedural Reasoning for Robotic Scientific Experiments**|Jinghan Yang et.al.|[2602.09367](http://arxiv.org/abs/2602.09367)|null|
+|**2026-02-10**|**How Far Can You Grow? Characterizing the Extrapolation Frontier of Graph Generative Models for Materials Science**|Can Polat et.al.|[2602.09309](http://arxiv.org/abs/2602.09309)|null|
 |**2026-02-09**|**Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction**|Hao Phung et.al.|[2602.09016](http://arxiv.org/abs/2602.09016)|null|
 |**2026-02-09**|**ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification**|Sijia Peng et.al.|[2602.09008](http://arxiv.org/abs/2602.09008)|null|
 |**2026-02-09**|**On the pseudorandom properties of filtered Legendre symbol sequences using three polynomials**|Katalin Gyarmati et.al.|[2602.08957](http://arxiv.org/abs/2602.08957)|null|
@@ -779,6 +817,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Biases in the Blind Spot: Detecting What LLMs Fail to Mention**|Iván Arcuschin et.al.|[2602.10117](http://arxiv.org/abs/2602.10117)|null|
+|**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
+|**2026-02-10**|**CAPID: Context-Aware PII Detection for Question-Answering Systems**|Mariia Ponomarenko et.al.|[2602.10074](http://arxiv.org/abs/2602.10074)|null|
+|**2026-02-10**|**Long Chain-of-Thought Compression via Fine-Grained Group Policy Optimization**|Xinchen Han et.al.|[2602.10048](http://arxiv.org/abs/2602.10048)|null|
+|**2026-02-10**|**Decoupled Reasoning with Implicit Fact Tokens (DRIFT): A Dual-Model Framework for Efficient Long-Context Inference**|Wenxuan Xie et.al.|[2602.10021](http://arxiv.org/abs/2602.10021)|null|
+|**2026-02-10**|**SCORE: Specificity, Context Utilization, Robustness, and Relevance for Reference-Free LLM Evaluation**|Homaira Huda Shomee et.al.|[2602.10017](http://arxiv.org/abs/2602.10017)|null|
+|**2026-02-10**|**Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design**|Bojian Hou et.al.|[2602.10016](http://arxiv.org/abs/2602.10016)|null|
+|**2026-02-10**|**A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula**|Chenruo Liu et.al.|[2602.10014](http://arxiv.org/abs/2602.10014)|null|
+|**2026-02-10**|**Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning**|Shijie Zhang et.al.|[2602.10006](http://arxiv.org/abs/2602.10006)|null|
+|**2026-02-10**|**Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents**|Xiang Li et.al.|[2602.09944](http://arxiv.org/abs/2602.09944)|null|
 |**2026-02-09**|**ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling**|Yilang Zhang et.al.|[2602.09009](http://arxiv.org/abs/2602.09009)|null|
 |**2026-02-09**|**iGRPO: Self-Feedback-Driven LLM Reasoning**|Ali Hatamizadeh et.al.|[2602.09000](http://arxiv.org/abs/2602.09000)|null|
 |**2026-02-09**|**CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute**|Chen Jin et.al.|[2602.08948](http://arxiv.org/abs/2602.08948)|null|
