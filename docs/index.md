@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation**|Jialin Liu et.al.|[2602.11062](http://arxiv.org/abs/2602.11062)|null|
+|**2026-02-11**|**Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces**|Anant Vaishnav et.al.|[2602.11050](http://arxiv.org/abs/2602.11050)|null|
 |**2026-02-11**|**RiemannGL: Riemannian Geometry Changes Graph Deep Learning**|Li Sun et.al.|[2602.10982](http://arxiv.org/abs/2602.10982)|null|
 |**2026-02-11**|**Multi-Modal Track Reconstruction using Graph Neural Networks at Belle II**|Lea Reuter et.al.|[2602.10897](http://arxiv.org/abs/2602.10897)|null|
 |**2026-02-11**|**Exploring the impact of adaptive rewiring in Graph Neural Networks**|Charlotte Cambier van Nooten et.al.|[2602.10754](http://arxiv.org/abs/2602.10754)|null|
@@ -164,6 +166,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos**|Yue Gao et.al.|[2602.11154](http://arxiv.org/abs/2602.11154)|null|
+|**2026-02-11**|**Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows**|Shaswat Garg et.al.|[2602.11142](http://arxiv.org/abs/2602.11142)|null|
+|**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
+|**2026-02-11**|**Information-Theoretic Thresholds for Bipartite Latent-Space Graphs Under Noisy Observations**|Andreas Göbel et.al.|[2602.11129](http://arxiv.org/abs/2602.11129)|null|
+|**2026-02-11**|**The Offline-Frontier Shift: Diagnosing Distributional Limits in Generative Multi-Objective Optimization**|Stephanie Holly et.al.|[2602.11126](http://arxiv.org/abs/2602.11126)|null|
+|**2026-02-11**|**MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning**|Cassandre Notton et.al.|[2602.11092](http://arxiv.org/abs/2602.11092)|null|
+|**2026-02-11**|**MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation**|Jialin Liu et.al.|[2602.11062](http://arxiv.org/abs/2602.11062)|null|
+|**2026-02-11**|**A Gibbs posterior sampler for inverse problem based on prior diffusion model**|Jean-François Giovannelli et.al.|[2602.11059](http://arxiv.org/abs/2602.11059)|null|
+|**2026-02-11**|**Characterizing Trainability of Instantaneous Quantum Polynomial Circuit Born Machines**|Kevin Shen et.al.|[2602.11042](http://arxiv.org/abs/2602.11042)|null|
+|**2026-02-11**|**TESS planets in known radial velocity cold Jupiter systems: Hot super Earth occurrence is enhanced by cold Jupiters**|Quanyi Liu et.al.|[2602.11017](http://arxiv.org/abs/2602.11017)|null|
 |**2026-02-11**|**Sample Efficient Generative Molecular Optimization with Joint Self-Improvement**|Serra Korkmaz et.al.|[2602.10984](http://arxiv.org/abs/2602.10984)|null|
 |**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|null|
 |**2026-02-11**|**CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control**|Riccardo Barbano et.al.|[2602.10933](http://arxiv.org/abs/2602.10933)|null|
@@ -471,6 +483,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Data-Efficient Multidimensional Free Energy Estimation via Physics-Informed Score Learning**|Daniel Nagel et.al.|[2602.11098](http://arxiv.org/abs/2602.11098)|null|
 |**2026-02-11**|**Initial Guesses for Multicomponent Mean-Field Methods: Assessment and New Developments**|Denis G. Artiukhin et.al.|[2602.11013](http://arxiv.org/abs/2602.11013)|null|
 |**2026-02-11**|**Eliminating Delocalization Error through Localized Orbital Scaling Correction with Orbital Relaxation from Linear Response**|Yichen Fan et.al.|[2602.11003](http://arxiv.org/abs/2602.11003)|null|
 |**2026-02-11**|**Coarse-Grained Molecular Dynamics Simulations of Primary Antioxidant-Containing Polymer Melts: Effects of Antioxidant Concentration and Molecular Architecture**|Takato Ishida et.al.|[2602.10954](http://arxiv.org/abs/2602.10954)|null|
@@ -668,6 +681,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Exact solvability of Hamiltonian systems via Poisson \texorpdfstring{\cinf}{cinf}-structures**|A. J. Pan-Collantes et.al.|[2602.11070](http://arxiv.org/abs/2602.11070)|null|
 |**2026-02-11**|**Scaling World Model for Hierarchical Manipulation Policies**|Qian Long et.al.|[2602.10983](http://arxiv.org/abs/2602.10983)|null|
 |**2026-02-11**|**Stochastic Parroting in Temporal Attention -- Regulating the Diagonal Sink**|Victoria Hankemeier et.al.|[2602.10956](http://arxiv.org/abs/2602.10956)|null|
 |**2026-02-11**|**PRISM: Parallel Residual Iterative Sequence Model**|Jie Jiang et.al.|[2602.10796](http://arxiv.org/abs/2602.10796)|null|
@@ -857,6 +871,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning**|Dawid J. Kopiczko et.al.|[2602.11149](http://arxiv.org/abs/2602.11149)|null|
+|**2026-02-11**|**Weight Decay Improves Language Model Plasticity**|Tessa Han et.al.|[2602.11137](http://arxiv.org/abs/2602.11137)|null|
+|**2026-02-11**|**Can Large Language Models Make Everyone Happy?**|Usman Naseem et.al.|[2602.11091](http://arxiv.org/abs/2602.11091)|null|
+|**2026-02-11**|**DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning**|Yicheng Chen et.al.|[2602.11089](http://arxiv.org/abs/2602.11089)|null|
+|**2026-02-11**|**Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise**|Abhishek Saini et.al.|[2602.11088](http://arxiv.org/abs/2602.11088)|null|
+|**2026-02-11**|**SteuerLLM: Local specialized large language model for German tax law analysis**|Sebastian Wind et.al.|[2602.11081](http://arxiv.org/abs/2602.11081)|null|
+|**2026-02-11**|**Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting**|Rishikesh Bhyri et.al.|[2602.11024](http://arxiv.org/abs/2602.11024)|null|
+|**2026-02-11**|**Information Abstraction for Data Transmission Networks based on Large Language Models**|Haoyuan Zhu et.al.|[2602.11022](http://arxiv.org/abs/2602.11022)|null|
 |**2026-02-11**|**Fine-Tuning GPT-5 for GPU Kernel Generation**|Ali Tehrani et.al.|[2602.11000](http://arxiv.org/abs/2602.11000)|null|
 |**2026-02-11**|**A Human-Centric Framework for Data Attribution in Large Language Models**|Amelie Wührl et.al.|[2602.10995](http://arxiv.org/abs/2602.10995)|null|
 |**2026-02-11**|**FeatureBench: Benchmarking Agentic Coding for Complex Feature Development**|Qixing Zhou et.al.|[2602.10975](http://arxiv.org/abs/2602.10975)|null|
