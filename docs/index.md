@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-14**|**GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization**|Juntong Wang et.al.|[2602.13921](http://arxiv.org/abs/2602.13921)|null|
+|**2026-02-14**|**Optimization-Free Graph Embedding via Distributional Kernel for Community Detection**|Shuaibin Song et.al.|[2602.13634](http://arxiv.org/abs/2602.13634)|null|
 |**2026-02-13**|**Learning to Approximate Uniform Facility Location via Graph Neural Networks**|Chendi Qian et.al.|[2602.13155](http://arxiv.org/abs/2602.13155)|null|
 |**2026-02-13**|**FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics**|Pingzhi Li et.al.|[2602.13140](http://arxiv.org/abs/2602.13140)|null|
 |**2026-02-13**|**Which Algorithms Can Graph Neural Networks Learn?**|Solveig Wittig et.al.|[2602.13106](http://arxiv.org/abs/2602.13106)|null|
@@ -177,6 +179,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**ML-ECS: A Collaborative Multimodal Learning Framework for Edge-Cloud Synergies**|Yuze Liu et.al.|[2602.14107](http://arxiv.org/abs/2602.14107)|null|
+|**2026-02-15**|**CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning**|Yuhui Wu et.al.|[2602.14068](http://arxiv.org/abs/2602.14068)|null|
+|**2026-02-15**|**Dynamical screening effects on formation of swift heavy ions damage in GaN**|S. V. Moskalets et.al.|[2602.14066](http://arxiv.org/abs/2602.14066)|null|
+|**2026-02-15**|**BitDance: Scaling Autoregressive Generative Models with Binary Tokens**|Yuang Ai et.al.|[2602.14041](http://arxiv.org/abs/2602.14041)|null|
+|**2026-02-15**|**BRAIN: Bayesian Reasoning via Active Inference for Agentic and Embodied Intelligence in Mobile Networks**|Osman Tugay Basaran et.al.|[2602.14033](http://arxiv.org/abs/2602.14033)|null|
+|**2026-02-15**|**RoboAug: One Annotation to Hundreds of Scenes via Region-Contrastive Data Augmentation for Robotic Manipulation**|Xinhua Wang et.al.|[2602.14032](http://arxiv.org/abs/2602.14032)|null|
+|**2026-02-15**|**Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation**|Jia Li et.al.|[2602.14027](http://arxiv.org/abs/2602.14027)|null|
+|**2026-02-15**|**EIDOS: Latent-Space Predictive Learning for Time Series Foundation Models**|Xinxing Zhou et.al.|[2602.14024](http://arxiv.org/abs/2602.14024)|null|
+|**2026-02-15**|**The Impact of Micro-level User Interventions on Macro-level Misinformation Spread**|Satoshi Furutani et.al.|[2602.14023](http://arxiv.org/abs/2602.14023)|null|
+|**2026-02-15**|**A Generalizable Physics-guided Causal Model for Trajectory Prediction in Autonomous Driving**|Zhenyu Zong et.al.|[2602.13936](http://arxiv.org/abs/2602.13936)|null|
 |**2026-02-13**|**Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows**|Davide Valsecchi et.al.|[2602.13184](http://arxiv.org/abs/2602.13184)|null|
 |**2026-02-13**|**Realistic Face Reconstruction from Facial Embeddings via Diffusion Models**|Dong Han et.al.|[2602.13168](http://arxiv.org/abs/2602.13168)|null|
 |**2026-02-13**|**Preference-Guided Prompt Optimization for Text-to-Image Generation**|Zhipeng Li et.al.|[2602.13131](http://arxiv.org/abs/2602.13131)|null|
@@ -440,6 +452,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Chemical Language Models for Natural Products: A State-Space Model Approach**|Ho-Hsuan Wang et.al.|[2602.13958](http://arxiv.org/abs/2602.13958)|null|
+|**2026-02-13**|**Hermes: Large DEL Datasets Train Generalizable Protein-Ligand Binding Prediction Models**|Maxwell Kleinsasser et.al.|[2602.13503](http://arxiv.org/abs/2602.13503)|null|
 |**2026-02-12**|**How Well Do Large-Scale Chemical Language Models Transfer to Downstream Tasks?**|Tatsuya Sagawa et.al.|[2602.11618](http://arxiv.org/abs/2602.11618)|null|
 |**2026-01-30**|**MuCO: Generative Peptide Cyclization Empowered by Multi-stage Conformation Optimization**|Yitian Wang et.al.|[2602.11189](http://arxiv.org/abs/2602.11189)|null|
 |**2026-02-12**|**EVA: Towards a universal model of the immune system**|Scienta Team et.al.|[2602.10168](http://arxiv.org/abs/2602.10168)|null|
@@ -447,7 +461,7 @@ layout: default
 |**2026-02-03**|**Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods**|Emmett Bicker et.al.|[2602.07040](http://arxiv.org/abs/2602.07040)|null|
 |**2026-02-04**|**Beyond Learning on Molecules by Weakly Supervising on Molecules**|Gordan Prastalo et.al.|[2602.04696](http://arxiv.org/abs/2602.04696)|null|
 |**2026-02-03**|**Impact of Local Descriptors Derived from Machine Learning Potentials in Graph Neural Networks for Molecular Property Prediction**|Ryoichi Uchiyama et.al.|[2602.03046](http://arxiv.org/abs/2602.03046)|null|
-|**2026-02-12**|**Cardinality-Preserving Attention Channels for Graph Transformers in Molecular Property Prediction**|Abhijit Gupta et.al.|[2602.02201](http://arxiv.org/abs/2602.02201)|null|
+|**2026-02-14**|**Cardinality-Preserving Attention Channels for Graph Transformers in Molecular Property Prediction**|Abhijit Gupta et.al.|[2602.02201](http://arxiv.org/abs/2602.02201)|null|
 |**2026-01-30**|**SayNext-Bench: Why Do LLMs Struggle with Next-Utterance Prediction?**|Yueyi Yang et.al.|[2602.00327](http://arxiv.org/abs/2602.00327)|null|
 |**2026-01-30**|**Local-Global Multimodal Contrastive Learning for Molecular Property Prediction**|Xiayu Liu et.al.|[2601.22610](http://arxiv.org/abs/2601.22610)|null|
 |**2026-01-29**|**From Particles to Agents: Hallucination as a Metric for Cognitive Friction in Spatial Simulation**|Javier Argota Sánchez-Vaquerizo et.al.|[2601.21977](http://arxiv.org/abs/2601.21977)|null|
@@ -473,6 +487,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Protect $^*$ : Steerable Retrosynthesis through Neuro-Symbolic State Encoding**|Shreyas Vinaya Sathyanarayana et.al.|[2602.13419](http://arxiv.org/abs/2602.13419)|null|
 |**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
 |**2026-02-12**|**Markov State Models for Tracking Reaction Dynamics on Catalytic Nanoparticles**|Caitlin A. McCandler et.al.|[2602.12037](http://arxiv.org/abs/2602.12037)|null|
 |**2026-02-11**|**Noise-balanced multilevel on-the-fly sparse grid surrogates for coupling Monte Carlo models into continuum models with application to heterogeneous catalysis**|Tobias Hülser et.al.|[2602.11006](http://arxiv.org/abs/2602.11006)|null|
@@ -527,6 +542,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Stacking-Tunable Electronic Properties in Recently Synthesized Hydrogen-Substituted Graphdiyne**|Guilherme S. L. Fabris et.al.|[2602.14168](http://arxiv.org/abs/2602.14168)|null|
+|**2026-02-15**|**An accurate theoretical framework for the optical and electronic properties of paracyclophanes**|Vladislav Slama et.al.|[2602.14114](http://arxiv.org/abs/2602.14114)|null|
+|**2026-02-15**|**DALL: Data Labeling via Data Programming and Active Learning Enhanced by Large Language Models**|Guozheng Li et.al.|[2602.14102](http://arxiv.org/abs/2602.14102)|null|
+|**2026-02-15**|**Dynamical screening effects on formation of swift heavy ions damage in GaN**|S. V. Moskalets et.al.|[2602.14066](http://arxiv.org/abs/2602.14066)|null|
+|**2026-02-15**|**Monomeric machine learning potential for general covalent molecules: linear alkanes as an example**|Xinze Li et.al.|[2602.14022](http://arxiv.org/abs/2602.14022)|null|
+|**2026-02-14**|**Geometry Challenges Entropy: Regime-DependentRectification in Nanofluidic Cascades**|Ting Peng et.al.|[2602.13931](http://arxiv.org/abs/2602.13931)|null|
+|**2026-02-14**|**Machine Learning-integrated Multiscale Simulation Framework: Bridging Scales in Associative Polymer-Colloid Suspensions**|Jalal Abdolahi et.al.|[2602.13911](http://arxiv.org/abs/2602.13911)|null|
+|**2026-02-14**|**Ion Implantation Enhanced Nucleation Facilitates Heat Transport across Atomically-Sharp Semiconductor Interfaces**|Jinwen Liu et.al.|[2602.13827](http://arxiv.org/abs/2602.13827)|null|
+|**2026-02-14**|**Relativistic spin-momentum locking in ferromagnets**|Xujia Gong et.al.|[2602.13768](http://arxiv.org/abs/2602.13768)|null|
+|**2026-02-14**|**Coulomb Interaction in Atomically Thin Semiconductors and Density-Independent Exciton-Scattering Processes**|Henry Mittenzwey et.al.|[2602.13763](http://arxiv.org/abs/2602.13763)|null|
 |**2026-02-13**|**Disorder viscosity correction approach to calculate spinodal temperature and wavelength**|Simon Divilov et.al.|[2602.13190](http://arxiv.org/abs/2602.13190)|null|
 |**2026-02-13**|**Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search**|Jo S. Kurian et.al.|[2602.13187](http://arxiv.org/abs/2602.13187)|null|
 |**2026-02-13**|**FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics**|Pingzhi Li et.al.|[2602.13140](http://arxiv.org/abs/2602.13140)|null|
@@ -746,6 +771,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Stacking-Tunable Electronic Properties in Recently Synthesized Hydrogen-Substituted Graphdiyne**|Guilherme S. L. Fabris et.al.|[2602.14168](http://arxiv.org/abs/2602.14168)|null|
+|**2026-02-15**|**MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders**|Xu Huang et.al.|[2602.14110](http://arxiv.org/abs/2602.14110)|null|
+|**2026-02-15**|**Physical principles of building protein megacomplexes in a crowded milieu**|Jiayi Wang et.al.|[2602.14005](http://arxiv.org/abs/2602.14005)|null|
+|**2026-02-14**|**A survey on the uniform $S$ -version of rings, modules and their homological theories**|Xiaolei Zhang et.al.|[2602.13809](http://arxiv.org/abs/2602.13809)|null|
+|**2026-02-14**|**Gaussian Sequences with Multi-Scale Dynamics for 4D Reconstruction from Monocular Casual Videos**|Can Li et.al.|[2602.13806](http://arxiv.org/abs/2602.13806)|null|
+|**2026-02-14**|**HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating**|Weibin Liao et.al.|[2602.13665](http://arxiv.org/abs/2602.13665)|null|
+|**2026-02-14**|**Operationalizing the Arrow of Time in mesoscopic: A Unified Framework for Non-equilibrium Matter**|Yikun Ren et.al.|[2602.13664](http://arxiv.org/abs/2602.13664)|null|
+|**2026-02-14**|**Anisotropic Core-Shell Swift Heavy Ion Tracks in beta-Ga2O3**|Huan He et.al.|[2602.13614](http://arxiv.org/abs/2602.13614)|null|
+|**2026-02-14**|**Probabilistic RNA Designability via Interpretable Ensemble Approximation and Dynamic Decomposition**|Tianshuo Zhou et.al.|[2602.13610](http://arxiv.org/abs/2602.13610)|null|
+|**2026-02-13**|**Hermes: Large DEL Datasets Train Generalizable Protein-Ligand Binding Prediction Models**|Maxwell Kleinsasser et.al.|[2602.13503](http://arxiv.org/abs/2602.13503)|null|
 |**2026-02-13**|**Structural barriers of the discrete Hasimoto map applied to protein backbone geometry**|Yiquan Wang et.al.|[2602.13160](http://arxiv.org/abs/2602.13160)|null|
 |**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
 |**2026-02-13**|**Eventizing Traditionally Opaque Binary Neural Networks as 1-safe Petri net Models**|Mohamed Tarraf et.al.|[2602.13128](http://arxiv.org/abs/2602.13128)|null|
@@ -959,6 +994,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Knowing When Not to Answer: Abstention-Aware Scientific Reasoning**|Samir Abdaljalil et.al.|[2602.14189](http://arxiv.org/abs/2602.14189)|null|
+|**2026-02-15**|**GPT-5 vs Other LLMs in Long Short-Context Performance**|Nima Esmi et.al.|[2602.14188](http://arxiv.org/abs/2602.14188)|null|
+|**2026-02-15**|**Exploring a Multimodal Chatbot as a Facilitator in Therapeutic Art Activity**|Le Lin et.al.|[2602.14183](http://arxiv.org/abs/2602.14183)|null|
+|**2026-02-15**|**UniWeTok: An Unified Binary Tokenizer with Codebook Size $\mathit{2^{128}}$ for Unified Multimodal Large Language Model**|Shaobin Zhuang et.al.|[2602.14178](http://arxiv.org/abs/2602.14178)|null|
+|**2026-02-15**|**Investigation for Relative Voice Impression Estimation**|Keinichi Fujita et.al.|[2602.14172](http://arxiv.org/abs/2602.14172)|null|
+|**2026-02-15**|**Explainable Interictal Epileptiform Discharge Detection Method Based on Scalp EEG and Retrieval-Augmented Generation**|Yu Zhu et.al.|[2602.14170](http://arxiv.org/abs/2602.14170)|null|
+|**2026-02-15**|**Deep Dense Exploration for LLM Reinforcement Learning via Pivot-Driven Resampling**|Yiran Guo et.al.|[2602.14169](http://arxiv.org/abs/2602.14169)|null|
+|**2026-02-15**|**A Multi-Agent Framework for Medical AI: Leveraging Fine-Tuned GPT, LLaMA, and DeepSeek R1 for Evidence-Based and Bias-Aware Clinical Query Processing**|Naeimeh Nourmohammadi et.al.|[2602.14158](http://arxiv.org/abs/2602.14158)|null|
+|**2026-02-15**|**ROAST: Rollout-based On-distribution Activation Steering Technique**|Xuanbo Su et.al.|[2602.14143](http://arxiv.org/abs/2602.14143)|null|
+|**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](http://arxiv.org/abs/2602.14134)|null|
 |**2026-02-13**|**Semantic Chunking and the Entropy of Natural Language**|Weishun Zhong et.al.|[2602.13194](http://arxiv.org/abs/2602.13194)|null|
 |**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
 |**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
