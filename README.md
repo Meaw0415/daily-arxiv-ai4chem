@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Spectral Convolution on Orbifolds for Geometric Deep Learning**|Tim Mangliers et.al.|[2602.14997](http://arxiv.org/abs/2602.14997)|null|
+|**2026-02-16**|**Learning Structural Hardness for Combinatorial Auctions: Instance-Dependent Algorithm Selection via Graph Neural Networks**|Sungwoo Kang et.al.|[2602.14772](http://arxiv.org/abs/2602.14772)|null|
+|**2026-02-16**|**Bayesian Cosmic Void Finding with Graph Flows**|Leander Thiele et.al.|[2602.14630](http://arxiv.org/abs/2602.14630)|null|
+|**2026-02-16**|**DCTracks: An Open Dataset for Machine Learning-Based Drift Chamber Track Reconstruction**|Qian Liyan et.al.|[2602.14571](http://arxiv.org/abs/2602.14571)|null|
+|**2026-02-15**|**Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions**|Ruomeng Ding et.al.|[2602.14279](http://arxiv.org/abs/2602.14279)|null|
+|**2026-02-15**|**A Hybrid TGN-SEAL Model for Dynamic Graph Link Prediction**|Nafiseh Sadat Sajadi et.al.|[2602.14239](http://arxiv.org/abs/2602.14239)|null|
 |**2026-02-14**|**GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization**|Juntong Wang et.al.|[2602.13921](http://arxiv.org/abs/2602.13921)|null|
 |**2026-02-14**|**Optimization-Free Graph Embedding via Distributional Kernel for Community Detection**|Shuaibin Song et.al.|[2602.13634](http://arxiv.org/abs/2602.13634)|null|
 |**2026-02-13**|**Learning to Approximate Uniform Facility Location via Graph Neural Networks**|Chendi Qian et.al.|[2602.13155](http://arxiv.org/abs/2602.13155)|null|
@@ -190,6 +196,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Image Generation with a Sphere Encoder**|Kaiyu Yue et.al.|[2602.15030](http://arxiv.org/abs/2602.15030)|null|
+|**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
+|**2026-02-16**|**Scaling Beyond Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2602.15014](http://arxiv.org/abs/2602.15014)|null|
+|**2026-02-16**|**Efficient Sampling with Discrete Diffusion Models: Sharp and Adaptive Guarantees**|Daniil Dmitriev et.al.|[2602.15008](http://arxiv.org/abs/2602.15008)|null|
+|**2026-02-16**|**MacroGuide: Topological Guidance for Macrocycle Generation**|Alicja Maksymiuk et.al.|[2602.14977](http://arxiv.org/abs/2602.14977)|null|
+|**2026-02-16**|**PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement**|Yian Wang et.al.|[2602.14968](http://arxiv.org/abs/2602.14968)|null|
+|**2026-02-16**|**From Classical to Quantum: Extending Prometheus for Unsupervised Discovery of Phase Transitions in Three Dimensions and Quantum Systems**|Brandon Yee et.al.|[2602.14928](http://arxiv.org/abs/2602.14928)|null|
+|**2026-02-16**|**MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design**|Gen Zhou et.al.|[2602.14926](http://arxiv.org/abs/2602.14926)|null|
+|**2026-02-16**|**Relative Character Asymptotics Beyond Stability for $\mathrm{PGL}_2 \times \mathrm{GL}_1$**|Trajan Hammonds et.al.|[2602.14845](http://arxiv.org/abs/2602.14845)|null|
+|**2026-02-16**|**Center-Fed Pinching Antenna System (C-PASS): Modeling, Analysis, and Beamforming Design**|Xu Gan et.al.|[2602.14805](http://arxiv.org/abs/2602.14805)|null|
 |**2026-02-15**|**ML-ECS: A Collaborative Multimodal Learning Framework for Edge-Cloud Synergies**|Yuze Liu et.al.|[2602.14107](http://arxiv.org/abs/2602.14107)|null|
 |**2026-02-15**|**CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning**|Yuhui Wu et.al.|[2602.14068](http://arxiv.org/abs/2602.14068)|null|
 |**2026-02-15**|**Dynamical screening effects on formation of swift heavy ions damage in GaN**|S. V. Moskalets et.al.|[2602.14066](http://arxiv.org/abs/2602.14066)|null|
@@ -502,6 +518,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
 |**2026-02-13**|**Protect $^*$ : Steerable Retrosynthesis through Neuro-Symbolic State Encoding**|Shreyas Vinaya Sathyanarayana et.al.|[2602.13419](http://arxiv.org/abs/2602.13419)|null|
 |**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
 |**2026-02-12**|**Markov State Models for Tracking Reaction Dynamics on Catalytic Nanoparticles**|Caitlin A. McCandler et.al.|[2602.12037](http://arxiv.org/abs/2602.12037)|null|
@@ -559,6 +576,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Stacking-Engineered Thermal Transport and Phonon Filtering in Rhenium Disulfide**|Yongjian Zhou et.al.|[2602.15002](http://arxiv.org/abs/2602.15002)|null|
+|**2026-02-16**|**Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces**|Nicolaï Gouraud et.al.|[2602.14975](http://arxiv.org/abs/2602.14975)|null|
+|**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
+|**2026-02-16**|**Auxiliary field quantum Monte Carlo at the basis set limit: application to lattice constants**|Moritz Humer et.al.|[2602.14923](http://arxiv.org/abs/2602.14923)|null|
+|**2026-02-16**|**Identifying open-orbit topological surface states in dual topological semimetal TaSb $_2$**|Susmita Changdar et.al.|[2602.14887](http://arxiv.org/abs/2602.14887)|null|
+|**2026-02-16**|**Fast and accurate quasi-atom method for simultaneous atomistic and continuum simulation of solids**|Artem Chuprov et.al.|[2602.14867](http://arxiv.org/abs/2602.14867)|null|
+|**2026-02-16**|**A physics inspired and efficient transform for optoacoustic systems**|Maria Rodriguez Saenz de Tejada et.al.|[2602.14803](http://arxiv.org/abs/2602.14803)|null|
+|**2026-02-16**|**Extending Multi-Source Bayesian Optimization With Causality Principles**|Luuk Jacobs et.al.|[2602.14791](http://arxiv.org/abs/2602.14791)|null|
+|**2026-02-16**|**Data-Efficient Machine learning for Predicting Dopant Formation Energies in TiO $_2$ Monolayer**|Kati Asikainen et.al.|[2602.14650](http://arxiv.org/abs/2602.14650)|null|
+|**2026-02-16**|**A Bayesian Approach to Low-Discrepancy Subset Selection**|Nathan Kirk et.al.|[2602.14607](http://arxiv.org/abs/2602.14607)|null|
 |**2026-02-15**|**Stacking-Tunable Electronic Properties in Recently Synthesized Hydrogen-Substituted Graphdiyne**|Guilherme S. L. Fabris et.al.|[2602.14168](http://arxiv.org/abs/2602.14168)|null|
 |**2026-02-15**|**An accurate theoretical framework for the optical and electronic properties of paracyclophanes**|Vladislav Slama et.al.|[2602.14114](http://arxiv.org/abs/2602.14114)|null|
 |**2026-02-15**|**DALL: Data Labeling via Data Programming and Active Learning Enhanced by Large Language Models**|Guozheng Li et.al.|[2602.14102](http://arxiv.org/abs/2602.14102)|null|
@@ -790,6 +817,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Cold-Start Personalization via Training-Free Priors from Structured World Models**|Avinandan Bose et.al.|[2602.15012](http://arxiv.org/abs/2602.15012)|null|
+|**2026-02-16**|**MacroGuide: Topological Guidance for Macrocycle Generation**|Alicja Maksymiuk et.al.|[2602.14977](http://arxiv.org/abs/2602.14977)|null|
+|**2026-02-16**|**Colimit-Based Composition of High-Level Computing Devices**|Damian Arellanes et.al.|[2602.14904](http://arxiv.org/abs/2602.14904)|null|
+|**2026-02-16**|**Exploring the limits of pre-trained embeddings in machine-guided protein design: a case study on predicting AAV vector viability**|Ana F. Rodrigues et.al.|[2602.14828](http://arxiv.org/abs/2602.14828)|null|
+|**2026-02-16**|**Diagonals in Riordan matrices and applications**|Gi-Sang Cheon et.al.|[2602.14822](http://arxiv.org/abs/2602.14822)|null|
+|**2026-02-16**|**Depth Completion as Parameter-Efficient Test-Time Adaptation**|Bingxin Ke et.al.|[2602.14751](http://arxiv.org/abs/2602.14751)|null|
+|**2026-02-16**|**Antiferromagnetic Barkhausen noise induced by weak random-field disorder**|Bosiljka Tadic et.al.|[2602.14713](http://arxiv.org/abs/2602.14713)|null|
+|**2026-02-16**|**Query as Anchor: Scenario-Adaptive User Representation via Large Language Model**|Jiahao Yuan et.al.|[2602.14492](http://arxiv.org/abs/2602.14492)|null|
+|**2026-02-16**|**WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)**|Kiyotaka Kasubuchi et.al.|[2602.14419](http://arxiv.org/abs/2602.14419)|null|
+|**2026-02-16**|**Learning Proposes, Geometry Disposes: A Modular Framework for Efficient Spatial Reasoning**|Haichao Zhu et.al.|[2602.14409](http://arxiv.org/abs/2602.14409)|null|
 |**2026-02-15**|**Stacking-Tunable Electronic Properties in Recently Synthesized Hydrogen-Substituted Graphdiyne**|Guilherme S. L. Fabris et.al.|[2602.14168](http://arxiv.org/abs/2602.14168)|null|
 |**2026-02-15**|**MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders**|Xu Huang et.al.|[2602.14110](http://arxiv.org/abs/2602.14110)|null|
 |**2026-02-15**|**Physical principles of building protein megacomplexes in a crowded milieu**|Jiayi Wang et.al.|[2602.14005](http://arxiv.org/abs/2602.14005)|null|
@@ -1015,6 +1052,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Symmetry in language statistics shapes the geometry of model representations**|Dhruva Karkada et.al.|[2602.15029](http://arxiv.org/abs/2602.15029)|null|
+|**2026-02-16**|**Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization**|Shangding Gu et.al.|[2602.15028](http://arxiv.org/abs/2602.15028)|null|
+|**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013](http://arxiv.org/abs/2602.15013)|null|
+|**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
+|**2026-02-16**|**Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System**|Kawin Mayilvaghanan et.al.|[2602.14970](http://arxiv.org/abs/2602.14970)|null|
+|**2026-02-16**|**MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design**|Gen Zhou et.al.|[2602.14926](http://arxiv.org/abs/2602.14926)|null|
+|**2026-02-16**|**The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics**|Gregor Bachmann et.al.|[2602.14903](http://arxiv.org/abs/2602.14903)|null|
+|**2026-02-16**|**Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution**|Matthew Kowal et.al.|[2602.14869](http://arxiv.org/abs/2602.14869)|null|
+|**2026-02-16**|**Goldilocks RL: Tuning Task Difficulty to Escape Sparse Rewards for Reasoning**|Ilia Mahrooghi et.al.|[2602.14868](http://arxiv.org/abs/2602.14868)|null|
+|**2026-02-16**|**The Well-Tempered Classifier: Some Elementary Properties of Temperature Scaling**|Pierre-Alexandre Mattei et.al.|[2602.14862](http://arxiv.org/abs/2602.14862)|null|
 |**2026-02-15**|**Knowing When Not to Answer: Abstention-Aware Scientific Reasoning**|Samir Abdaljalil et.al.|[2602.14189](http://arxiv.org/abs/2602.14189)|null|
 |**2026-02-15**|**GPT-5 vs Other LLMs in Long Short-Context Performance**|Nima Esmi et.al.|[2602.14188](http://arxiv.org/abs/2602.14188)|null|
 |**2026-02-15**|**Exploring a Multimodal Chatbot as a Facilitator in Therapeutic Art Activity**|Le Lin et.al.|[2602.14183](http://arxiv.org/abs/2602.14183)|null|
