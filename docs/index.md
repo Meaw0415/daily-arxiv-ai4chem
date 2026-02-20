@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Graph Neural Model Predictive Control for High-Dimensional Systems**|Patrick Benito Eberhard et.al.|[2602.17601](http://arxiv.org/abs/2602.17601)|null|
+|**2026-02-19**|**From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection**|Luzhi Wang et.al.|[2602.17342](http://arxiv.org/abs/2602.17342)|null|
+|**2026-02-19**|**Semi-Supervised Learning on Graphs using Graph Neural Networks**|Juntong Chen et.al.|[2602.17115](http://arxiv.org/abs/2602.17115)|null|
+|**2026-02-19**|**A Locality Radius Framework for Understanding Relational Inductive Bias in Database Learning**|Aadi Joshi et.al.|[2602.17092](http://arxiv.org/abs/2602.17092)|null|
+|**2026-02-19**|**AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation**|Rong Fu et.al.|[2602.17071](http://arxiv.org/abs/2602.17071)|null|
+|**2026-02-18**|**Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning**|Chuqin Geng et.al.|[2602.16947](http://arxiv.org/abs/2602.16947)|null|
 |**2026-02-18**|**Predicting The Cop Number Using Machine Learning**|Meagan Mann et.al.|[2602.16600](http://arxiv.org/abs/2602.16600)|null|
 |**2026-02-18**|**RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion**|Tianmeng Hu et.al.|[2602.16548](http://arxiv.org/abs/2602.16548)|null|
 |**2026-02-18**|**Small molecule retrieval from tandem mass spectrometry: what are we optimizing for?**|Gaetan De Waele et.al.|[2602.16507](http://arxiv.org/abs/2602.16507)|null|
@@ -200,6 +206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
+|**2026-02-19**|**MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models**|Hojung Jung et.al.|[2602.17602](http://arxiv.org/abs/2602.17602)|null|
+|**2026-02-19**|**Art2Mus: Artwork-to-Music Generation via Visual Conditioning and Large-Scale Cross-Modal Alignment**|Ivan Rinaldi et.al.|[2602.17599](http://arxiv.org/abs/2602.17599)|null|
+|**2026-02-19**|**A Theoretical Framework for Modular Learning of Robust Generative Models**|Corinna Cortes et.al.|[2602.17554](http://arxiv.org/abs/2602.17554)|null|
+|**2026-02-19**|**A variational multi-phase model for elastoplastic materials with microstructure evolution**|Sarah Dinkelacker-Steinhoff et.al.|[2602.17492](http://arxiv.org/abs/2602.17492)|null|
+|**2026-02-19**|**Variational Grey-Box Dynamics Matching**|Gurjeet Sangra Singh et.al.|[2602.17477](http://arxiv.org/abs/2602.17477)|null|
+|**2026-02-19**|**A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities**|Michele Zanitti et.al.|[2602.17402](http://arxiv.org/abs/2602.17402)|null|
+|**2026-02-19**|**Quantum Scrambling Born Machine**|Marcin Płodzień et.al.|[2602.17281](http://arxiv.org/abs/2602.17281)|null|
+|**2026-02-19**|**WFST Supernovae in the First Year: III. Systematical Study of the Photometric Behavior of Early-phase Core-collapse Supernovae**|Junhan Zhao et.al.|[2602.17275](http://arxiv.org/abs/2602.17275)|null|
+|**2026-02-19**|**Federated Latent Space Alignment for Multi-user Semantic Communications**|Giuseppe Di Poce et.al.|[2602.17271](http://arxiv.org/abs/2602.17271)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|
 |**2026-02-18**|**Knowledge-Embedded Latent Projection for Robust Representation Learning**|Weijing Tang et.al.|[2602.16709](http://arxiv.org/abs/2602.16709)|null|
 |**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
@@ -539,6 +555,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Photocatalytic methanol dehydrogenation promoted synergistically by atomically dispersed Pd and clustered Pd**|Zhuyan Gao et.al.|[2602.17228](http://arxiv.org/abs/2602.17228)|null|
 |**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
 |**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
 |**2026-02-13**|**Protect $^*$ : Steerable Retrosynthesis through Neuro-Symbolic State Encoding**|Shreyas Vinaya Sathyanarayana et.al.|[2602.13419](http://arxiv.org/abs/2602.13419)|null|
@@ -596,6 +613,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**First-principles Newns-Anderson Hamiltonian Construction for Chemisorbed Hydrogen at Metal Surfaces**|Nils Hertl et.al.|[2602.17635](http://arxiv.org/abs/2602.17635)|null|
+|**2026-02-19**|**Evidence for Multimodal Superfluidity of Neutrons**|Yuan-Zhuo Ma et.al.|[2602.17611](http://arxiv.org/abs/2602.17611)|null|
+|**2026-02-19**|**Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery**|Jowaria Khan et.al.|[2602.17605](http://arxiv.org/abs/2602.17605)|null|
+|**2026-02-19**|**Discovery of Polymer Electrolytes with Bayesian Optimization and High-Throughput Molecular Dynamics simulations**|Antonia S. Kuhn et.al.|[2602.17595](http://arxiv.org/abs/2602.17595)|null|
+|**2026-02-19**|**Interstellar Formation of Thioethanal (CH $_{3}$ CHS). Gas-Phase and Ice-Surface Mechanisms involving Secondary Sulfur Products**|N. Rani et.al.|[2602.17551](http://arxiv.org/abs/2602.17551)|null|
+|**2026-02-19**|**Interpretable Machine Learning of Nanoparticle Stability through Topological Layer Embeddings**|Felipe Hawthorne et.al.|[2602.17528](http://arxiv.org/abs/2602.17528)|null|
+|**2026-02-19**|**High-precision Penning-trap spectroscopy of the ground-state spin structure of HD+**|Charlotte M. König et.al.|[2602.17522](http://arxiv.org/abs/2602.17522)|null|
+|**2026-02-19**|**Prediction of room-temperature two-dimensional $π$ -electron half-metallic ferrimagnets**|J. Phillips et.al.|[2602.17489](http://arxiv.org/abs/2602.17489)|null|
+|**2026-02-19**|**Atomic-Scale Surface Imaging of bulk Epitaxial CsPbBr3 Perovskite Single Crystals on Mica using Light Assisted Scanning Tunneling Microscopy at Low-Temperature (80 K)**|Eric Duverger et.al.|[2602.17388](http://arxiv.org/abs/2602.17388)|null|
+|**2026-02-19**|**Shortcut learning in geometric knot classification**|Djordje Mihajlovic et.al.|[2602.17350](http://arxiv.org/abs/2602.17350)|null|
 |**2026-02-18**|**Ab Initio Auxiliary-Field Quantum Monte Carlo in the Thermodynamic Limit**|Jinghong Zhang et.al.|[2602.16679](http://arxiv.org/abs/2602.16679)|null|
 |**2026-02-18**|**Design Principles for Fluid Molecular Ferroelectrics**|Calum J Gibb et.al.|[2602.16649](http://arxiv.org/abs/2602.16649)|null|
 |**2026-02-18**|**Growth and crystallographic structure of TiTe $_2$ on Au(111): From sub-monolayer structures to single- and multi-layer films**|Andreas Raabgrund et.al.|[2602.16647](http://arxiv.org/abs/2602.16647)|null|
@@ -855,6 +882,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**The Stark effect in molecular Rydberg states: Calculation of Rydberg-Stark manifolds of H $_2$ and D$_2$ including fine and hyperfine structures**|Ioana Doran et.al.|[2602.17511](http://arxiv.org/abs/2602.17511)|null|
+|**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
+|**2026-02-19**|**A $y$ -ification of Khovanov homology**|Taketo Sano et.al.|[2602.17435](http://arxiv.org/abs/2602.17435)|null|
+|**2026-02-19**|**Shortcut learning in geometric knot classification**|Djordje Mihajlovic et.al.|[2602.17350](http://arxiv.org/abs/2602.17350)|null|
+|**2026-02-19**|**Limiting Behavior of Degree-Degree Metrics under Local Convergence in Probability**|Andrei-Eugeniu Patularu et.al.|[2602.17289](http://arxiv.org/abs/2602.17289)|null|
+|**2026-02-19**|**Physics Encoded Spatial and Temporal Generative Adversarial Network for Tropical Cyclone Image Super-resolution**|Ruoyi Zhang et.al.|[2602.17277](http://arxiv.org/abs/2602.17277)|null|
+|**2026-02-19**|**Multi-session Localization and Mapping Exploiting Topological Information**|Lorenzo Montano-Olivan et.al.|[2602.17226](http://arxiv.org/abs/2602.17226)|null|
+|**2026-02-19**|**Continual uncertainty learning**|Heisei Yonezawa et.al.|[2602.17174](http://arxiv.org/abs/2602.17174)|null|
+|**2026-02-19**|**Breit corrections to moderately charged ions in all-orders calculations**|Andoni Skoufris et.al.|[2602.17129](http://arxiv.org/abs/2602.17129)|null|
+|**2026-02-18**|**DODO: Discrete OCR Diffusion Models**|Sean Man et.al.|[2602.16872](http://arxiv.org/abs/2602.16872)|null|
 |**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
 |**2026-02-18**|**Factorization Machine with Quadratic-Optimization Annealing for RNA Inverse Folding and Evaluation of Binary-Integer Encoding and Nucleotide Assignment**|Shuta Kikuchi et.al.|[2602.16643](http://arxiv.org/abs/2602.16643)|null|
 |**2026-02-18**|**Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models**|Yu Xie et.al.|[2602.16634](http://arxiv.org/abs/2602.16634)|null|
@@ -1105,6 +1142,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
+|**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
+|**2026-02-19**|**Towards Anytime-Valid Statistical Watermarking**|Baihe Huang et.al.|[2602.17608](http://arxiv.org/abs/2602.17608)|null|
+|**2026-02-19**|**ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment**|Hongjue Zhao et.al.|[2602.17560](http://arxiv.org/abs/2602.17560)|null|
+|**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
+|**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
+|**2026-02-19**|**A Theoretical Framework for Modular Learning of Robust Generative Models**|Corinna Cortes et.al.|[2602.17554](http://arxiv.org/abs/2602.17554)|null|
+|**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
+|**2026-02-19**|**Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems**|Zhangqi Duan et.al.|[2602.17542](http://arxiv.org/abs/2602.17542)|null|
+|**2026-02-19**|**Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation**|Dun Yuan et.al.|[2602.17529](http://arxiv.org/abs/2602.17529)|null|
 |**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
 |**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|
 |**2026-02-18**|**Causality is Key for Interpretability Claims to Generalise**|Shruti Joshi et.al.|[2602.16698](http://arxiv.org/abs/2602.16698)|null|
