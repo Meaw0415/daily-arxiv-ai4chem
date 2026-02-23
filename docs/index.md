@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[2602.18419](http://arxiv.org/abs/2602.18419)|null|
+|**2026-02-20**|**Unifying approach to uniform expressivity of graph neural networks**|Huan Luo et.al.|[2602.18409](http://arxiv.org/abs/2602.18409)|null|
+|**2026-02-20**|**Clapeyron Neural Networks for Single-Species Vapor-Liquid Equilibria**|Jan Pavšek et.al.|[2602.18313](http://arxiv.org/abs/2602.18313)|null|
+|**2026-02-20**|**Parameter-Efficient Domain Adaptation of Physics-Informed Self-Attention based GNNs for AC Power Flow Prediction**|Redwanul Karim et.al.|[2602.18227](http://arxiv.org/abs/2602.18227)|null|
+|**2026-02-20**|**Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks**|Lionel Salesses et.al.|[2602.18146](http://arxiv.org/abs/2602.18146)|null|
+|**2026-02-20**|**Advection-Diffusion on Graphs: A Bakry-Emery Laplacian for Spectral Graph Neural Networks**|Pierre-Gabriel Berlureau et.al.|[2602.18141](http://arxiv.org/abs/2602.18141)|null|
+|**2026-02-20**|**Achieving Robust Extrapolation in Materials Property Prediction via Decoupled Transfer Learning**|Tasuku Sugiura et.al.|[2602.18054](http://arxiv.org/abs/2602.18054)|null|
+|**2026-02-20**|**Multi-Modal Sensing Residual-Corrected GNN for mmWave Path Loss Prediction via Synesthesia of Machines**|Mengyuan Lu et.al.|[2602.18005](http://arxiv.org/abs/2602.18005)|null|
+|**2026-02-20**|**Generating adversarial inputs for a graph neural network model of AC power flow**|Robert Parker et.al.|[2602.17975](http://arxiv.org/abs/2602.17975)|null|
+|**2026-02-20**|**Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO**|Mohammad Zangooei et.al.|[2602.17954](http://arxiv.org/abs/2602.17954)|null|
 |**2026-02-19**|**Graph Neural Model Predictive Control for High-Dimensional Systems**|Patrick Benito Eberhard et.al.|[2602.17601](http://arxiv.org/abs/2602.17601)|null|
 |**2026-02-19**|**From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection**|Luzhi Wang et.al.|[2602.17342](http://arxiv.org/abs/2602.17342)|null|
 |**2026-02-19**|**Semi-Supervised Learning on Graphs using Graph Neural Networks**|Juntong Chen et.al.|[2602.17115](http://arxiv.org/abs/2602.17115)|null|
@@ -206,6 +216,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**|Mojtaba Sahraee-Ardakan et.al.|[2602.18428](http://arxiv.org/abs/2602.18428)|null|
+|**2026-02-20**|**Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks**|Kameswara Bharadwaj Mantha et.al.|[2602.18426](http://arxiv.org/abs/2602.18426)|null|
+|**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
+|**2026-02-20**|**Latent Equivariant Operators for Robust Object Recognition: Promise and Challenges**|Minh Dinh et.al.|[2602.18406](http://arxiv.org/abs/2602.18406)|null|
+|**2026-02-20**|**Exploiting Completeness Perception with Diffusion Transformer for Unified 3D MRI Synthesis**|Junkai Liu et.al.|[2602.18400](http://arxiv.org/abs/2602.18400)|null|
+|**2026-02-20**|**Rethinking Flow and Diffusion Bridge Models for Speech Enhancement**|Dahan Wang et.al.|[2602.18355](http://arxiv.org/abs/2602.18355)|null|
+|**2026-02-20**|**A stochastic simulation of the dislocation-mediated etching of porous GaN distributed Bragg reflectors**|Piotr Sokolinski et.al.|[2602.18336](http://arxiv.org/abs/2602.18336)|null|
+|**2026-02-20**|**Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation**|Ziyue Liu et.al.|[2602.18309](http://arxiv.org/abs/2602.18309)|null|
+|**2026-02-20**|**Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies**|Zhuoran Li et.al.|[2602.18291](http://arxiv.org/abs/2602.18291)|null|
 |**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|
 |**2026-02-19**|**MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models**|Hojung Jung et.al.|[2602.17602](http://arxiv.org/abs/2602.17602)|null|
 |**2026-02-19**|**Art2Mus: Artwork-to-Music Generation via Visual Conditioning and Large-Scale Cross-Modal Alignment**|Ivan Rinaldi et.al.|[2602.17599](http://arxiv.org/abs/2602.17599)|null|
@@ -555,6 +575,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Lattice and Orbital-Resolved Fermiology of Metallenes**|Kameyab Raza Abidi et.al.|[2602.18052](http://arxiv.org/abs/2602.18052)|null|
 |**2026-02-19**|**Photocatalytic methanol dehydrogenation promoted synergistically by atomically dispersed Pd and clustered Pd**|Zhuyan Gao et.al.|[2602.17228](http://arxiv.org/abs/2602.17228)|null|
 |**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
 |**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
@@ -613,6 +634,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Efficient Calculation of Absorption Spectra of Platinum Complexes Used as Luminescent Probes for Cancer Detection**|Lena T. T. Nguyen et.al.|[2602.18284](http://arxiv.org/abs/2602.18284)|null|
+|**2026-02-20**|**Machine-learning force-field models for dynamical simulations of metallic magnets**|Gia-Wei Chern et.al.|[2602.18213](http://arxiv.org/abs/2602.18213)|null|
+|**2026-02-20**|**A Computational Study of Organic Molecular Crystals for Photocatalytic Water Splitting**|James D. Green et.al.|[2602.18200](http://arxiv.org/abs/2602.18200)|null|
+|**2026-02-20**|**Light antiproton-nucleus systems at low energies with the ab initio NCSM/RGM method**|Alireza Dehghani et.al.|[2602.18162](http://arxiv.org/abs/2602.18162)|null|
+|**2026-02-20**|**BONNI: Gradient-Informed Bayesian and Interior Point Optimization for Efficient Inverse Design in Nanophotonics**|Yannik Mahlau et.al.|[2602.18148](http://arxiv.org/abs/2602.18148)|null|
+|**2026-02-20**|**Physical Pictures for Quasisymmetry in Crystals**|Bryan D. Assunção et.al.|[2602.18132](http://arxiv.org/abs/2602.18132)|null|
+|**2026-02-20**|**Lattice and Orbital-Resolved Fermiology of Metallenes**|Kameyab Raza Abidi et.al.|[2602.18052](http://arxiv.org/abs/2602.18052)|null|
+|**2026-02-20**|**Learning Without Training**|Ryan O'Dowd et.al.|[2602.17985](http://arxiv.org/abs/2602.17985)|null|
+|**2026-02-19**|**El Agente Gráfico: Structured Execution Graphs for Scientific Agents**|Jiaru Bai et.al.|[2602.17902](http://arxiv.org/abs/2602.17902)|null|
+|**2026-02-19**|**Ab initio Monte Carlo prediction of order-to-disorder transitions in multicomponent MXenes**|Noah Oyeniran et.al.|[2602.17889](http://arxiv.org/abs/2602.17889)|null|
 |**2026-02-19**|**First-principles Newns-Anderson Hamiltonian Construction for Chemisorbed Hydrogen at Metal Surfaces**|Nils Hertl et.al.|[2602.17635](http://arxiv.org/abs/2602.17635)|null|
 |**2026-02-19**|**Evidence for Multimodal Superfluidity of Neutrons**|Yuan-Zhuo Ma et.al.|[2602.17611](http://arxiv.org/abs/2602.17611)|null|
 |**2026-02-19**|**Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery**|Jowaria Khan et.al.|[2602.17605](http://arxiv.org/abs/2602.17605)|null|
@@ -882,6 +913,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Linear filament and nested cluster evolution tomography (LANCET) I. Capture the evolution of dense gas in 14-parsec filament G316.8**|Fengwei Xu et.al.|[2602.18320](http://arxiv.org/abs/2602.18320)|null|
+|**2026-02-20**|**On the Semantic and Syntactic Information Encoded in Proto-Tokens for One-Step Text Reconstruction**|Ivan Bondarenko et.al.|[2602.18301](http://arxiv.org/abs/2602.18301)|null|
+|**2026-02-20**|**RAT+: Train Dense, Infer Sparse -- Recurrence Augmented Attention for Dilated Inference**|Xiuying Wei et.al.|[2602.18196](http://arxiv.org/abs/2602.18196)|null|
+|**2026-02-20**|**Temporal Consistency-Aware Text-to-Motion Generation**|Hongsong Wang et.al.|[2602.18057](http://arxiv.org/abs/2602.18057)|null|
+|**2026-02-20**|**Convergent Gate Elimination and Constructive Circuit Lower Bounds**|Marco Carmosino et.al.|[2602.17942](http://arxiv.org/abs/2602.17942)|null|
+|**2026-02-20**|**Scaling Relations across Galaxy Classification Schemes: I. Star Formation Rate-Stellar Mass Plane of CALIFA Nearby Galaxies**|Veselina Kalinova et.al.|[2602.17928](http://arxiv.org/abs/2602.17928)|null|
+|**2026-02-19**|**Central limit theorem for the global clustering coefficient of random geometric graphs**|Mingao Yuan et.al.|[2602.17896](http://arxiv.org/abs/2602.17896)|null|
+|**2026-02-19**|**COMBA: Cross Batch Aggregation for Learning Large Graphs with Context Gating State Space Models**|Jiajun Shen et.al.|[2602.17893](http://arxiv.org/abs/2602.17893)|null|
+|**2026-02-19**|**Sparse Bayesian Modeling of EEG Channel Interactions Improves P300 Brain-Computer Interface Performance**|Guoxuan Ma et.al.|[2602.17772](http://arxiv.org/abs/2602.17772)|null|
 |**2026-02-19**|**The Stark effect in molecular Rydberg states: Calculation of Rydberg-Stark manifolds of H $_2$ and D$_2$ including fine and hyperfine structures**|Ioana Doran et.al.|[2602.17511](http://arxiv.org/abs/2602.17511)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
 |**2026-02-19**|**A $y$ -ification of Khovanov homology**|Taketo Sano et.al.|[2602.17435](http://arxiv.org/abs/2602.17435)|null|
@@ -1142,6 +1182,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
+|**2026-02-20**|**SPQ: An Ensemble Technique for Large Language Model Compression**|Jiamin Yao et.al.|[2602.18420](http://arxiv.org/abs/2602.18420)|null|
+|**2026-02-20**|**AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild**|Cathy Mengying Fang et.al.|[2602.18415](http://arxiv.org/abs/2602.18415)|null|
+|**2026-02-20**|**"How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations**|Alexandra Neagu et.al.|[2602.18372](http://arxiv.org/abs/2602.18372)|null|
+|**2026-02-20**|**Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings**|Sreejith Sreekumar et.al.|[2602.18364](http://arxiv.org/abs/2602.18364)|null|
+|**2026-02-20**|**Qualitative Coding Analysis through Open-Source Large Language Models: A User Study and Design Recommendations**|Tung T. Ngo et.al.|[2602.18352](http://arxiv.org/abs/2602.18352)|null|
+|**2026-02-20**|**Vichara: Appellate Judgment Prediction and Explanation for the Indian Judicial System**|Pavithra PM Nair et.al.|[2602.18346](http://arxiv.org/abs/2602.18346)|null|
+|**2026-02-20**|**VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean**|Yutong Xin et.al.|[2602.18307](http://arxiv.org/abs/2602.18307)|null|
+|**2026-02-20**|**On the Semantic and Syntactic Information Encoded in Proto-Tokens for One-Step Text Reconstruction**|Ivan Bondarenko et.al.|[2602.18301](http://arxiv.org/abs/2602.18301)|null|
+|**2026-02-20**|**Context-Aware Mapping of 2D Drawing Annotations to 3D CAD Features Using LLM-Assisted Reasoning for Manufacturing Automation**|Muhammad Tayyab Khana et.al.|[2602.18296](http://arxiv.org/abs/2602.18296)|null|
 |**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|null|
 |**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
 |**2026-02-19**|**Towards Anytime-Valid Statistical Watermarking**|Baihe Huang et.al.|[2602.17608](http://arxiv.org/abs/2602.17608)|null|
