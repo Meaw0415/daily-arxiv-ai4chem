@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**Training-Free Cross-Architecture Merging for Graph Neural Networks**|Rishabh Bhattacharya et.al.|[2602.19332](http://arxiv.org/abs/2602.19332)|null|
+|**2026-02-22**|**CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis**|Barsat Khadka et.al.|[2602.19330](http://arxiv.org/abs/2602.19330)|null|
+|**2026-02-22**|**Physics-Informed Graph Neural Network for Inverse Design of Integrated Photonic Biosensors**|Yasaman Torabi et.al.|[2602.19082](http://arxiv.org/abs/2602.19082)|null|
+|**2026-02-22**|**Routing-Aware Explanations for Mixture of Experts Graph Models in Malware Detection**|Hossein Shokouhinejad et.al.|[2602.19025](http://arxiv.org/abs/2602.19025)|null|
+|**2026-02-21**|**HEHRGNN: A Unified Embedding Model for Knowledge Graphs with Hyperedges and Hyper-Relational Edges**|Rajesh Rajagopalamenon et.al.|[2602.18897](http://arxiv.org/abs/2602.18897)|null|
+|**2026-02-21**|**L2G-Net: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations**|Samuel Fernández-Menduiña et.al.|[2602.18837](http://arxiv.org/abs/2602.18837)|null|
+|**2026-02-21**|**From Few-Shot to Zero-Shot: Towards Generalist Graph Anomaly Detection**|Yixin Liu et.al.|[2602.18793](http://arxiv.org/abs/2602.18793)|null|
+|**2026-02-21**|**GLaDiGAtor: Language-Model-Augmented Multi-Relation Graph Learning for Predicting Disease-Gene Associations**|Osman Onur Kuzucu et.al.|[2602.18769](http://arxiv.org/abs/2602.18769)|null|
+|**2026-02-21**|**Nazrin: Atomic Tactics for Graph Neural Networks for Theorem Proving in Lean 4**|Leni Aniva et.al.|[2602.18767](http://arxiv.org/abs/2602.18767)|null|
 |**2026-02-20**|**Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems**|Geri Skenderi et.al.|[2602.18419](http://arxiv.org/abs/2602.18419)|null|
 |**2026-02-20**|**Unifying approach to uniform expressivity of graph neural networks**|Huan Luo et.al.|[2602.18409](http://arxiv.org/abs/2602.18409)|null|
 |**2026-02-20**|**Clapeyron Neural Networks for Single-Species Vapor-Liquid Equilibria**|Jan Pavšek et.al.|[2602.18313](http://arxiv.org/abs/2602.18313)|null|
@@ -216,6 +225,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement**|Jiangjie Qiu et.al.|[2602.19289](http://arxiv.org/abs/2602.19289)|null|
+|**2026-02-22**|**MRI Contrast Enhancement Kinetics World Model**|Jindi Kong et.al.|[2602.19285](http://arxiv.org/abs/2602.19285)|null|
+|**2026-02-22**|**DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation**|Aleksei Liuliakov et.al.|[2602.19261](http://arxiv.org/abs/2602.19261)|null|
+|**2026-02-22**|**RegionRoute: Regional Style Transfer with Diffusion Model**|Bowen Chen et.al.|[2602.19254](http://arxiv.org/abs/2602.19254)|null|
+|**2026-02-22**|**Knowledge-aware Visual Question Generation for Remote Sensing Images**|Siran Li et.al.|[2602.19224](http://arxiv.org/abs/2602.19224)|null|
+|**2026-02-22**|**Controlled Face Manipulation and Synthesis for Data Augmentation**|Joris Kirchner et.al.|[2602.19219](http://arxiv.org/abs/2602.19219)|null|
+|**2026-02-22**|**Questions beyond Pixels: Integrating Commonsense Knowledge in Visual Question Generation for Remote Sensing**|Siran Li et.al.|[2602.19217](http://arxiv.org/abs/2602.19217)|null|
+|**2026-02-22**|**UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models**|Gang Xu et.al.|[2602.19202](http://arxiv.org/abs/2602.19202)|null|
+|**2026-02-22**|**Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation**|Lunjie Zhu et.al.|[2602.19161](http://arxiv.org/abs/2602.19161)|null|
+|**2026-02-22**|**Constrained Diffusion for Accelerated Structure Relaxation of Inorganic Solids with Point Defects**|Jingyi Cui et.al.|[2602.19153](http://arxiv.org/abs/2602.19153)|null|
 |**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
 |**2026-02-20**|**The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning**|Mojtaba Sahraee-Ardakan et.al.|[2602.18428](http://arxiv.org/abs/2602.18428)|null|
 |**2026-02-20**|**Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks**|Kameswara Bharadwaj Mantha et.al.|[2602.18426](http://arxiv.org/abs/2602.18426)|null|
@@ -539,6 +558,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation**|Qingwen Zhang et.al.|[2602.19053](http://arxiv.org/abs/2602.19053)|null|
+|**2026-02-09**|**BioLM-Score: Language-Prior Conditioned Probabilistic Geometric Potentials for Protein-Ligand Scoring**|Zhangfan Yang et.al.|[2602.18476](http://arxiv.org/abs/2602.18476)|null|
 |**2026-02-16**|**BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening**|Anjie Qiao et.al.|[2602.15236](http://arxiv.org/abs/2602.15236)|null|
 |**2026-02-15**|**Chemical Language Models for Natural Products: A State-Space Model Approach**|Ho-Hsuan Wang et.al.|[2602.13958](http://arxiv.org/abs/2602.13958)|null|
 |**2026-02-13**|**Hermes: Large DEL Datasets Train Generalizable Protein-Ligand Binding Prediction Models**|Maxwell Kleinsasser et.al.|[2602.13503](http://arxiv.org/abs/2602.13503)|null|
@@ -575,6 +596,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement**|Jiangjie Qiu et.al.|[2602.19289](http://arxiv.org/abs/2602.19289)|null|
+|**2026-02-22**|**VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery**|Wenhao Shen et.al.|[2602.19180](http://arxiv.org/abs/2602.19180)|null|
+|**2026-02-21**|**TAG: Thinking with Action Unit Grounding for Facial Expression Recognition**|Haobo Lin et.al.|[2602.18763](http://arxiv.org/abs/2602.18763)|null|
 |**2026-02-20**|**Lattice and Orbital-Resolved Fermiology of Metallenes**|Kameyab Raza Abidi et.al.|[2602.18052](http://arxiv.org/abs/2602.18052)|null|
 |**2026-02-19**|**Photocatalytic methanol dehydrogenation promoted synergistically by atomically dispersed Pd and clustered Pd**|Zhuyan Gao et.al.|[2602.17228](http://arxiv.org/abs/2602.17228)|null|
 |**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
@@ -634,6 +658,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement**|Jiangjie Qiu et.al.|[2602.19289](http://arxiv.org/abs/2602.19289)|null|
+|**2026-02-22**|**Microgel Translocation Through Narrow Capillaries**|Subhadip Biswas et.al.|[2602.19205](http://arxiv.org/abs/2602.19205)|null|
+|**2026-02-22**|**Precompression engineering of metal-insulator transition and magnetism in designed breathing kagome systems**|Qingzhuo Duan et.al.|[2602.19147](http://arxiv.org/abs/2602.19147)|null|
+|**2026-02-22**|**Constraining the nuclear symmetry energy from electric dipole polarizability and neutron skin in $^{208}\mathrm{Pb}$ within antisymmetrized molecular dynamics**|Dandan Niu et.al.|[2602.19039](http://arxiv.org/abs/2602.19039)|null|
+|**2026-02-21**|**Similarity-as-Evidence: Calibrating Overconfident VLMs for Interpretable and Label-Efficient Medical Active Learning**|Zhuofan Xie et.al.|[2602.18867](http://arxiv.org/abs/2602.18867)|null|
+|**2026-02-21**|**Three-slab model for the dielectric permittivity of a lipid bilayer**|M. M. B. Sheraj et.al.|[2602.18852](http://arxiv.org/abs/2602.18852)|null|
+|**2026-02-21**|**Beam-Offset Thermoreflectance with Bayesian Optimization to Measure the Anisotropic Thermal Properties of Semiconductor Superlattices**|A. Chatterjee et.al.|[2602.18840](http://arxiv.org/abs/2602.18840)|null|
+|**2026-02-21**|**Rigorous Quantum Thermodynamics from Extended Path Integral Coarse-Graining**|Jing Shen et.al.|[2602.18821](http://arxiv.org/abs/2602.18821)|null|
+|**2026-02-21**|**A ReaxFF-based thermomechanical analysis of N-carbophenes: phase-change, thermal expansion, and high temperature synthesis pathway**|Chad E. Junkermeier et.al.|[2602.18712](http://arxiv.org/abs/2602.18712)|null|
+|**2026-02-20**|**The Interplay Between Liquid-Liquid Phase Equilibria, Sequence, and Tg in Copolymers**|Makayla R. Branham-Ferrari et.al.|[2602.18659](http://arxiv.org/abs/2602.18659)|null|
 |**2026-02-20**|**Efficient Calculation of Absorption Spectra of Platinum Complexes Used as Luminescent Probes for Cancer Detection**|Lena T. T. Nguyen et.al.|[2602.18284](http://arxiv.org/abs/2602.18284)|null|
 |**2026-02-20**|**Machine-learning force-field models for dynamical simulations of metallic magnets**|Gia-Wei Chern et.al.|[2602.18213](http://arxiv.org/abs/2602.18213)|null|
 |**2026-02-20**|**A Computational Study of Organic Molecular Crystals for Photocatalytic Water Splitting**|James D. Green et.al.|[2602.18200](http://arxiv.org/abs/2602.18200)|null|
@@ -913,6 +947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**MRI Contrast Enhancement Kinetics World Model**|Jindi Kong et.al.|[2602.19285](http://arxiv.org/abs/2602.19285)|null|
+|**2026-02-22**|**Feedback shaped the galaxy morphological sequence in presence of mergers**|Masafumi Noguchi et.al.|[2602.19227](http://arxiv.org/abs/2602.19227)|null|
+|**2026-02-22**|**How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization**|Yangyi Fang et.al.|[2602.19208](http://arxiv.org/abs/2602.19208)|null|
+|**2026-02-22**|**Structure of sets with small product sets in torsion-free groups, cyclic groups of prime orders and abelian groups**|Raj Kumar Mistri et.al.|[2602.19168](http://arxiv.org/abs/2602.19168)|null|
+|**2026-02-22**|**Nuclear Pasta and Crustal Quasi-Periodic Oscillations in Neutron Star**|Vishal Parmar et.al.|[2602.19125](http://arxiv.org/abs/2602.19125)|null|
+|**2026-02-22**|**MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment**|Duc Duy Nguyen et.al.|[2602.19004](http://arxiv.org/abs/2602.19004)|null|
+|**2026-02-21**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
+|**2026-02-21**|**Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation**|Kaiming Jin et.al.|[2602.18941](http://arxiv.org/abs/2602.18941)|null|
+|**2026-02-21**|**AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting**|Mohammadreza Ghaffarzadeh-Esfahani et.al.|[2602.18915](http://arxiv.org/abs/2602.18915)|null|
+|**2026-02-21**|**Hyperbolic Busemann Neural Networks**|Ziheng Chen et.al.|[2602.18858](http://arxiv.org/abs/2602.18858)|null|
 |**2026-02-20**|**Linear filament and nested cluster evolution tomography (LANCET) I. Capture the evolution of dense gas in 14-parsec filament G316.8**|Fengwei Xu et.al.|[2602.18320](http://arxiv.org/abs/2602.18320)|null|
 |**2026-02-20**|**On the Semantic and Syntactic Information Encoded in Proto-Tokens for One-Step Text Reconstruction**|Ivan Bondarenko et.al.|[2602.18301](http://arxiv.org/abs/2602.18301)|null|
 |**2026-02-20**|**RAT+: Train Dense, Infer Sparse -- Recurrence Augmented Attention for Dilated Inference**|Xiuying Wei et.al.|[2602.18196](http://arxiv.org/abs/2602.18196)|null|
@@ -1182,6 +1226,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**Smooth Gate Functions for Soft Advantage Policy Optimization**|Egor Denisov et.al.|[2602.19345](http://arxiv.org/abs/2602.19345)|null|
+|**2026-02-22**|**Soft Sequence Policy Optimization: Bridging GMPO and SAPO**|Svetlana Glazyrina et.al.|[2602.19327](http://arxiv.org/abs/2602.19327)|null|
+|**2026-02-22**|**Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations**|Dongming Jiang et.al.|[2602.19320](http://arxiv.org/abs/2602.19320)|null|
+|**2026-02-22**|**A Power Market Model with Hypersaclers and Modular Datacenters**|Yihsu Chen et.al.|[2602.19310](http://arxiv.org/abs/2602.19310)|null|
+|**2026-02-22**|**Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation**|Xiangyu Liu et.al.|[2602.19309](http://arxiv.org/abs/2602.19309)|null|
+|**2026-02-22**|**Automated Generation of Microfluidic Netlists using Large Language Models**|Jasper Davidson et.al.|[2602.19297](http://arxiv.org/abs/2602.19297)|null|
+|**2026-02-22**|**Towards Automated Page Object Generation for Web Testing using Large Language Models**|Betül Karagöz et.al.|[2602.19294](http://arxiv.org/abs/2602.19294)|null|
+|**2026-02-22**|**Limited Reasoning Space: The cage of long-horizon reasoning in LLMs**|Zhenyu Li et.al.|[2602.19281](http://arxiv.org/abs/2602.19281)|null|
+|**2026-02-22**|**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**|Jingyu Xiao et.al.|[2602.19276](http://arxiv.org/abs/2602.19276)|null|
+|**2026-02-22**|**KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models**|Ce Fang et.al.|[2602.19275](http://arxiv.org/abs/2602.19275)|null|
 |**2026-02-20**|**VIRAASAT: Traversing Novel Paths for Indian Cultural Reasoning**|Harshul Raj Surana et.al.|[2602.18429](http://arxiv.org/abs/2602.18429)|null|
 |**2026-02-20**|**SPQ: An Ensemble Technique for Large Language Model Compression**|Jiamin Yao et.al.|[2602.18420](http://arxiv.org/abs/2602.18420)|null|
 |**2026-02-20**|**AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild**|Cathy Mengying Fang et.al.|[2602.18415](http://arxiv.org/abs/2602.18415)|null|
