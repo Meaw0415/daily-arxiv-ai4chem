@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**A Secure and Private Distributed Bayesian Federated Learning Design**|Nuocheng Yang et.al.|[2602.20003](http://arxiv.org/abs/2602.20003)|null|
+|**2026-02-23**|**AI-Powered Conflict Management in Open RAN: Detection, Classification, and Mitigation**|Abdul Wadud et.al.|[2602.19758](http://arxiv.org/abs/2602.19758)|null|
+|**2026-02-23**|**Impact of Training Dataset Size for ML Load Flow Surrogates**|Timon Conrad et.al.|[2602.19667](http://arxiv.org/abs/2602.19667)|null|
+|**2026-02-23**|**Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks**|Yijiashun Qi et.al.|[2602.19591](http://arxiv.org/abs/2602.19591)|null|
+|**2026-02-23**|**Temporal-Aware Heterogeneous Graph Reasoning with Multi-View Fusion for Temporal Question Answering**|Wuzhenghong Wen et.al.|[2602.19569](http://arxiv.org/abs/2602.19569)|null|
+|**2026-02-22**|**Spiking Graph Predictive Coding for Reliable OOD Generalization**|Jing Ren et.al.|[2602.19392](http://arxiv.org/abs/2602.19392)|null|
 |**2026-02-22**|**Training-Free Cross-Architecture Merging for Graph Neural Networks**|Rishabh Bhattacharya et.al.|[2602.19332](http://arxiv.org/abs/2602.19332)|null|
 |**2026-02-22**|**CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis**|Barsat Khadka et.al.|[2602.19330](http://arxiv.org/abs/2602.19330)|null|
 |**2026-02-22**|**Physics-Informed Graph Neural Network for Inverse Design of Integrated Photonic Biosensors**|Yasaman Torabi et.al.|[2602.19082](http://arxiv.org/abs/2602.19082)|null|
@@ -225,6 +231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|null|
+|**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|null|
+|**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
+|**2026-02-23**|**Benchmarking Unlearning for Vision Transformers**|Kairan Zhao et.al.|[2602.20114](http://arxiv.org/abs/2602.20114)|null|
+|**2026-02-23**|**BarrierSteer: LLM Safety via Learning Barrier Steering**|Thanh Q. Tran et.al.|[2602.20102](http://arxiv.org/abs/2602.20102)|null|
+|**2026-02-23**|**SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis**|Xinya Chen et.al.|[2602.20079](http://arxiv.org/abs/2602.20079)|null|
+|**2026-02-23**|**Training-Free Generative Modeling via Kernelized Stochastic Interpolants**|Florentin Coeurdoux et.al.|[2602.20070](http://arxiv.org/abs/2602.20070)|null|
+|**2026-02-23**|**MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving**|Junli Wang et.al.|[2602.20060](http://arxiv.org/abs/2602.20060)|null|
+|**2026-02-23**|**Closing the gap in multimodal medical representation alignment**|Eleonora Grassucci et.al.|[2602.20046](http://arxiv.org/abs/2602.20046)|null|
+|**2026-02-23**|**Two-spin-multiplexed optoacoustic light storage in chiral photonic crystal fiber**|Xinglin Zeng et.al.|[2602.20024](http://arxiv.org/abs/2602.20024)|null|
 |**2026-02-22**|**AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement**|Jiangjie Qiu et.al.|[2602.19289](http://arxiv.org/abs/2602.19289)|null|
 |**2026-02-22**|**MRI Contrast Enhancement Kinetics World Model**|Jindi Kong et.al.|[2602.19285](http://arxiv.org/abs/2602.19285)|null|
 |**2026-02-22**|**DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation**|Aleksei Liuliakov et.al.|[2602.19261](http://arxiv.org/abs/2602.19261)|null|
@@ -658,6 +674,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**The effect of the A-site cation on the phase transition temperature of metal halide perovskites**|Tom Braeckevelt et.al.|[2602.20058](http://arxiv.org/abs/2602.20058)|null|
+|**2026-02-23**|**The interplay of cation/anion and monovalent/divalent selectivity in negatively charged nanopores: local charge inversion and anion leakage**|Eszter Lakics et.al.|[2602.19992](http://arxiv.org/abs/2602.19992)|null|
+|**2026-02-23**|**Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers**|Alexander Zhilkin et.al.|[2602.19936](http://arxiv.org/abs/2602.19936)|null|
+|**2026-02-23**|**Automated structure discovery for Tip Enhanced Raman Spectroscopy**|Harshit Sethi et.al.|[2602.19932](http://arxiv.org/abs/2602.19932)|null|
+|**2026-02-23**|**Collective Variable-Guided Engineering of the Free-Energy Surface of a Small Peptide**|Muralika Medaparambath et.al.|[2602.19906](http://arxiv.org/abs/2602.19906)|null|
+|**2026-02-23**|**GPU-Native Compressed Neighbor Lists with a Space-Filling-Curve Data Layout**|Felix Thaler et.al.|[2602.19873](http://arxiv.org/abs/2602.19873)|null|
+|**2026-02-23**|**High-resolution spectroscopy of 162Dy Rydberg levels**|G. Ferioli et.al.|[2602.19824](http://arxiv.org/abs/2602.19824)|null|
+|**2026-02-23**|**Interface stability of beta-Ga2O3 (100) on oxidized Si- and C-terminated 3C-SiC (001) substrates: a first-principles investigation**|Marica Licciardi et.al.|[2602.19820](http://arxiv.org/abs/2602.19820)|null|
+|**2026-02-23**|**Composition-Dependent Plasmon-Enhanced Emission in Lead-Free Cs $_3$Cu$_2$X$_5$ Halides: A DFT--FDTD Study**|Shoumik Debnath et.al.|[2602.19780](http://arxiv.org/abs/2602.19780)|null|
+|**2026-02-23**|**Strain- and Field-Tunable Nonrelativistic Spin Splitting and Wave-Symmetry-Dependent Spin Transport in Twisted Bilayer Altermagnets**|Shantanu Pathak et.al.|[2602.19713](http://arxiv.org/abs/2602.19713)|null|
 |**2026-02-22**|**AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement**|Jiangjie Qiu et.al.|[2602.19289](http://arxiv.org/abs/2602.19289)|null|
 |**2026-02-22**|**Microgel Translocation Through Narrow Capillaries**|Subhadip Biswas et.al.|[2602.19205](http://arxiv.org/abs/2602.19205)|null|
 |**2026-02-22**|**Precompression engineering of metal-insulator transition and magnetism in designed breathing kagome systems**|Qingzhuo Duan et.al.|[2602.19147](http://arxiv.org/abs/2602.19147)|null|
@@ -947,6 +973,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Adaptation to Intrinsic Dependence in Diffusion Language Models**|Yunxiao Zhao et.al.|[2602.20126](http://arxiv.org/abs/2602.20126)|null|
+|**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
+|**2026-02-23**|**Chemotaxis of cell aggregates: morphology and dynamics of migrating active droplets**|Giulia L. Celora et.al.|[2602.20088](http://arxiv.org/abs/2602.20088)|null|
+|**2026-02-23**|**To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation**|Apoorva Vashisth et.al.|[2602.20055](http://arxiv.org/abs/2602.20055)|null|
+|**2026-02-23**|**Fast and simple multiplication of bounded twin-width matrices**|László Kozma et.al.|[2602.20023](http://arxiv.org/abs/2602.20023)|null|
+|**2026-02-23**|**Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers**|Alexander Zhilkin et.al.|[2602.19936](http://arxiv.org/abs/2602.19936)|null|
+|**2026-02-23**|**M3S-Net: Multimodal Feature Fusion Network Based on Multi-scale Data for Ultra-short-term PV Power Forecasting**|Penghui Niu et.al.|[2602.19832](http://arxiv.org/abs/2602.19832)|null|
+|**2026-02-23**|**Interface stability of beta-Ga2O3 (100) on oxidized Si- and C-terminated 3C-SiC (001) substrates: a first-principles investigation**|Marica Licciardi et.al.|[2602.19820](http://arxiv.org/abs/2602.19820)|null|
+|**2026-02-23**|**Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing**|Wall Kim et.al.|[2602.19805](http://arxiv.org/abs/2602.19805)|null|
+|**2026-02-23**|**Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)**|Mohammed Javed Absar et.al.|[2602.19762](http://arxiv.org/abs/2602.19762)|null|
 |**2026-02-22**|**MRI Contrast Enhancement Kinetics World Model**|Jindi Kong et.al.|[2602.19285](http://arxiv.org/abs/2602.19285)|null|
 |**2026-02-22**|**Feedback shaped the galaxy morphological sequence in presence of mergers**|Masafumi Noguchi et.al.|[2602.19227](http://arxiv.org/abs/2602.19227)|null|
 |**2026-02-22**|**How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization**|Yangyi Fang et.al.|[2602.19208](http://arxiv.org/abs/2602.19208)|null|
@@ -1226,6 +1262,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[2602.20140](http://arxiv.org/abs/2602.20140)|null|
+|**2026-02-23**|**Do Large Language Models Understand Data Visualization Rules?**|Martin Sinnona et.al.|[2602.20137](http://arxiv.org/abs/2602.20137)|null|
+|**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|
+|**2026-02-23**|**AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization**|Mert Cemri et.al.|[2602.20133](http://arxiv.org/abs/2602.20133)|null|
+|**2026-02-23**|**To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering**|Zaifu Zhan et.al.|[2602.20130](http://arxiv.org/abs/2602.20130)|null|
+|**2026-02-23**|**NanoKnow: How to Know What Your Language Model Knows**|Lingwei Gu et.al.|[2602.20122](http://arxiv.org/abs/2602.20122)|null|
+|**2026-02-23**|**BarrierSteer: LLM Safety via Learning Barrier Steering**|Thanh Q. Tran et.al.|[2602.20102](http://arxiv.org/abs/2602.20102)|null|
+|**2026-02-23**|**CausalFlip: A Benchmark for LLM Causal Judgment Beyond Semantic Matching**|Yuzhe Wang et.al.|[2602.20094](http://arxiv.org/abs/2602.20094)|null|
+|**2026-02-23**|**How Retrieved Context Shapes Internal Representations in RAG**|Samuel Yeh et.al.|[2602.20091](http://arxiv.org/abs/2602.20091)|null|
+|**2026-02-23**|**Do Large Language Models Understand Data Visualization Principles?**|Martin Sinnona et.al.|[2602.20084](http://arxiv.org/abs/2602.20084)|null|
 |**2026-02-22**|**Smooth Gate Functions for Soft Advantage Policy Optimization**|Egor Denisov et.al.|[2602.19345](http://arxiv.org/abs/2602.19345)|null|
 |**2026-02-22**|**Soft Sequence Policy Optimization: Bridging GMPO and SAPO**|Svetlana Glazyrina et.al.|[2602.19327](http://arxiv.org/abs/2602.19327)|null|
 |**2026-02-22**|**Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations**|Dongming Jiang et.al.|[2602.19320](http://arxiv.org/abs/2602.19320)|null|
