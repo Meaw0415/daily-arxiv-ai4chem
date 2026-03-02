@@ -1466,6 +1466,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|
+|**2026-02-27**|**Do LLMs Benefit From Their Own Words?**|Jenny Y. Huang et.al.|[2602.24287](http://arxiv.org/abs/2602.24287)|null|
+|**2026-02-27**|**CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation**|Weinan Dai et.al.|[2602.24286](http://arxiv.org/abs/2602.24286)|null|
+|**2026-02-27**|**Taming Momentum: Rethinking Optimizer States Through Low-Rank Approximation**|Zhengbo Wang et.al.|[2602.24283](http://arxiv.org/abs/2602.24283)|null|
+|**2026-02-27**|**UXSim: Towards a Hybrid User Search Simulation**|Saber Zerhoudi et.al.|[2602.24241](http://arxiv.org/abs/2602.24241)|null|
 |**2026-02-27**|**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**|Jialiang Fan et.al.|[2602.24235](http://arxiv.org/abs/2602.24235)|null|
 |**2026-02-27**|**Anansi: Scalable Characterization of Message-Based Job Scams**|Abisheka Pitumpe et.al.|[2602.24223](http://arxiv.org/abs/2602.24223)|null|
 |**2026-02-27**|**Mechanism-Resolved PFM of Ferroionic and Ferroelectric Responses in Thickness-Gradient Hf0.5Zr0.5O2 Libraries**|Yu Liu et.al.|[2602.24216](http://arxiv.org/abs/2602.24216)|null|
