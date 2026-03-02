@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Random-Forest-Induced Graph Neural Networks for Tabular Learning**|Haozhe Chen et.al.|[2602.24224](http://arxiv.org/abs/2602.24224)|null|
+|**2026-02-27**|**Normalisation and Initialisation Strategies for Graph Neural Networks in Blockchain Anomaly Detection**|Dang Sy Duy et.al.|[2602.23599](http://arxiv.org/abs/2602.23599)|null|
+|**2026-02-27**|**Flowette: Flow Matching with Graphette Priors for Graph Generation**|Asiri Wijesinghe et.al.|[2602.23566](http://arxiv.org/abs/2602.23566)|null|
+|**2026-02-26**|**Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents**|Aishwarya Sarkar et.al.|[2602.23556](http://arxiv.org/abs/2602.23556)|null|
+|**2026-02-26**|**Cross-Representation Knowledge Transfer for Improved Sequential Recommendations**|Artur Gimranov et.al.|[2602.23471](http://arxiv.org/abs/2602.23471)|null|
 |**2026-02-26**|**Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays**|Arsène Ferrière et.al.|[2602.23321](http://arxiv.org/abs/2602.23321)|null|
 |**2026-02-26**|**Real-Time Stream Compaction for Sparse Machine Learning on FPGAs**|Marc Neu et.al.|[2602.23281](http://arxiv.org/abs/2602.23281)|null|
 |**2026-02-26**|**A Perspective on Open Challenges in Deformable Object Manipulation**|Ryan Paul McKennaa et.al.|[2602.22998](http://arxiv.org/abs/2602.22998)|null|
@@ -252,6 +257,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Enhancing Spatial Understanding in Image Generation via Reward Modeling**|Zhenyu Tang et.al.|[2602.24233](http://arxiv.org/abs/2602.24233)|null|
+|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
+|**2026-02-27**|**Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics**|Egor Antipov et.al.|[2602.24201](http://arxiv.org/abs/2602.24201)|null|
+|**2026-02-27**|**GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction**|Chao Xu et.al.|[2602.24161](http://arxiv.org/abs/2602.24161)|null|
+|**2026-02-27**|**HumanOrbit: 3D Human Reconstruction as 360° Orbit Generation**|Keito Suzuki et.al.|[2602.24148](http://arxiv.org/abs/2602.24148)|null|
+|**2026-02-27**|**DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer**|Yuxuan Zhang et.al.|[2602.24096](http://arxiv.org/abs/2602.24096)|null|
+|**2026-02-27**|**SongSong: A Time Phonograph for Chinese SongCi Music from Thousand of Years Away**|Jiajia Li et.al.|[2602.24071](http://arxiv.org/abs/2602.24071)|null|
+|**2026-02-27**|**Solubilization kinetics of oils by ionic and nonionic micelles: theoretical model**|Alexey Kabalnov et.al.|[2602.24052](http://arxiv.org/abs/2602.24052)|null|
+|**2026-02-27**|**Stellarator island divertor shape optimization for reduced peak heat fluxes**|Avigdor Veksler et.al.|[2602.24049](http://arxiv.org/abs/2602.24049)|null|
+|**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|null|
 |**2026-02-26**|**SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation**|Vaibhav Agrawal et.al.|[2602.23359](http://arxiv.org/abs/2602.23359)|null|
 |**2026-02-26**|**SemanticVocoder: Bridging Audio Generation and Audio Understanding via Semantic Latents**|Zeyu Xie et.al.|[2602.23333](http://arxiv.org/abs/2602.23333)|null|
 |**2026-02-26**|**Data-Efficient Generative Modeling of Non-Gaussian Global Climate Fields via Scalable Composite Transformations**|Johannes Brachem et.al.|[2602.23311](http://arxiv.org/abs/2602.23311)|null|
@@ -682,6 +697,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Duality of Theoretical Approaches to Understand the Electrical Double Layer in Concentrated Electrolytes**|Zachary A. H. Goodwin et.al.|[2602.24205](http://arxiv.org/abs/2602.24205)|null|
+|**2026-02-26**|**Band Renormalization in Metal-Organic Framework/Au(111) Epitaxial Heterostructures**|Xiaoqing Yuan et.al.|[2602.23441](http://arxiv.org/abs/2602.23441)|null|
 |**2026-02-26**|**A Scaling Law for Bandwidth Under Quantization**|Maximilian Kalcher et.al.|[2602.23252](http://arxiv.org/abs/2602.23252)|null|
 |**2026-02-26**|**Chalcogen Impurity Barriers in 2D Systems via Semi-Empirical/Machine Learning Modeling: A Survey over 4000 Materials**|M. L. Pereira Junior et.al.|[2602.22978](http://arxiv.org/abs/2602.22978)|null|
 |**2026-02-26**|**Weak dual symmetries of two color QCD phase diagram**|K. G. Klimenko et.al.|[2602.22820](http://arxiv.org/abs/2602.22820)|null|
@@ -749,6 +766,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Theoretical Studies of alpha Clustering in Nuclei and Beyond**|Takaharu Otsuka et.al.|[2602.24175](http://arxiv.org/abs/2602.24175)|null|
+|**2026-02-27**|**MesoMem: A mesoscale membrane model based on an additive potential**|Pietro Sillano et.al.|[2602.24123](http://arxiv.org/abs/2602.24123)|null|
+|**2026-02-27**|**Stellarator island divertor shape optimization for reduced peak heat fluxes**|Avigdor Veksler et.al.|[2602.24049](http://arxiv.org/abs/2602.24049)|null|
+|**2026-02-27**|**RewardUQ: A Unified Framework for Uncertainty-Aware Reward Models**|Daniel Yang et.al.|[2602.24040](http://arxiv.org/abs/2602.24040)|null|
+|**2026-02-27**|**Fermi-surface studies of altermagnetic CrSb from Shubnikov-de Haas oscillations**|Sajal Naduvile Thadathil et.al.|[2602.24033](http://arxiv.org/abs/2602.24033)|null|
+|**2026-02-27**|**Phonon-Assisted Photoluminescence and Ultrafast Exciton Dynamics in Two-Dimensional Silicon Carbide**|Afreen Anamul Haque et.al.|[2602.23925](http://arxiv.org/abs/2602.23925)|null|
+|**2026-02-27**|**Thermodynamic effects of solid electrolyte interphase formation from solvation and ionic association in water-in-salt electrolytes**|Daniel M. Markiewitz et.al.|[2602.23875](http://arxiv.org/abs/2602.23875)|null|
+|**2026-02-27**|**The origin of complex behavior of liquid carbon: an insight from computer simulation**|Yu. D. Fomin et.al.|[2602.23786](http://arxiv.org/abs/2602.23786)|null|
+|**2026-02-27**|**Modeling of polymer phase transition from crystalline to conformationally disordered phase**|V. V. Atrazhev et.al.|[2602.23756](http://arxiv.org/abs/2602.23756)|null|
+|**2026-02-27**|**kALDo 2.0: Scalable Thermal Transport from First Principles and Machine Learning Potentials**|Giuseppe Barbalinardo et.al.|[2602.23728](http://arxiv.org/abs/2602.23728)|null|
 |**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
 |**2026-02-26**|**Accounting for the length-scale dependence of thermal diffusivity in 3C-SiC measured with transient thermal gratings**|Keshav Vasudeva et.al.|[2602.23247](http://arxiv.org/abs/2602.23247)|null|
 |**2026-02-26**|**Efficient training of generative models from multireference simulations and its application to the design of Dy complexes with large magnetic anisotropy**|Zahra Khatibi et.al.|[2602.23230](http://arxiv.org/abs/2602.23230)|null|
@@ -1085,6 +1112,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Filling the Gap in Cluster Evolution: JWST's Glimpse into a Young, Star-Forming Cluster at Cosmic Noon**|Pierluigi Rinaldi et.al.|[2602.24162](http://arxiv.org/abs/2602.24162)|null|
+|**2026-02-27**|**Neural Diffusion Intensity Models for Point Process Data**|Xinlong Du et.al.|[2602.24083](http://arxiv.org/abs/2602.24083)|null|
+|**2026-02-27**|**Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos**|Haoxuan Xu et.al.|[2602.23937](http://arxiv.org/abs/2602.23937)|null|
+|**2026-02-27**|**Structural Evolution during Reversible Halogen Intercalation into WTe2: Commensurate-Incommensurate WTe2I and Multistage WTe2Brx (x = 0.5, 1.0 and 1.25)**|Patrick Schmidt et.al.|[2602.23841](http://arxiv.org/abs/2602.23841)|null|
+|**2026-02-27**|**Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation**|Chongyang Xu et.al.|[2602.23814](http://arxiv.org/abs/2602.23814)|null|
+|**2026-02-27**|**TradeFM: A Generative Foundation Model for Trade-flow and Market Microstructure**|Maxime Kawawa-Beaudan et.al.|[2602.23784](http://arxiv.org/abs/2602.23784)|null|
+|**2026-02-27**|**StemVLA:An Open-Source Vision-Language-Action Model with Future 3D Spatial Geometry Knowledge and 4D Historical Representation**|Jiasong Xiao et.al.|[2602.23721](http://arxiv.org/abs/2602.23721)|null|
+|**2026-02-27**|**EgoGraph: Temporal Knowledge Graph for Egocentric Video Understanding**|Shitong Sun et.al.|[2602.23709](http://arxiv.org/abs/2602.23709)|null|
+|**2026-02-27**|**From Flat Logs to Causal Graphs: Hierarchical Failure Attribution for LLM-based Multi-Agent Systems**|Yawen Wang et.al.|[2602.23701](http://arxiv.org/abs/2602.23701)|null|
+|**2026-02-27**|**PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents**|Yihan et.al.|[2602.23668](http://arxiv.org/abs/2602.23668)|null|
 |**2026-02-26**|**UniScale: Unified Scale-Aware 3D Reconstruction for Multi-View Understanding via Prior Injection for Robotic Perception**|Mohammad Mahdavian et.al.|[2602.23224](http://arxiv.org/abs/2602.23224)|null|
 |**2026-02-26**|**ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation**|Junhu Fu et.al.|[2602.23203](http://arxiv.org/abs/2602.23203)|null|
 |**2026-02-26**|**Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models**|Gal Kesten-Pomeranz et.al.|[2602.23179](http://arxiv.org/abs/2602.23179)|null|
@@ -1408,6 +1445,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems**|Jialiang Fan et.al.|[2602.24235](http://arxiv.org/abs/2602.24235)|null|
+|**2026-02-27**|**Anansi: Scalable Characterization of Message-Based Job Scams**|Abisheka Pitumpe et.al.|[2602.24223](http://arxiv.org/abs/2602.24223)|null|
+|**2026-02-27**|**Mechanism-Resolved PFM of Ferroionic and Ferroelectric Responses in Thickness-Gradient Hf0.5Zr0.5O2 Libraries**|Yu Liu et.al.|[2602.24216](http://arxiv.org/abs/2602.24216)|null|
+|**2026-02-27**|**Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume**|Gregory Kang Ruey Lau et.al.|[2602.24195](http://arxiv.org/abs/2602.24195)|null|
+|**2026-02-27**|**Beyond Explainable AI (XAI): An Overdue Paradigm Shift and Post-XAI Research Directions**|Saleh Afroogh et.al.|[2602.24176](http://arxiv.org/abs/2602.24176)|null|
+|**2026-02-27**|**Task-Centric Acceleration of Small-Language Models**|Dor Tsur et.al.|[2602.24174](http://arxiv.org/abs/2602.24174)|null|
+|**2026-02-27**|**LemmaBench: A Live, Research-Level Benchmark to Evaluate LLM Capabilities in Mathematics**|Antoine Peyronnet et.al.|[2602.24173](http://arxiv.org/abs/2602.24173)|null|
+|**2026-02-27**|**ArgLLM-App: An Interactive System for Argumentative Reasoning with Large Language Models**|Adam Dejl et.al.|[2602.24172](http://arxiv.org/abs/2602.24172)|null|
+|**2026-02-27**|**Terminology Rarity Predicts Catastrophic Failure in LLM Translation of Low-Resource Ancient Languages: Evidence from Ancient Greek**|James L. Zainaldin et.al.|[2602.24119](http://arxiv.org/abs/2602.24119)|null|
+|**2026-02-27**|**ARGUS: Seeing the Influence of Narrative Features on Persuasion in Argumentative Texts**|Sara Nabhani et.al.|[2602.24109](http://arxiv.org/abs/2602.24109)|null|
 |**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
 |**2026-02-26**|**Utilizing LLMs for Industrial Process Automation**|Salim Fares et.al.|[2602.23331](http://arxiv.org/abs/2602.23331)|null|
 |**2026-02-26**|**Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks**|Kunihiro Miyazaki et.al.|[2602.23330](http://arxiv.org/abs/2602.23330)|null|
