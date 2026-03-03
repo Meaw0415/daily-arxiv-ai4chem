@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Graph neural network force fields for adiabatic dynamics of lattice Hamiltonians**|Yunhao Fan et.al.|[2603.02039](http://arxiv.org/abs/2603.02039)|null|
+|**2026-03-02**|**Revealing Combinatorial Reasoning of GNNs via Graph Concept Bottleneck Layer**|Yue Niu et.al.|[2603.02025](http://arxiv.org/abs/2603.02025)|null|
+|**2026-03-02**|**BAED: a New Paradigm for Few-shot Graph Learning with Explanation in the Loop**|Chao Chen et.al.|[2603.01941](http://arxiv.org/abs/2603.01941)|null|
+|**2026-03-02**|**FreeGNN: Continual Source-Free Graph Neural Network Adaptation for Renewable Energy Forecasting**|Abderaouf Bahi et.al.|[2603.01657](http://arxiv.org/abs/2603.01657)|null|
+|**2026-03-02**|**Towards OOD Generalization in Dynamic Graphs via Causal Invariant Learning**|Xinxun Zhang et.al.|[2603.01626](http://arxiv.org/abs/2603.01626)|null|
+|**2026-03-02**|**Pharmacology Knowledge Graphs: Do We Need Chemical Structure for Drug Repurposing?**|Youssef Abo-Dahab et.al.|[2603.01537](http://arxiv.org/abs/2603.01537)|null|
+|**2026-03-02**|**A Cascaded Graph Neural Network for Joint Root Cause Localization and Analysis in Edge Computing Environments**|Duneesha Fernando et.al.|[2603.01447](http://arxiv.org/abs/2603.01447)|null|
+|**2026-03-02**|**Invariant-Stratified Propagation for Expressive Graph Neural Networks**|Asela Hevapathige et.al.|[2603.01388](http://arxiv.org/abs/2603.01388)|null|
+|**2026-03-02**|**GNN Based Joint Beamforming Design for Extremely Large-Scale RIS Assisted Near-Field ISAC Systems**|Jiahao Chen et.al.|[2603.01379](http://arxiv.org/abs/2603.01379)|null|
+|**2026-03-01**|**Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent**|Achuth Chandrasekhar et.al.|[2603.01311](http://arxiv.org/abs/2603.01311)|null|
 |**2026-03-01**|**GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings**|Haimonti Dutta et.al.|[2603.00854](http://arxiv.org/abs/2603.00854)|null|
 |**2026-02-28**|**Learning to Explore: Policy-Guided Outlier Synthesis for Graph Out-of-Distribution Detection**|Li Sun et.al.|[2603.00602](http://arxiv.org/abs/2603.00602)|null|
 |**2026-02-28**|**Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger**|Li Sun et.al.|[2603.00599](http://arxiv.org/abs/2603.00599)|null|
@@ -263,6 +273,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation**|Divyanshu Daiya et.al.|[2603.02190](http://arxiv.org/abs/2603.02190)|null|
+|**2026-03-02**|**Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance**|Yiqi Lin et.al.|[2603.02175](http://arxiv.org/abs/2603.02175)|null|
+|**2026-03-02**|**GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis**|Srikumar Sastry et.al.|[2603.02172](http://arxiv.org/abs/2603.02172)|null|
+|**2026-03-02**|**Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model**|Fabian Steinbrenner et.al.|[2603.02143](http://arxiv.org/abs/2603.02143)|null|
+|**2026-03-02**|**LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation**|Hualiang Wei et.al.|[2603.02129](http://arxiv.org/abs/2603.02129)|null|
+|**2026-03-02**|**A 3D mesh convolution-based autoencoder for geometry compression**|Germain Bregeon et.al.|[2603.02125](http://arxiv.org/abs/2603.02125)|null|
+|**2026-03-02**|**ORGAN: Object-Centric Representation Learning using Cycle Consistent Generative Adversarial Networks**|Joël Küchler et.al.|[2603.02063](http://arxiv.org/abs/2603.02063)|null|
+|**2026-03-02**|**WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories**|Yisu Zhang et.al.|[2603.02049](http://arxiv.org/abs/2603.02049)|null|
+|**2026-03-02**|**Rich Insights from Cheap Signals: Efficient Evaluations via Tensor Factorization**|Felipe Maia Polo et.al.|[2603.02029](http://arxiv.org/abs/2603.02029)|null|
+|**2026-03-02**|**CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space**|Bowen Zhang et.al.|[2603.02022](http://arxiv.org/abs/2603.02022)|null|
 |**2026-03-01**|**Probabilistic Learning and Generation in Deep Sequence Models**|Wenlong Chen et.al.|[2603.00888](http://arxiv.org/abs/2603.00888)|null|
 |**2026-02-28**|**Minimax convergence rates of a binary plug-in type classification procedure for time-homogeneous SDE paths under low-noise conditions**|Eddy Michel Ella-Mintsa et.al.|[2603.00827](http://arxiv.org/abs/2603.00827)|null|
 |**2026-02-28**|**COMBAT: Conditional World Models for Behavioral Agent Training**|Anmol Agarwal et.al.|[2603.00825](http://arxiv.org/abs/2603.00825)|null|
@@ -670,6 +690,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**GlassMol: Interpretable Molecular Property Prediction with Concept Bottleneck Models**|Oscar Rivera et.al.|[2603.01274](http://arxiv.org/abs/2603.01274)|null|
 |**2026-03-01**|**MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules**|Idelfonso B. R. Nogueira et.al.|[2603.00857](http://arxiv.org/abs/2603.00857)|null|
 |**2026-02-28**|**Designing the Haystack: Programmable Chemical Space for Generative Molecular Discovery**|Yuchen Zhu et.al.|[2603.00614](http://arxiv.org/abs/2603.00614)|null|
 |**2026-02-28**|**Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions**|Yunqing Liu et.al.|[2603.00568](http://arxiv.org/abs/2603.00568)|null|
@@ -786,6 +807,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Quasiparticle level alignment in anthracene-MoS2 heterostructures**|Hsin-Mei Ho et.al.|[2603.02185](http://arxiv.org/abs/2603.02185)|null|
+|**2026-03-02**|**Efficient first-principles modeling of complex molecular crystals at sub-chemical accuracy**|Benjamin X. Shi et.al.|[2603.02180](http://arxiv.org/abs/2603.02180)|null|
+|**2026-03-02**|**Controlling Terahertz Spintronic Photocurrents in 2D-Semiconductor|Ferromagnet Heterostructures through a Functional Hybrid Interface**|A. Alostaz et.al.|[2603.02173](http://arxiv.org/abs/2603.02173)|null|
+|**2026-03-02**|**Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals**|Fernando M. Fernandes et.al.|[2603.02121](http://arxiv.org/abs/2603.02121)|null|
+|**2026-03-02**|**High-quality, high-information dataset for universal atomistic machine learning**|Cesare Malosso et.al.|[2603.02089](http://arxiv.org/abs/2603.02089)|null|
+|**2026-03-02**|**Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines**|Ding Pan et.al.|[2603.02075](http://arxiv.org/abs/2603.02075)|null|
+|**2026-03-02**|**Ionic Liquid-Driven Modulation of DNA Brush Morphology on Nanoparticle Surfaces**|Anuj Chhabra et.al.|[2603.02042](http://arxiv.org/abs/2603.02042)|null|
+|**2026-03-02**|**Wasserstein-based identification of metastable states in time series data via change point detection and segment clustering**|David Gentile et.al.|[2603.01989](http://arxiv.org/abs/2603.01989)|null|
+|**2026-03-02**|**Defect dependent dynamic nanoindentation hardness of copper up to 25 000 s-1**|Hendrik Holz et.al.|[2603.01845](http://arxiv.org/abs/2603.01845)|null|
+|**2026-03-02**|**Recent developments and applications of the relativistic chiral nuclear force**|Li-Sheng Geng et.al.|[2603.01819](http://arxiv.org/abs/2603.01819)|null|
 |**2026-03-01**|**Stress-driven dynamic evolution of core-shell structured cavities with H and He in BCC-Fe under fusion conditions**|Jin Wang et.al.|[2603.00867](http://arxiv.org/abs/2603.00867)|null|
 |**2026-03-01**|**Pressure-induced hypercoordination of iodine and dimerization of I2O6H in strontium di-iodate hydrogen-iodate (Sr(IO3)2HIO3)**|D. Errandonea et.al.|[2603.00848](http://arxiv.org/abs/2603.00848)|null|
 |**2026-02-28**|**TITAN: Twin-Informed Topology Adaptation for LAWN-enabled D2C Communication**|Talip Tolga Sarı et.al.|[2603.00795](http://arxiv.org/abs/2603.00795)|null|
@@ -1142,6 +1173,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**|Yiying Yang et.al.|[2603.02138](http://arxiv.org/abs/2603.02138)|null|
+|**2026-03-02**|**OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution**|Chong Xia et.al.|[2603.02134](http://arxiv.org/abs/2603.02134)|null|
+|**2026-03-02**|**Analysis of Stepped-Wedge Randomised Cluster Trial using a generalized pairwise comparison approach : a simulation study**|Yohan Bard et.al.|[2603.02003](http://arxiv.org/abs/2603.02003)|null|
+|**2026-03-02**|**SEAR: Sample Efficient Action Chunking Reinforcement Learning**|C. F. Maximilian Nagy et.al.|[2603.01891](http://arxiv.org/abs/2603.01891)|null|
+|**2026-03-02**|**Bi-TEAM: A Unified Cross-Scale Representation Learning Framework for Chemically Modified Biomolecules**|Chunbin Gu et.al.|[2603.01873](http://arxiv.org/abs/2603.01873)|null|
+|**2026-03-02**|**The Galaxy Stellar Mass-SFR-Size Relation in EAGLE, TNG100, and Observations**|Jiani Chu et.al.|[2603.01726](http://arxiv.org/abs/2603.01726)|null|
+|**2026-03-02**|**VectorMaton: Efficient Vector Search with Pattern Constraints via an Enhanced Suffix Automaton**|Haoxuan Xie et.al.|[2603.01525](http://arxiv.org/abs/2603.01525)|null|
+|**2026-03-02**|**FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation**|Hanxiao Wang et.al.|[2603.01515](http://arxiv.org/abs/2603.01515)|null|
+|**2026-03-02**|**ROSER: Few-Shot Robotic Sequence Retrieval for Scalable Robot Learning**|Zillur Rahman et.al.|[2603.01474](http://arxiv.org/abs/2603.01474)|null|
+|**2026-03-02**|**Exact bounds on quantum partial search algorithm and improving the parallel search**|Yan-Bo Jiang et.al.|[2603.01462](http://arxiv.org/abs/2603.01462)|null|
 |**2026-03-01**|**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**|Zhanpeng Luo et.al.|[2603.00905](http://arxiv.org/abs/2603.00905)|null|
 |**2026-03-01**|**Probabilistic Learning and Generation in Deep Sequence Models**|Wenlong Chen et.al.|[2603.00888](http://arxiv.org/abs/2603.00888)|null|
 |**2026-03-01**|**PPC-MT: Parallel Point Cloud Completion with Mamba-Transformer Hybrid Architecture**|Jie Li et.al.|[2603.00870](http://arxiv.org/abs/2603.00870)|null|
@@ -1485,6 +1526,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Symbol-Equivariant Recurrent Reasoning Models**|Richard Freinschlag et.al.|[2603.02193](http://arxiv.org/abs/2603.02193)|null|
+|**2026-03-02**|**Multi-Head Low-Rank Attention**|Songtao Liu et.al.|[2603.02188](http://arxiv.org/abs/2603.02188)|null|
+|**2026-03-02**|**How Small Can 6G Reason? Scaling Tiny Language Models for AI-Native Networks**|Mohamed Amine Ferrag et.al.|[2603.02156](http://arxiv.org/abs/2603.02156)|null|
+|**2026-03-02**|**Zero- and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)**|Miguel Lopez-Duran et.al.|[2603.02150](http://arxiv.org/abs/2603.02150)|null|
+|**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
+|**2026-03-02**|**LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations**|Veronika Solopova et.al.|[2603.02128](http://arxiv.org/abs/2603.02128)|null|
+|**2026-03-02**|**Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning**|Justin Waugh et.al.|[2603.02119](http://arxiv.org/abs/2603.02119)|null|
+|**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Byung-Kwan Lee et.al.|[2603.02099](http://arxiv.org/abs/2603.02099)|null|
+|**2026-03-02**|**OmniRet: Efficient and High-Fidelity Omni Modality Retrieval**|Chuong Huynh et.al.|[2603.02098](http://arxiv.org/abs/2603.02098)|null|
+|**2026-03-02**|**ClinConsensus: A Consensus-Based Benchmark for Evaluating Chinese Medical LLMs across Difficulty Levels**|Xiang Zheng et.al.|[2603.02097](http://arxiv.org/abs/2603.02097)|null|
 |**2026-03-01**|**Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization**|Theophilus Amaefuna et.al.|[2603.00910](http://arxiv.org/abs/2603.00910)|null|
 |**2026-03-01**|**KVSlimmer: Theoretical Insights and Practical Optimizations for Asymmetric KV Merging**|Lianjun Liu et.al.|[2603.00907](http://arxiv.org/abs/2603.00907)|null|
 |**2026-03-01**|**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**|Zhanpeng Luo et.al.|[2603.00905](http://arxiv.org/abs/2603.00905)|null|
