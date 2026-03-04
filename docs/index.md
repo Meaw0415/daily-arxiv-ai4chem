@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Coalgebras for categorical deep learning: Representability and universal approximation**|Dragan Mašulović et.al.|[2603.03227](http://arxiv.org/abs/2603.03227)|null|
 |**2026-03-03**|**Quantum-Inspired Hamiltonian Feature Extraction for ADMET Prediction: A Simulation Study**|B. Maurice Benson et.al.|[2603.03109](http://arxiv.org/abs/2603.03109)|null|
 |**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[2603.03106](http://arxiv.org/abs/2603.03106)|null|
 |**2026-03-03**|**Odin: Multi-Signal Graph Intelligence for Autonomous Discovery in Knowledge Graphs**|Muyukani Kizito et.al.|[2603.03097](http://arxiv.org/abs/2603.03097)|null|
@@ -283,6 +284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
+|**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
+|**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
+|**2026-03-03**|**DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction**|Yufu Wang et.al.|[2603.03265](http://arxiv.org/abs/2603.03265)|null|
+|**2026-03-03**|**COP-GEN: Latent Diffusion Transformer for Copernicus Earth Observation Data -- Generation Stochastic by Design**|Miguel Espinosa et.al.|[2603.03239](http://arxiv.org/abs/2603.03239)|null|
+|**2026-03-03**|**Inverse Reconstruction of Shock Time Series from Shock Response Spectrum Curves using Machine Learning**|Adam Watts et.al.|[2603.03229](http://arxiv.org/abs/2603.03229)|null|
+|**2026-03-03**|**Infinite dimensional generative sensing**|Paolo Angella et.al.|[2603.03196](http://arxiv.org/abs/2603.03196)|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|null|
+|**2026-03-03**|**Kling-MotionControl Technical Report**|Kling Team et.al.|[2603.03160](http://arxiv.org/abs/2603.03160)|null|
+|**2026-03-03**|**Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing**|Jiyuan Wang et.al.|[2603.03143](http://arxiv.org/abs/2603.03143)|null|
 |**2026-03-03**|**Odin: Multi-Signal Graph Intelligence for Autonomous Discovery in Knowledge Graphs**|Muyukani Kizito et.al.|[2603.03097](http://arxiv.org/abs/2603.03097)|null|
 |**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
 |**2026-03-03**|**QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks**|Inhoe Koo et.al.|[2603.03045](http://arxiv.org/abs/2603.03045)|null|
@@ -829,6 +840,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Dynamical magnetic susceptibility of non-collinear magnets: A novel KKR-based ab initio scheme and its application**|David Eilmsteiner et.al.|[2603.03220](http://arxiv.org/abs/2603.03220)|null|
+|**2026-03-03**|**Anisotropic magnetoelastic coupling in the honeycomb magnet Na $_3$Co$_2$SbO$_6$**|Prashanta K. Mukharjee et.al.|[2603.03214](http://arxiv.org/abs/2603.03214)|null|
+|**2026-03-03**|**Influence of stacking, coordination, and surface chemistry on Al intercalation in V $_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries**|Amal Raj Veluthedath Nair et.al.|[2603.03133](http://arxiv.org/abs/2603.03133)|null|
 |**2026-03-03**|**A Perturbative Super-CI Approach for orbital optimization in Two-Component relativistic CASSCF**|Yang Guo et.al.|[2603.03013](http://arxiv.org/abs/2603.03013)|null|
 |**2026-03-03**|**LAGO: A Local-Global Optimization Framework Combining Trust Region Methods and Bayesian Optimization**|Eliott Van Dieren et.al.|[2603.02970](http://arxiv.org/abs/2603.02970)|null|
 |**2026-03-03**|**Reducing Labeling Effort in Architecture Technical Debt Detection through Active Learning and Explainable AI**|Edi Sutoyo et.al.|[2603.02944](http://arxiv.org/abs/2603.02944)|null|
@@ -1205,6 +1219,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
+|**2026-03-03**|**The elbow statistic: Multiscale clustering statistical significance**|Francisco J. Perez-Reche et.al.|[2603.03235](http://arxiv.org/abs/2603.03235)|null|
+|**2026-03-03**|**Multiparty Quantum Key Agreement: Architectures, State-of-the-art, and Open Problems**|Malik Mouaji et.al.|[2603.03225](http://arxiv.org/abs/2603.03225)|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|null|
 |**2026-03-03**|**Context Adaptive Extended Chain Coding for Semantic Map Compression**|Runyu Yang et.al.|[2603.03073](http://arxiv.org/abs/2603.03073)|null|
 |**2026-03-03**|**QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks**|Inhoe Koo et.al.|[2603.03045](http://arxiv.org/abs/2603.03045)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
@@ -1568,6 +1586,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
+|**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
+|**2026-03-03**|**Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?**|Dadi Guo et.al.|[2603.03202](http://arxiv.org/abs/2603.03202)|null|
+|**2026-03-03**|**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**|Ziyang Gong et.al.|[2603.03198](http://arxiv.org/abs/2603.03198)|null|
+|**2026-03-03**|**MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization**|Ashutosh Chaubey et.al.|[2603.03192](http://arxiv.org/abs/2603.03192)|null|
+|**2026-03-03**|**Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling**|Y. Zhong et.al.|[2603.03180](http://arxiv.org/abs/2603.03180)|null|
+|**2026-03-03**|**Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification**|Aman Kumar et.al.|[2603.03175](http://arxiv.org/abs/2603.03175)|null|
+|**2026-03-03**|**Information Routing in Atomistic Foundation Models: How Equivariance Creates Linearly Disentangled Representations**|Joshua Steier et.al.|[2603.03155](http://arxiv.org/abs/2603.03155)|null|
+|**2026-03-03**|**From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?**|Shinas Shaji et.al.|[2603.03148](http://arxiv.org/abs/2603.03148)|null|
+|**2026-03-03**|**Agentic AI-based Coverage Closure for Formal Verification**|Sivaram Pothireddypalli et.al.|[2603.03147](http://arxiv.org/abs/2603.03147)|null|
 |**2026-03-03**|**Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation**|Hongliu Cao et.al.|[2603.03116](http://arxiv.org/abs/2603.03116)|null|
 |**2026-03-03**|**Compact Prompting in Instruction-tuned LLMs for Joint Argumentative Component Detection**|Sofiane Elguendouze et.al.|[2603.03095](http://arxiv.org/abs/2603.03095)|null|
 |**2026-03-03**|**TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models**|Zhi Xu et.al.|[2603.03081](http://arxiv.org/abs/2603.03081)|null|
