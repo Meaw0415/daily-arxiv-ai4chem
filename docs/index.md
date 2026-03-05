@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Molecular Representation & Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation**|Yunxiao Shi et.al.|[2603.03761](http://arxiv.org/abs/2603.03761)|null|
+|**2026-03-04**|**Local Shapley: Model-Induced Locality and Optimal Reuse in Data Valuation**|Xuan Yang et.al.|[2603.03672](http://arxiv.org/abs/2603.03672)|null|
+|**2026-03-04**|**Graph Negative Feedback Bias Correction Framework for Adaptive Heterophily Modeling**|Jiaqi Lv et.al.|[2603.03662](http://arxiv.org/abs/2603.03662)|null|
 |**2026-03-03**|**Coalgebras for categorical deep learning: Representability and universal approximation**|Dragan Mašulović et.al.|[2603.03227](http://arxiv.org/abs/2603.03227)|null|
 |**2026-03-03**|**Quantum-Inspired Hamiltonian Feature Extraction for ADMET Prediction: A Simulation Study**|B. Maurice Benson et.al.|[2603.03109](http://arxiv.org/abs/2603.03109)|null|
 |**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[2603.03106](http://arxiv.org/abs/2603.03106)|null|
@@ -284,6 +287,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Lyapunov Stability of Stochastic Vector Optimization: Theory and Numerical Implementation**|Thiago Santos et.al.|[2603.04095](http://arxiv.org/abs/2603.04095)|null|
+|**2026-03-04**|**Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models**|Ziyuan Chen et.al.|[2603.04064](http://arxiv.org/abs/2603.04064)|null|
+|**2026-03-04**|**TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth**|Valentin Biller et.al.|[2603.04058](http://arxiv.org/abs/2603.04058)|null|
+|**2026-03-04**|**Multi-Stage Music Source Restoration with BandSplit-RoFormer Separation and HiFi++ GAN**|Tobias Morocutti et.al.|[2603.04032](http://arxiv.org/abs/2603.04032)|null|
+|**2026-03-04**|**Volumetric Directional Diffusion: Anchoring Uncertainty Quantification in Anatomical Consensus for Ambiguous Medical Image Segmentation**|Chao Wu et.al.|[2603.04024](http://arxiv.org/abs/2603.04024)|null|
+|**2026-03-04**|**Training-Free Rate-Distortion-Perception Traversal With Diffusion**|Yuhan Wang et.al.|[2603.04005](http://arxiv.org/abs/2603.04005)|null|
+|**2026-03-04**|**Dielectric Barrier Corona Discharge Anomaly by Ionic Wind under Unipolar Voltage Excitation**|Gan Fu et.al.|[2603.03986](http://arxiv.org/abs/2603.03986)|null|
+|**2026-03-04**|**Dual-Solver: A Generalized ODE Solver for Diffusion Models with Dual Prediction**|Soochul Park et.al.|[2603.03973](http://arxiv.org/abs/2603.03973)|null|
+|**2026-03-04**|**Lang2Str: Two-Stage Crystal Structure Generation with LLMs and Continuous Flow Models**|Cong Liu et.al.|[2603.03946](http://arxiv.org/abs/2603.03946)|null|
+|**2026-03-04**|**Harnessing Selective State Space Models to Enhance Semianalytical Design of Fabrication-Ready Multilayered Huygens' Metasurfaces: Part II - Generative Inverse Design (MetaMamba)**|Natanel Nissan et.al.|[2603.03877](http://arxiv.org/abs/2603.03877)|null|
 |**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
 |**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
 |**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
@@ -721,6 +734,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Mozi: Governed Autonomy for Drug Discovery LLM Agents**|He Cao et.al.|[2603.03655](http://arxiv.org/abs/2603.03655)|null|
+|**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et.al.|[2603.03517](http://arxiv.org/abs/2603.03517)|null|
 |**2026-03-03**|**Quantum-Inspired Hamiltonian Feature Extraction for ADMET Prediction: A Simulation Study**|B. Maurice Benson et.al.|[2603.03109](http://arxiv.org/abs/2603.03109)|null|
 |**2026-03-01**|**GlassMol: Interpretable Molecular Property Prediction with Concept Bottleneck Models**|Oscar Rivera et.al.|[2603.01274](http://arxiv.org/abs/2603.01274)|null|
 |**2026-03-01**|**MultiPUFFIN: A Multimodal Domain-Constrained Foundation Model for Molecular Property Prediction of Small Molecules**|Idelfonso B. R. Nogueira et.al.|[2603.00857](http://arxiv.org/abs/2603.00857)|null|
@@ -769,6 +784,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**MMAI Gym for Science: Training Liquid Foundation Models for Drug Discovery**|Maksim Kuznetsov et.al.|[2603.03517](http://arxiv.org/abs/2603.03517)|null|
 |**2026-03-03**|**Autocatalytic Cores in Reaction Networks with Explicit Catalysis**|Richard Golnik et.al.|[2603.02770](http://arxiv.org/abs/2603.02770)|null|
 |**2026-02-27**|**Interfacial properties of MoS2 thin films grown on functional substrates**|Hafiz Sami Ur Rehman et.al.|[2603.00271](http://arxiv.org/abs/2603.00271)|null|
 |**2026-02-27**|**Duality of Theoretical Approaches to Understand the Electrical Double Layer in Concentrated Electrolytes**|Zachary A. H. Goodwin et.al.|[2602.24205](http://arxiv.org/abs/2602.24205)|null|
@@ -840,6 +856,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units**|Udari De Alwis et.al.|[2603.04092](http://arxiv.org/abs/2603.04092)|null|
+|**2026-03-04**|**Study of flow of crystals and deformable particles in a channel and the effective segregation of soft and hard particles**|Padmanabha Bose et.al.|[2603.04075](http://arxiv.org/abs/2603.04075)|null|
+|**2026-03-04**|**Lang2Str: Two-Stage Crystal Structure Generation with LLMs and Continuous Flow Models**|Cong Liu et.al.|[2603.03946](http://arxiv.org/abs/2603.03946)|null|
+|**2026-03-04**|**A Structurally Localized Ensemble Kalman Filtering Approach**|Boujemaa Ait-El-Fquih et.al.|[2603.03926](http://arxiv.org/abs/2603.03926)|null|
+|**2026-03-03**|**Sequence and Image Transformations with Monarq: Quantum Implementations for NISQ Devices**|Jan Balewski et.al.|[2603.03582](http://arxiv.org/abs/2603.03582)|null|
+|**2026-03-03**|**Predicting Spin-Crossover Behavior in Metal-Organic Frameworks from Limited and Noisy Data Using Quantile Active Learning**|Ashna Jose et.al.|[2603.03545](http://arxiv.org/abs/2603.03545)|null|
+|**2026-03-03**|**Orbital Transformers for Predicting Wavefunctions in Time-Dependent Density Functional Theory**|Xuan Zhang et.al.|[2603.03511](http://arxiv.org/abs/2603.03511)|null|
+|**2026-03-03**|**Enhanced superconductivity in palladium hydrides by non-perturbative electron-phonon effects**|Raffaello Bianco et.al.|[2603.03492](http://arxiv.org/abs/2603.03492)|null|
+|**2026-03-03**|**Quantum Theory of Functionally Graded Materials**|Michael J. Landry et.al.|[2603.03424](http://arxiv.org/abs/2603.03424)|null|
 |**2026-03-03**|**Dynamical magnetic susceptibility of non-collinear magnets: A novel KKR-based ab initio scheme and its application**|David Eilmsteiner et.al.|[2603.03220](http://arxiv.org/abs/2603.03220)|null|
 |**2026-03-03**|**Anisotropic magnetoelastic coupling in the honeycomb magnet Na $_3$Co$_2$SbO$_6$**|Prashanta K. Mukharjee et.al.|[2603.03214](http://arxiv.org/abs/2603.03214)|null|
 |**2026-03-03**|**Influence of stacking, coordination, and surface chemistry on Al intercalation in V $_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries**|Amal Raj Veluthedath Nair et.al.|[2603.03133](http://arxiv.org/abs/2603.03133)|null|
@@ -1219,6 +1244,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Inference-Time Toxicity Mitigation in Protein Language Models**|Manuel Fernández Burda et.al.|[2603.04045](http://arxiv.org/abs/2603.04045)|null|
+|**2026-03-04**|**Structural Action Transformer for 3D Dexterous Manipulation**|Xiaohan Lei et.al.|[2603.03960](http://arxiv.org/abs/2603.03960)|null|
+|**2026-03-04**|**Plug-and-Play blind super-resolution of real MRI images for improved multiple sclerosis diagnosis**|Matteo Cannas et.al.|[2603.03876](http://arxiv.org/abs/2603.03876)|null|
+|**2026-03-04**|**DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation**|Tuan Duc Ngo et.al.|[2603.03744](http://arxiv.org/abs/2603.03744)|null|
+|**2026-03-04**|**TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory**|Minwoo Jung et.al.|[2603.03695](http://arxiv.org/abs/2603.03695)|null|
+|**2026-03-03**|**Learning functional groups in complex microbiomes**|Matthew S Schmitt et.al.|[2603.03547](http://arxiv.org/abs/2603.03547)|null|
 |**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
 |**2026-03-03**|**The elbow statistic: Multiscale clustering statistical significance**|Francisco J. Perez-Reche et.al.|[2603.03235](http://arxiv.org/abs/2603.03235)|null|
 |**2026-03-03**|**Multiparty Quantum Key Agreement: Architectures, State-of-the-art, and Open Problems**|Malik Mouaji et.al.|[2603.03225](http://arxiv.org/abs/2603.03225)|null|
@@ -1586,6 +1617,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Hindsight Quality Prediction Experiments in Multi-Candidate Human-Post-Edited Machine Translation**|Malik Marmonier et.al.|[2603.04083](http://arxiv.org/abs/2603.04083)|null|
+|**2026-03-04**|**Monitoring Emergent Reward Hacking During Generation via Internal Activations**|Patrick Wilhelm et.al.|[2603.04069](http://arxiv.org/abs/2603.04069)|null|
+|**2026-03-04**|**Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA**|Ikram Belmadani et.al.|[2603.04033](http://arxiv.org/abs/2603.04033)|null|
+|**2026-03-04**|**A Multi-Dimensional Quality Scoring Framework for Decentralized LLM Inference with Proof of Quality**|Arther Tian et.al.|[2603.04028](http://arxiv.org/abs/2603.04028)|null|
+|**2026-03-04**|**Discriminative Perception via Anchored Description for Reasoning Segmentation**|Tao Yang et.al.|[2603.04002](http://arxiv.org/abs/2603.04002)|null|
+|**2026-03-04**|**RIVER: A Real-Time Interaction Benchmark for Video LLMs**|Yansong Shi et.al.|[2603.03985](http://arxiv.org/abs/2603.03985)|null|
+|**2026-03-04**|**Lang2Str: Two-Stage Crystal Structure Generation with LLMs and Continuous Flow Models**|Cong Liu et.al.|[2603.03946](http://arxiv.org/abs/2603.03946)|null|
+|**2026-03-04**|**When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG**|Junchen Li et.al.|[2603.03919](http://arxiv.org/abs/2603.03919)|null|
+|**2026-03-04**|**Rethinking Role-Playing Evaluation: Anonymous Benchmarking and a Systematic Study of Personality Effects**|Ji-Lun Peng et.al.|[2603.03915](http://arxiv.org/abs/2603.03915)|null|
+|**2026-03-04**|**Measuring Privacy vs. Fidelity in Synthetic Social Media Datasets**|Henry Tari et.al.|[2603.03906](http://arxiv.org/abs/2603.03906)|null|
 |**2026-03-03**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
 |**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
 |**2026-03-03**|**Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?**|Dadi Guo et.al.|[2603.03202](http://arxiv.org/abs/2603.03202)|null|
