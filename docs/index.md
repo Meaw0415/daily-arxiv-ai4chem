@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks**|Matteo De Sanctis et.al.|[2603.04209](http://arxiv.org/abs/2603.04209)|null|
 |**2026-03-04**|**AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation**|Yunxiao Shi et.al.|[2603.03761](http://arxiv.org/abs/2603.03761)|null|
 |**2026-03-04**|**Local Shapley: Model-Induced Locality and Optimal Reuse in Data Valuation**|Xuan Yang et.al.|[2603.03672](http://arxiv.org/abs/2603.03672)|null|
 |**2026-03-04**|**Graph Negative Feedback Bias Correction Framework for Adaptive Heterophily Modeling**|Jiaqi Lv et.al.|[2603.03662](http://arxiv.org/abs/2603.03662)|null|
@@ -287,6 +288,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Accurate and Efficient Hybrid-Ensemble Atmospheric Data Assimilation in Latent Space with Uncertainty Quantification**|Hang Fan et.al.|[2603.04395](http://arxiv.org/abs/2603.04395)|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Low-Resource Guidance for Controllable Latent Audio Diffusion**|Zachary Novack et.al.|[2603.04366](http://arxiv.org/abs/2603.04366)|null|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
+|**2026-03-04**|**Dual Diffusion Models for Multi-modal Guided 3D Avatar Generation**|Hong Li et.al.|[2603.04307](http://arxiv.org/abs/2603.04307)|null|
+|**2026-03-04**|**CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**|Lingen Li et.al.|[2603.04291](http://arxiv.org/abs/2603.04291)|null|
+|**2026-03-04**|**LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints**|Jialiang Wei et.al.|[2603.04245](http://arxiv.org/abs/2603.04245)|null|
+|**2026-03-04**|**Semi-Supervised Generative Learning via Latent Space Distribution Matching**|Kwong Yu Chong et.al.|[2603.04223](http://arxiv.org/abs/2603.04223)|null|
+|**2026-03-04**|**FastWave: Optimized Diffusion Model for Audio Super-Resolution**|Nikita Kuznetsov et.al.|[2603.04122](http://arxiv.org/abs/2603.04122)|null|
 |**2026-03-04**|**Lyapunov Stability of Stochastic Vector Optimization: Theory and Numerical Implementation**|Thiago Santos et.al.|[2603.04095](http://arxiv.org/abs/2603.04095)|null|
 |**2026-03-04**|**Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models**|Ziyuan Chen et.al.|[2603.04064](http://arxiv.org/abs/2603.04064)|null|
 |**2026-03-04**|**TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth**|Valentin Biller et.al.|[2603.04058](http://arxiv.org/abs/2603.04058)|null|
@@ -856,6 +867,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**Ab initio study of saddle-point excitons in monolayer SnS2**|Vinicius Alves Bastos et.al.|[2603.04294](http://arxiv.org/abs/2603.04294)|null|
+|**2026-03-04**|**False Metallization in Short-Ranged Machine Learned Interatomic Potentials**|Isaac J. Parker et.al.|[2603.04228](http://arxiv.org/abs/2603.04228)|null|
+|**2026-03-04**|**Electronic and structural properties of V $_2$O$_5$ layered polymorphs**|Sakthi Kasthurirengan et.al.|[2603.04193](http://arxiv.org/abs/2603.04193)|null|
+|**2026-03-04**|**Machine-learned Interatomic Potential for Ti $_{n+1}$C$_n$ MXenes: Application to Ion Irradiation Simulations**|Jesper Byggmästar et.al.|[2603.04152](http://arxiv.org/abs/2603.04152)|null|
+|**2026-03-04**|**Dispersion and lifetimes of magnons in non-collinear magnets from time dependent density functional theory**|David Eilmsteiner et.al.|[2603.04111](http://arxiv.org/abs/2603.04111)|null|
+|**2026-03-04**|**Optimally Tuned Multiconfigurational Short-Range DFT for Linear Response Properties**|Michał Hapka et.al.|[2603.04106](http://arxiv.org/abs/2603.04106)|null|
+|**2026-03-04**|**Machine learning assisted High-Throughput study of M $_4$X$_3$T$_x$ MXenes**|Sakshi Goel et.al.|[2603.04103](http://arxiv.org/abs/2603.04103)|null|
 |**2026-03-04**|**Characterizing Machine Learning Force Fields as Emerging Molecular Dynamics Workloads on Graphics Processing Units**|Udari De Alwis et.al.|[2603.04092](http://arxiv.org/abs/2603.04092)|null|
 |**2026-03-04**|**Study of flow of crystals and deformable particles in a channel and the effective segregation of soft and hard particles**|Padmanabha Bose et.al.|[2603.04075](http://arxiv.org/abs/2603.04075)|null|
 |**2026-03-04**|**Lang2Str: Two-Stage Crystal Structure Generation with LLMs and Continuous Flow Models**|Cong Liu et.al.|[2603.03946](http://arxiv.org/abs/2603.03946)|null|
@@ -1244,6 +1263,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection**|Dacheng Qi et.al.|[2603.04337](http://arxiv.org/abs/2603.04337)|null|
+|**2026-03-04**|**Breaking Bad Email Habits: Bounding the Impact of Simulated Phishing Campaigns**|Muhammad Zia Hydari et.al.|[2603.04324](http://arxiv.org/abs/2603.04324)|null|
+|**2026-03-04**|**A multi-center analysis of deep learning methods for video polyp detection and segmentation**|Noha Ghatwary et.al.|[2603.04288](http://arxiv.org/abs/2603.04288)|null|
+|**2026-03-04**|**ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos**|Luigi Seminara et.al.|[2603.04265](http://arxiv.org/abs/2603.04265)|null|
+|**2026-03-04**|**Understanding Sources of Demographic Predictability in Brain MRI via Disentangling Anatomy and Contrast**|Mehmet Yigit Avci et.al.|[2603.04113](http://arxiv.org/abs/2603.04113)|null|
 |**2026-03-04**|**Inference-Time Toxicity Mitigation in Protein Language Models**|Manuel Fernández Burda et.al.|[2603.04045](http://arxiv.org/abs/2603.04045)|null|
 |**2026-03-04**|**Structural Action Transformer for 3D Dexterous Manipulation**|Xiaohan Lei et.al.|[2603.03960](http://arxiv.org/abs/2603.03960)|null|
 |**2026-03-04**|**Plug-and-Play blind super-resolution of real MRI images for improved multiple sclerosis diagnosis**|Matteo Cannas et.al.|[2603.03876](http://arxiv.org/abs/2603.03876)|null|
@@ -1617,6 +1641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390](http://arxiv.org/abs/2603.04390)|null|
+|**2026-03-04**|**Robustness of Agentic AI Systems via Adversarially-Aligned Jacobian Regularization**|Furkan Mumcu et.al.|[2603.04378](http://arxiv.org/abs/2603.04378)|null|
+|**2026-03-04**|**Underrepresented in Foundation Model Pretraining Data? A One-Shot Probe**|Chris Vorster et.al.|[2603.04346](http://arxiv.org/abs/2603.04346)|null|
+|**2026-03-04**|**Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection**|Dacheng Qi et.al.|[2603.04337](http://arxiv.org/abs/2603.04337)|null|
+|**2026-03-04**|**World Properties without World Models: Recovering Spatial and Temporal Structure from Co-occurrence Statistics in Static Word Embeddings**|Elan Barenholtz et.al.|[2603.04317](http://arxiv.org/abs/2603.04317)|null|
+|**2026-03-04**|**Theory Discovery in Social Networks: Automating ERGM Specification with Large Language Models**|Yidan Sun et.al.|[2603.04306](http://arxiv.org/abs/2603.04306)|null|
+|**2026-03-04**|**The Company You Keep: How LLMs Respond to Dark Triad Traits**|Zeyi Lu et.al.|[2603.04299](http://arxiv.org/abs/2603.04299)|null|
+|**2026-03-04**|**Position: Vector Prompt Interfaces Should Be Exposed to Enable Customization of Large Language Models**|Liangwei Yang et.al.|[2603.04292](http://arxiv.org/abs/2603.04292)|null|
+|**2026-03-04**|**Causality Elicitation from Large Language Models**|Takashi Kameyama et.al.|[2603.04276](http://arxiv.org/abs/2603.04276)|null|
+|**2026-03-04**|**SSR: A Generic Framework for Text-Aided Map Compression for Localization**|Mohammad Omama et.al.|[2603.04272](http://arxiv.org/abs/2603.04272)|null|
 |**2026-03-04**|**Hindsight Quality Prediction Experiments in Multi-Candidate Human-Post-Edited Machine Translation**|Malik Marmonier et.al.|[2603.04083](http://arxiv.org/abs/2603.04083)|null|
 |**2026-03-04**|**Monitoring Emergent Reward Hacking During Generation via Internal Activations**|Patrick Wilhelm et.al.|[2603.04069](http://arxiv.org/abs/2603.04069)|null|
 |**2026-03-04**|**Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA**|Ikram Belmadani et.al.|[2603.04033](http://arxiv.org/abs/2603.04033)|null|
