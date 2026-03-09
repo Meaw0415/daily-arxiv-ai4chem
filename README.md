@@ -976,7 +976,7 @@
 |**2026-03-02**|**The contribution of nitrogen Frenkel-pair formation to the high-temperature heat capacity of uranium mononitride**|Mohamed AbdulHameed et.al.|[2603.02441](http://arxiv.org/abs/2603.02441)|null|
 |**2026-03-02**|**Quasiparticle level alignment in anthracene-MoS2 heterostructures**|Hsin-Mei Ho et.al.|[2603.02185](http://arxiv.org/abs/2603.02185)|null|
 |**2026-03-02**|**Efficient first-principles modeling of complex molecular crystals at sub-chemical accuracy**|Benjamin X. Shi et.al.|[2603.02180](http://arxiv.org/abs/2603.02180)|null|
-|**2026-03-02**|**Controlling Terahertz Spintronic Photocurrents in 2D-Semiconductor|Ferromagnet Heterostructures through a Functional Hybrid Interface**|A. Alostaz et.al.|[2603.02173](http://arxiv.org/abs/2603.02173)|null|
+|**2026-03-02**|**Controlling Terahertz Spintronic Photocurrents in 2D-Semiconductor|Ferromagnet Heterostructures through a Functional Hybrid Interface**|A. Alostaz et.al.|[2603.02173](http://arxiv.org/abs/2603.02173)|
 |**2026-03-02**|**Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals**|Fernando M. Fernandes et.al.|[2603.02121](http://arxiv.org/abs/2603.02121)|null|
 |**2026-03-02**|**High-quality, high-information dataset for universal atomistic machine learning**|Cesare Malosso et.al.|[2603.02089](http://arxiv.org/abs/2603.02089)|null|
 |**2026-03-02**|**Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines**|Ding Pan et.al.|[2603.02075](http://arxiv.org/abs/2603.02075)|null|
