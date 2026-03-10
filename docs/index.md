@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Characterization and upgrade of a quantum graph neural network for charged particle tracking**|Matteo Argenton et.al.|[2603.08667](http://arxiv.org/abs/2603.08667)|null|
+|**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551](http://arxiv.org/abs/2603.08551)|null|
+|**2026-03-09**|**PCFEx: Point Cloud Feature Extraction for Graph Neural Networks**|Abdullah Al Masud et.al.|[2603.08540](http://arxiv.org/abs/2603.08540)|null|
+|**2026-03-09**|**AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition**|Zhishu Liu et.al.|[2603.08387](http://arxiv.org/abs/2603.08387)|null|
+|**2026-03-09**|**SCL-GNN: Towards Generalizable Graph Neural Networks via Spurious Correlation Learning**|Yuxiang Zhang et.al.|[2603.08270](http://arxiv.org/abs/2603.08270)|null|
 |**2026-03-09**|**Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach**|Yunhui Liu et.al.|[2603.08137](http://arxiv.org/abs/2603.08137)|null|
 |**2026-03-09**|**Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases**|Jun Yin et.al.|[2603.07916](http://arxiv.org/abs/2603.07916)|null|
 |**2026-03-08**|**Learning the APT Kill Chain: Temporal Reasoning over Provenance Data for Attack Stage Estimation**|Trung V. Phan et.al.|[2603.07560](http://arxiv.org/abs/2603.07560)|null|
@@ -311,6 +316,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Scale Space Diffusion**|Soumik Mukhopadhyay et.al.|[2603.08709](http://arxiv.org/abs/2603.08709)|null|
+|**2026-03-09**|**HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising**|Kai Zou et.al.|[2603.08703](http://arxiv.org/abs/2603.08703)|null|
+|**2026-03-09**|**Context-free Self-Conditioned GAN for Trajectory Forecasting**|Tiago Rodrigues de Almeida et.al.|[2603.08658](http://arxiv.org/abs/2603.08658)|null|
+|**2026-03-09**|**UNBOX: Unveiling Black-box visual models with Natural-language**|Simone Carnemolla et.al.|[2603.08639](http://arxiv.org/abs/2603.08639)|null|
+|**2026-03-09**|**PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition**|Zeyu Ling et.al.|[2603.08590](http://arxiv.org/abs/2603.08590)|null|
+|**2026-03-09**|**Generative Adversarial Regression (GAR): Learning Conditional Risk Scenarios**|Saeed Asadi et.al.|[2603.08553](http://arxiv.org/abs/2603.08553)|null|
+|**2026-03-09**|**Interactive World Simulator for Robot Policy Training and Evaluation**|Yixuan Wang et.al.|[2603.08546](http://arxiv.org/abs/2603.08546)|null|
+|**2026-03-09**|**SWIFT: Sliding Window Reconstruction for Few-Shot Training-Free Generated Video Attribution**|Chao Wang et.al.|[2603.08536](http://arxiv.org/abs/2603.08536)|null|
+|**2026-03-09**|**AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models**|Xiaoquan Sun et.al.|[2603.08519](http://arxiv.org/abs/2603.08519)|null|
+|**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](http://arxiv.org/abs/2603.08483)|null|
 |**2026-03-09**|**Is continuous CoT better suited for multi-lingual reasoning?**|Ali Hamza Bashir et.al.|[2603.08177](http://arxiv.org/abs/2603.08177)|null|
 |**2026-03-09**|**C $^2$ FG: Control Classifier-Free Guidance via Score Discrepancy Analysis**|Jiayang Gao et.al.|[2603.08155](http://arxiv.org/abs/2603.08155)|null|
 |**2026-03-09**|**Fourier Transform Infrared microspectroscopy-based super-resolution virtual staining of unlabeled tissues by pixel Diffusion Transformer**|Yudong Tian et.al.|[2603.08143](http://arxiv.org/abs/2603.08143)|null|
@@ -929,6 +944,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**A note on large-scale quantum chemistry on quantum computers: the case of a molecule with half-Möbius topology**|Samuele Piccinelli et.al.|[2603.08696](http://arxiv.org/abs/2603.08696)|null|
+|**2026-03-09**|**Real-Time Drone Detection in Event Cameras via Per-Pixel Frequency Analysis**|Michael Bezick et.al.|[2603.08386](http://arxiv.org/abs/2603.08386)|null|
 |**2026-03-09**|**Semiclassical description of Interatomic Coulombic Electron Capture in solutions**|Nicolas Sisourat et.al.|[2603.08115](http://arxiv.org/abs/2603.08115)|null|
 |**2026-03-09**|**Non-Markovian heat production in ultrafast phonon dynamics**|Fredrik Erikssonm Yulong Qiao et.al.|[2603.08027](http://arxiv.org/abs/2603.08027)|null|
 |**2026-03-09**|**Melting behavior and dynamical properties of Cr2Ge2Te6 phase-change material**|Suyang Sun et.al.|[2603.08005](http://arxiv.org/abs/2603.08005)|null|
@@ -1355,6 +1372,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Informational Cardinality: A Unifying Framework for Set Theory, Fractal Geometry, and Analytic Number Theory**|Zhengqiang Li et.al.|[2603.08587](http://arxiv.org/abs/2603.08587)|null|
+|**2026-03-09**|**Multi-epoch afterglow rebrightenings in GRB 250129A: Evidence for successive shock interactions**|D. Akl et.al.|[2603.08555](http://arxiv.org/abs/2603.08555)|null|
+|**2026-03-09**|**Intrinsic Sequentiality in P: Causal Limits of Parallel Computation**|Jing-Yuan Wei et.al.|[2603.08471](http://arxiv.org/abs/2603.08471)|null|
+|**2026-03-09**|**StructBiHOI: Structured Articulation Modeling for Long--Horizon Bimanual Hand--Object Interaction Generation**|Zhi Wang et.al.|[2603.08390](http://arxiv.org/abs/2603.08390)|null|
+|**2026-03-09**|**A Hierarchical Error-Corrective Graph Framework for Autonomous Agents with LLM-Based Action Generation**|Cong Cao et.al.|[2603.08388](http://arxiv.org/abs/2603.08388)|null|
+|**2026-03-09**|**Structure from Rank: Rank-Order Coding as a Bridge from Sequence to Structure**|Xiaodan Chen et.al.|[2603.08380](http://arxiv.org/abs/2603.08380)|null|
+|**2026-03-09**|**Rethinking Attention Output Projection: Structured Hadamard Transforms for Efficient Transformers**|Shubham Aggarwal et.al.|[2603.08343](http://arxiv.org/abs/2603.08343)|null|
+|**2026-03-09**|**A reaction-diffusion model for describing the ring/gap structure in disks surrounding individual young stars**|Enrique Lopez-Cabarcos et.al.|[2603.08314](http://arxiv.org/abs/2603.08314)|null|
+|**2026-03-09**|**TA-RNN-Medical-Hybrid: A Time-Aware and Interpretable Framework for Mortality Risk Prediction**|Zahra Jafari et.al.|[2603.08278](http://arxiv.org/abs/2603.08278)|null|
 |**2026-03-09**|**Tau-BNO: Brain Neural Operator for Tau Transport Model**|Nuutti Barron et.al.|[2603.08108](http://arxiv.org/abs/2603.08108)|null|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055](http://arxiv.org/abs/2603.08055)|null|
 |**2026-03-09**|**Higher operad structure for Fukaya categories**|Hang Yuan et.al.|[2603.08039](http://arxiv.org/abs/2603.08039)|null|
@@ -1763,6 +1789,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Agentic Critical Training**|Weize Liu et.al.|[2603.08706](http://arxiv.org/abs/2603.08706)|null|
+|**2026-03-09**|**Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines**|Akshay Gulati et.al.|[2603.08704](http://arxiv.org/abs/2603.08704)|null|
+|**2026-03-09**|**UNBOX: Unveiling Black-box visual models with Natural-language**|Simone Carnemolla et.al.|[2603.08639](http://arxiv.org/abs/2603.08639)|null|
+|**2026-03-09**|**Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations**|Jiangye Yuan et.al.|[2603.08592](http://arxiv.org/abs/2603.08592)|null|
+|**2026-03-09**|**RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback**|Xiaoying Zhang et.al.|[2603.08561](http://arxiv.org/abs/2603.08561)|null|
+|**2026-03-09**|**SecAgent: Efficient Mobile GUI Agent with Semantic Context**|Yiping Xie et.al.|[2603.08533](http://arxiv.org/abs/2603.08533)|null|
+|**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
+|**2026-03-09**|**AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models**|Xiaoquan Sun et.al.|[2603.08519](http://arxiv.org/abs/2603.08519)|null|
+|**2026-03-09**|**Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA**|Ummar Abbas et.al.|[2603.08501](http://arxiv.org/abs/2603.08501)|null|
+|**2026-03-09**|**Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images**|Qishun Yang et.al.|[2603.08486](http://arxiv.org/abs/2603.08486)|null|
 |**2026-03-09**|**SERQ: Saliency-Aware Low-Rank Error Reconstruction for LLM Quantization**|Yeonsik Park et.al.|[2603.08185](http://arxiv.org/abs/2603.08185)|null|
 |**2026-03-09**|**TildeOpen LLM: Leveraging Curriculum Learning to Achieve Equitable Language Representation**|Toms Bergmanis et.al.|[2603.08182](http://arxiv.org/abs/2603.08182)|null|
 |**2026-03-09**|**AutoAdapt: An Automated Domain Adaptation Framework for LLMs**|Sidharth Sinha et.al.|[2603.08181](http://arxiv.org/abs/2603.08181)|null|
