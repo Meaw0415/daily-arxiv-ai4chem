@@ -337,6 +337,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
+|**2026-03-12**|**The Latent Color Subspace: Emergent Order in High-Dimensional Chaos**|Mateusz Pach et.al.|[2603.12261](http://arxiv.org/abs/2603.12261)|null|
+|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
+|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
+|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
+|**2026-03-12**|**Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation**|Xiangyu Zhao et.al.|[2603.12247](http://arxiv.org/abs/2603.12247)|null|
+|**2026-03-12**|**BiGain: Unified Token Compression for Joint Generation and Classification**|Jiacheng Liu et.al.|[2603.12240](http://arxiv.org/abs/2603.12240)|null|
+|**2026-03-12**|**SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation**|Jun Luo et.al.|[2603.12238](http://arxiv.org/abs/2603.12238)|null|
+|**2026-03-12**|**Temporal Straightening for Latent Planning**|Ying Wang et.al.|[2603.12231](http://arxiv.org/abs/2603.12231)|null|
+|**2026-03-12**|**Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights**|Yulu Gan et.al.|[2603.12228](http://arxiv.org/abs/2603.12228)|null|
 |**2026-03-12**|**EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation**|Yan Li et.al.|[2603.12108](http://arxiv.org/abs/2603.12108)|null|
 |**2026-03-12**|**Coarse-Guided Visual Generation via Weighted h-Transform Sampling**|Yanghao Wang et.al.|[2603.12057](http://arxiv.org/abs/2603.12057)|null|
 |**2026-03-12**|**Efficient Generative Modeling with Unitary Matrix Product States Using Riemannian Optimization**|Haotong Duan et.al.|[2603.12026](http://arxiv.org/abs/2603.12026)|null|
@@ -864,6 +874,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Binding Free Energies without Alchemy**|Michael Brocidiacono et.al.|[2603.12253](http://arxiv.org/abs/2603.12253)|null|
 |**2026-03-11**|**Co-Diffusion: An Affinity-Aware Two-Stage Latent Diffusion Framework for Generalizable Drug-Target Affinity Prediction**|Yining Qian et.al.|[2603.11125](http://arxiv.org/abs/2603.11125)|null|
 |**2026-03-10**|**Logos: An evolvable reasoning engine for rational molecular design**|Haibin Wen et.al.|[2603.09268](http://arxiv.org/abs/2603.09268)|null|
 |**2026-03-11**|**Network-based drug repurposing for MYH9-related nephritis**|Muhammad Ali et.al.|[2603.06112](http://arxiv.org/abs/2603.06112)|null|
@@ -997,6 +1008,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials**|Abhinaba Basu et.al.|[2603.12183](http://arxiv.org/abs/2603.12183)|null|
+|**2026-03-12**|**Raman relaxation in Yb(III) molecular qubits: non-trivial correlations between spin-phonon coupling and molecular structure**|Giacomo Sansone et.al.|[2603.12160](http://arxiv.org/abs/2603.12160)|null|
+|**2026-03-12**|**Irradiation-induced amplification of electric fields at oxide interfaces as revealed by correlative DPC-STEM and DFT**|Elizabeth A. Peterson et.al.|[2603.12153](http://arxiv.org/abs/2603.12153)|null|
+|**2026-03-12**|**ChemSICal-Net: Timing-Controlled Chemical Reaction Network for Successive Interference Cancellation in Molecular Multiple Access**|Alexander Wietfeld et.al.|[2603.12141](http://arxiv.org/abs/2603.12141)|null|
+|**2026-03-12**|**Note on a rigorous derivation of self-consistent double-hybrid functional theory via generalized Kohn-Sham theory and cumulant approximation**|Lan Nguyen Tran et.al.|[2603.12131](http://arxiv.org/abs/2603.12131)|null|
 |**2026-03-12**|**Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design**|Louis Sharrock et.al.|[2603.12102](http://arxiv.org/abs/2603.12102)|null|
 |**2026-03-12**|**RASP: Reliability ab initio simulation package of MOSFETs based on all-state model**|Xinjing Guo et.al.|[2603.12042](http://arxiv.org/abs/2603.12042)|null|
 |**2026-03-12**|**Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction**|Nuria H. Espejo et.al.|[2603.12017](http://arxiv.org/abs/2603.12017)|null|
@@ -1455,6 +1471,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Binding Free Energies without Alchemy**|Michael Brocidiacono et.al.|[2603.12253](http://arxiv.org/abs/2603.12253)|null|
+|**2026-03-12**|**One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers**|Moayed Haji-Ali et.al.|[2603.12245](http://arxiv.org/abs/2603.12245)|null|
+|**2026-03-12**|**Separable neural architectures as a primitive for unified predictive and generative intelligence**|Reza T. Batley et.al.|[2603.12244](http://arxiv.org/abs/2603.12244)|null|
+|**2026-03-12**|**Student experiences in a computational physics lab through the lens of Physics Computational Literacy**|Luke Nearhood et.al.|[2603.12158](http://arxiv.org/abs/2603.12158)|null|
+|**2026-03-12**|**Compactness in Dimension Five and Equivariant Noncompactness for the CR Yamabe Problem**|Claudio Afeltra et.al.|[2603.12157](http://arxiv.org/abs/2603.12157)|null|
+|**2026-03-12**|**New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices**|Nick Vorobtsov et.al.|[2603.12150](http://arxiv.org/abs/2603.12150)|null|
 |**2026-03-12**|**A Complete Graphic Statics for Rigid-Jointed 3D Frames. Part 2: Homology of loops**|Allan McRobie et.al.|[2603.12093](http://arxiv.org/abs/2603.12093)|null|
 |**2026-03-12**|**Topological Enhancement of Protein Kinetic Stability**|João NC Especial et.al.|[2603.12053](http://arxiv.org/abs/2603.12053)|null|
 |**2026-03-12**|**Structure of Flat Quadratic Quasi-Frobenius Lie Superalgebras via Double Extensions**|Sofiane Bouarroudj et.al.|[2603.11956](http://arxiv.org/abs/2603.11956)|null|
@@ -1902,6 +1924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning**|Haozhan Shen et.al.|[2603.12266](http://arxiv.org/abs/2603.12266)|null|
+|**2026-03-12**|**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**|Yiran Guan et.al.|[2603.12262](http://arxiv.org/abs/2603.12262)|null|
+|**2026-03-12**|**Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing**|Baifeng Shi et.al.|[2603.12254](http://arxiv.org/abs/2603.12254)|null|
+|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
+|**2026-03-12**|**Language Model Teams as Distributed Systems**|Elizabeth Mieczkowski et.al.|[2603.12229](http://arxiv.org/abs/2603.12229)|null|
+|**2026-03-12**|**Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration**|Priyanka Kargupta et.al.|[2603.12226](http://arxiv.org/abs/2603.12226)|null|
+|**2026-03-12**|**ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models**|Yingxin Lai et.al.|[2603.12208](http://arxiv.org/abs/2603.12208)|null|
+|**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Alexandre Le Mercier et.al.|[2603.12206](http://arxiv.org/abs/2603.12206)|null|
+|**2026-03-12**|**IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse**|Yushi Bai et.al.|[2603.12201](http://arxiv.org/abs/2603.12201)|null|
+|**2026-03-12**|**Long-Context Encoder Models for Polish Language Understanding**|Sławomir Dadas et.al.|[2603.12191](http://arxiv.org/abs/2603.12191)|null|
 |**2026-03-12**|**Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D**|Agniv Sharma et.al.|[2603.12126](http://arxiv.org/abs/2603.12126)|null|
 |**2026-03-12**|**Cross-Context Review: Improving LLM Output Quality by Separating Production and Review Sessions**|Tae-Eun Song et.al.|[2603.12123](http://arxiv.org/abs/2603.12123)|null|
 |**2026-03-12**|**SommBench: Assessing Sommelier Expertise of Language Models**|William Brach et.al.|[2603.12117](http://arxiv.org/abs/2603.12117)|null|
